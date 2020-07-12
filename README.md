@@ -8,8 +8,32 @@
     - Sou fã do Tolstói e Van Gogh.
     - Filosoficamente me alinho com a escola de pensamento OOO - Object Oriented Ontology (que não tem relação nenhuma com Orientação a Objetos da programação) de Graham Harman e Timothy Morton. Como abordagem prática de vida me chamaria de realista, mas me classificariam de pessimista (Pense em Schopenhauer e Thomas Ligotti ).
     - Me casei e meu nome passou a ser Ibrahim Cesar Nogueira Bevilacqua, mas carrego no email corporativo o código legado de um dos meus antigos sobrenomes.
+    - [Experiência profissional destacada](https://ibrahimcesar.dev/sobre/)
 - 😄 Ele/dele
 - 📫 ibrahim.souza@nexojornal.com.br
+
+### Stack 🔧
+- JavaScript
+- AWS - EC2 / ElasticBeanstlak / SES/ Lambda / API Gateway / CloudWatch / S3 / IAM
+- React
+- Node
+- CUE / CUE Front
+- Escenic
+- HTML
+- CSS
+- a11y
+- Perfomance
+- GraphQL
+- Express
+- Nginx
+- Apache
+- Java, só manutenção e camada visual
+- Bem pouco de Python, apenas uso como uma linguagem de script, envolvendo Numpy e Pandas
+- Ruby, bem enferrujado
+
+### Livros técnicos favoritos 📚
+
+- [Designing Data Intensive Applications](https://dataintensive.net/) *Um dos livros mais profundos e bem pesquisados que li, com riqueza de detalhes e com uma clareja rara. Obrigatório para se ter uma ideia dos trade-offs envolvidos com dados*
 
 ### Artigos em destaque 💭
 
