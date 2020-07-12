@@ -34,6 +34,9 @@
 ### Livros técnicos favoritos 📚
 
 - [Designing Data Intensive Applications](https://dataintensive.net/) *Um dos livros mais profundos e bem pesquisados que li, com riqueza de detalhes e com uma clareja rara. Obrigatório para se ter uma ideia dos trade-offs envolvidos com dados*
+- [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
+- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+- [Fundamentals of Software Architecture](https://www.oreilly.com/library/view/fundamentals-of-software/9781492043447/)
 
 ### Artigos em destaque 💭
 
