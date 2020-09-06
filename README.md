@@ -2,7 +2,7 @@
 
 ## Ibrahim Cesar aqui 👋
 
-- 🔭 Responsável pela tecnologia do Grupo Nexo:  [Nexo Jornal](https://www.nexojornal.com.br/), [Políticas Públicas](https://pp.nexojornal.com.br/) e [Revista Gama](https://gamarevista.com.br)
+- 🔭 Diretor de Tecnologia no  [Nexo Jornal](https://www.nexojornal.com.br/), [Políticas Públicas](https://pp.nexojornal.com.br/) e [Revista Gama](https://gamarevista.com.br)
 - 🌱 Atualmente estou aprendendo mais sobre testes e databases, infrastructure as code e serverless
 - ⚡ Fun facts: 
     - Sou fã do Tolstói e Van Gogh.
