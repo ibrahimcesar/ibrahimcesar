@@ -3,6 +3,7 @@
 ## Ibrahim Cesar aqui 👋
 
 - 🔭 Diretor de Tecnologia no  [Nexo Jornal](https://www.nexojornal.com.br/), [Políticas Públicas](https://pp.nexojornal.com.br/) e [Revista Gama](https://gamarevista.com.br)
+-  AWS Community Builder
 - [AWS Certified Cloud Practitioner](https://www.youracclaim.com/badges/56a89f77-bd11-4a75-bec9-387243723464?source=linked_in_profile)
 - [Certificado em LGPD pela FGV](https://www.brasilopenbadge.com.br/ganhador/ver-badge/?id=418bf1ce1437adeeb5d0352fcd92b1d2)
 - 🌱 Atualmente estou aprendendo mais sobre testes e databases, infrastructure as code e serverless
