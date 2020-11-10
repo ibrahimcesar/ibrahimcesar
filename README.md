@@ -5,6 +5,7 @@
 - 🔭 Diretor de Tecnologia no  [Nexo Jornal](https://www.nexojornal.com.br/), [Políticas Públicas](https://pp.nexojornal.com.br/) e [Revista Gama](https://gamarevista.com.br)
 -  AWS Community Builder
 - [AWS Certified Cloud Practitioner](https://www.youracclaim.com/badges/56a89f77-bd11-4a75-bec9-387243723464?source=linked_in_profile)
+- [Nanodegree AWS Cloud Architect pela Udacity](https://graduation.udacity.com/confirm/UDRWJKSP)
 - [Certificado em LGPD pela FGV](http://badges.com.br/share/418bf1ce1437adeeb5d0352fcd92b1d2.php?a=591)
 - 🌱 Atualmente estou aprendendo mais sobre testes e databases, infrastructure as code e serverless
 - ⚡ Fun facts: 
