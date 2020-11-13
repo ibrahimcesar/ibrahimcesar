@@ -12,9 +12,9 @@
 - [Blog](https://ibrahimcesar.cloud)
 - 🌱 Atualmente estou aprendendo mais sobre testes e databases, infrastructure as code e serverless
 - ⚡ Fun facts: 
-    - Sou fã do Tolstói e Van Gogh.
-    - Filosoficamente me alinho com a escola de pensamento OOO - Object Oriented Ontology (que não tem relação nenhuma com Orientação a Objetos da programação) de Graham Harman e Timothy Morton. Como abordagem prática de vida me chamaria de realista, mas me classificariam de pessimista (Pense em Schopenhauer e Thomas Ligotti ).
-    - Me casei e meu nome passou a ser Ibrahim Cesar Nogueira Bevilacqua, mas carrego no email corporativo o código legado de um dos meus antigos sobrenomes.
+    - Sou fã do Tolstói e Van Gogh
+    - Filosoficamente me alinho com a escola de pensamento OOO - Object Oriented Ontology (que não tem relação nenhuma com Orientação a Objetos da programação) de Graham Harman e Timothy Morton. Como abordagem prática de vida me chamaria de realista, mas me classificariam de pessimista (Pense em Schopenhauer e Thomas Ligotti)
+    - Me casei e meu nome passou a ser Ibrahim Cesar Nogueira Bevilacqua, mas carrego no email corporativo o código legado de um dos meus antigos sobrenomes
 - 😄 Ele/dele
 - 📫 ibrahim.souza@nexojornal.com.br
 
@@ -36,7 +36,7 @@
 
 ### Livros técnicos favoritos 📚
 
-- [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://amzn.to/3pso93l) *Junto com outros livros do Gene Kim e DevOps Handbook, alteraram profundamente minha forma de trabalho*. 
+- [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://amzn.to/3pso93l) *Junto com outros livros do Gene Kim e DevOps Handbook, alteraram profundamente minha forma de trabalho*  
 - [Designing Data Intensive Applications](https://amzn.to/2UqSK2K) *Um dos livros mais profundos e bem pesquisados que li, com riqueza de detalhes e com uma clareja rara. Obrigatório para se ter uma ideia dos trade-offs envolvidos com dados*
 - [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
 - [You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS)
