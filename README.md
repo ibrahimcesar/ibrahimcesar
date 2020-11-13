@@ -20,29 +20,27 @@
 
 ### Stack 🔧
 - JavaScript
-- AWS - EC2 / ElasticBeanstlak / SES/ Lambda / API Gateway / CloudWatch / S3 / IAM
-- React
+- AWS -  AWS Amplify / Lambda / DynamoDB / API Gateway / SES / CloudWatch / S3 / IAM / EC2
+- React / NextJS
 - Node
 - CUE / CUE Front
-- Escenic
-- HTML
-- CSS
+- HTML / CSS
 - a11y
 - Perfomance
 - GraphQL
 - Express
-- Nginx
-- Apache
+- Nginx / Apache
 - Java, só manutenção e camada visual
 - Bem pouco de Python, apenas uso como uma linguagem de script, envolvendo Numpy e Pandas
 - Ruby, bem enferrujado
 
 ### Livros técnicos favoritos 📚
 
-- [Designing Data Intensive Applications](https://dataintensive.net/) *Um dos livros mais profundos e bem pesquisados que li, com riqueza de detalhes e com uma clareja rara. Obrigatório para se ter uma ideia dos trade-offs envolvidos com dados*
+- [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://amzn.to/3pso93l) *Junto com outros livros do Gene Kim e DevOps Handbook, alteraram profundamente minha forma de trabalho*. 
+- [Designing Data Intensive Applications](https://amzn.to/2UqSK2K) *Um dos livros mais profundos e bem pesquisados que li, com riqueza de detalhes e com uma clareja rara. Obrigatório para se ter uma ideia dos trade-offs envolvidos com dados*
 - [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
-- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
-- [Fundamentals of Software Architecture](https://www.oreilly.com/library/view/fundamentals-of-software/9781492043447/)
+- [You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS)
+- [Fundamentals of Software Architecture](https://amzn.to/2Uny6AP)
 
 ### Artigos em destaque 💭
 
