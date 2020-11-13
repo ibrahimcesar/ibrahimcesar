@@ -7,12 +7,14 @@
 - [AWS Certified Cloud Practitioner](https://www.youracclaim.com/badges/56a89f77-bd11-4a75-bec9-387243723464?source=linked_in_profile)
 - [Nanodegree AWS Cloud Architect pela Udacity](https://graduation.udacity.com/confirm/UDRWJKSP)
 - [Certificado em LGPD pela FGV](http://badges.com.br/share/418bf1ce1437adeeb5d0352fcd92b1d2.php?a=591)
+- [LinkedIn](https://www.linkedin.com/in/ibrahimcesar/)
+- [Twitter](https://www.twitter.com/ibrahimcesar/)
+- [Blog](https://ibrahimcesar.cloud)
 - 🌱 Atualmente estou aprendendo mais sobre testes e databases, infrastructure as code e serverless
 - ⚡ Fun facts: 
     - Sou fã do Tolstói e Van Gogh.
     - Filosoficamente me alinho com a escola de pensamento OOO - Object Oriented Ontology (que não tem relação nenhuma com Orientação a Objetos da programação) de Graham Harman e Timothy Morton. Como abordagem prática de vida me chamaria de realista, mas me classificariam de pessimista (Pense em Schopenhauer e Thomas Ligotti ).
     - Me casei e meu nome passou a ser Ibrahim Cesar Nogueira Bevilacqua, mas carrego no email corporativo o código legado de um dos meus antigos sobrenomes.
-    - [LinkedIn](https://www.linkedin.com/in/ibrahimcesar/)
 - 😄 Ele/dele
 - 📫 ibrahim.souza@nexojornal.com.br
 
