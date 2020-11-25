@@ -10,7 +10,7 @@
 - [LinkedIn](https://www.linkedin.com/in/ibrahimcesar/)
 - [Twitter](https://www.twitter.com/ibrahimcesar/)
 - [Blog](https://ibrahimcesar.cloud)
-- 🌱 Atualmente estou aprendendo mais sobre testes e databases, infrastructure as code e serverless
+- 🌱 Atualmente estou aprendendo mais sobre infrastructure as code e serverless e TypeScript
 - ⚡ Fun facts: 
     - Sou fã do Tolstói e Van Gogh
     - Filosoficamente me alinho com a escola de pensamento OOO - Object Oriented Ontology (que não tem relação nenhuma com Orientação a Objetos da programação) de Graham Harman e Timothy Morton. Como abordagem prática de vida me chamaria de realista, mas me classificariam de pessimista (Pense em Schopenhauer e Thomas Ligotti)
@@ -20,7 +20,7 @@
 
 ### Stack 🔧
 - JavaScript
-- AWS -  AWS Amplify / Lambda / DynamoDB / API Gateway / SES / CloudWatch / S3 / IAM / EC2
+- AWS -  AWS Amplify / Lambda / DynamoDB / API Gateway / SES / CloudWatch / S3 / IAM / EC2 / SAM / CDK
 - React / NextJS
 - Node
 - CUE / CUE Front
