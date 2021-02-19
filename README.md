@@ -4,7 +4,8 @@
 
 - 🔭 Diretor de Tecnologia no  [Nexo Jornal](https://www.nexojornal.com.br/), [Políticas Públicas](https://pp.nexojornal.com.br/) e [Revista Gama](https://gamarevista.com.br)
 -  AWS Community Builder
-- [AWS Certified Cloud Practitioner](https://www.youracclaim.com/badges/56a89f77-bd11-4a75-bec9-387243723464?source=linked_in_profile)
+- [AWS Certified Solutions Architect – Associate](https://www.youracclaim.com/earner/earned/badge/e986686b-8c9f-4488-a9be-5724d82c6e48)
+- [AWS Certified Cloud Practitioner](https://www.youracclaim.com/badges/56a89f77-bd11-4a75-bec9-387243723464)
 - [Nanodegree AWS Cloud Architect pela Udacity](https://graduation.udacity.com/confirm/UDRWJKSP)
 - [Certificado em LGPD pela FGV](http://badges.com.br/share/418bf1ce1437adeeb5d0352fcd92b1d2.php?a=591)
 - [Blog pessoal](https://ibrahimcesar.cloud)
