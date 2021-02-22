@@ -1,17 +1,18 @@
 # Hello World!
 
+
 ## Ibrahim Cesar aqui 👋
 
+<a href="https://www.youracclaim.com/badges/e986686b-8c9f-4488-a9be-5724d82c6e48" target="_blank" title="Badge AWS Certified Solutions Architect – Associate" alt="AWS Certified Solutions Architect – Associate"><img src="https://ibrahimcesar.cloud//assets/images/badges/AWS-SolArchitect-Associate-2020.png" alt="" title="AWS Certified Solutions Architect – Associate" width="100"></a><a href="https://www.youracclaim.com/badges/c3bd4b17-9465-4bb6-a8c2-419f72302124" target="_blank" title="Badge AWS Certified Cloud Practitioner" alt="AWS Certified Cloud Practitioner"><img src="https://ibrahimcesar.cloud//assets/images/badges/AWS-CloudPractitioner-2020.png" alt="" title="AWS Certified Solutions Architect – Associate" width="100"></a>
+
 - 🔭 Diretor de Tecnologia no  [Nexo Jornal](https://www.nexojornal.com.br/), [Políticas Públicas](https://pp.nexojornal.com.br/) e [Revista Gama](https://gamarevista.com.br)
+- - - [Blog pessoal](https://ibrahimcesar.cloud)
 -  AWS Community Builder
-- [AWS Certified Solutions Architect – Associate](https://www.youracclaim.com/earner/earned/badge/e986686b-8c9f-4488-a9be-5724d82c6e48)
-- [AWS Certified Cloud Practitioner](https://www.youracclaim.com/badges/56a89f77-bd11-4a75-bec9-387243723464)
 - [Nanodegree AWS Cloud Architect pela Udacity](https://graduation.udacity.com/confirm/UDRWJKSP)
 - [Certificado em LGPD pela FGV](http://badges.com.br/share/418bf1ce1437adeeb5d0352fcd92b1d2.php?a=591)
-- [Blog pessoal](https://ibrahimcesar.cloud)
 - [Twitter](https://www.twitter.com/ibrahimcesar/)
 - [LinkedIn](https://www.linkedin.com/in/ibrahimcesar/)
-- 🌱 Atualmente estou aprendendo mais sobre infrastructure as code e serverless e TypeScript
+- 🌱 Atualmente estou aprendendo mais sobre TypeScript e CDK
 - ⚡ Fun facts: 
     - Sou **grande** fã do Tolstói e Van Gogh
     - Filosoficamente me alinho com a escola de pensamento OOO - Object Oriented Ontology (que não tem relação nenhuma com Orientação a Objetos da programação) de Graham Harman e Timothy Morton. Como abordagem prática de vida me chamaria de realista, mas me classificariam de pessimista (Pense em Schopenhauer e Thomas Ligotti)
@@ -20,7 +21,7 @@
 - 📫 ibrahim.souza@nexojornal.com.br
 
 ### Stack 🔧
-- JavaScript
+- JavaScript / TypeScript
 - AWS -  AWS Amplify / Lambda / DynamoDB / API Gateway / SES / CloudWatch / S3 / IAM / EC2 / SAM / CDK
 - React / NextJS
 - Node
