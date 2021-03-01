@@ -23,7 +23,7 @@
 
 ### Stack 🔧
 - JavaScript / TypeScript
-- AWS -  AWS Amplify / Lambda / DynamoDB / API Gateway / SES / CloudWatch / S3 / IAM / EC2 / SAM / CDK
+- AWS - AWS Amplify / Lambda / DynamoDB / API Gateway / SES / CloudWatch / S3 / IAM / EC2 / ECS / Fargate / SAM / CDK
 - React / NextJS
 - Node
 - CUE / CUE Front
