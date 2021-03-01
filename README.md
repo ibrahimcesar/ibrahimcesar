@@ -15,10 +15,11 @@
 - 🌱 Atualmente estou aprendendo mais sobre TypeScript e CDK
 - ⚡ Fun facts: 
     - Sou **grande** fã do Tolstói e Van Gogh
+    - Meu livro favorito é **Anna Kariênina**.
     - Filosoficamente me alinho com a escola de pensamento OOO - Object Oriented Ontology (que não tem relação nenhuma com Orientação a Objetos da programação) de Graham Harman e Timothy Morton. Como abordagem prática de vida me chamaria de realista, mas me classificariam de pessimista (Pense em Schopenhauer e Thomas Ligotti)
     - Me casei e meu nome passou a ser Ibrahim Cesar Nogueira Bevilacqua, mas carrego no email corporativo o código legado de um dos meus antigos sobrenomes
-- 😄 Ele/dele
-- 📫 ibrahim.souza@nexojornal.com.br
+- 😄  Ele/dele
+- 📫  ibrahim.souza@nexojornal.com.br
 
 ### Stack 🔧
 - JavaScript / TypeScript
