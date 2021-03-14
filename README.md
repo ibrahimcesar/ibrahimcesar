@@ -13,7 +13,7 @@
 - [Certificado em LGPD pela FGV](http://badges.com.br/share/418bf1ce1437adeeb5d0352fcd92b1d2.php?a=591)
 - [Twitter](https://www.twitter.com/ibrahimcesar/)
 - [LinkedIn](https://www.linkedin.com/in/ibrahimcesar/)
-- [DevBooks[https://devbooks.club], pet project
+- [DevBooks](https://devbooks.club), pet project
 - 🌱 Atualmente estou aprendendo mais sobre TypeScript e CDK
 - ⚡ Fun facts: 
     - Sou **grande** fã do Tolstói e Van Gogh
