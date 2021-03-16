@@ -49,6 +49,7 @@
 
 ### Artigos em destaque 💭
 
+- [Full Stack Cloud SSR with Next.js, Tailwind, and AWS CDK](https://dev.to/aws-builders/full-stack-cloud-ssr-with-next-js-tailwind-and-aws-cdk-416c) Artigo em inglês sobre como fazer deploys de aplicações SSR em NextJS utilizando Amplify e CDK
 - [AWS Amplify, SAM, CDK ... What to choose for your Infrastructure as Code on AWS?!?](https://dev.to/aws-builders/aws-amplify-sam-cdk-what-to-choose-for-your-infrastructure-as-code-on-aws-lh2) Artigo em inglês no [dev.to](https://dev.to/) sobre qual IaC da AWs escolher: AWS Amplify. SAM ou CDK.
 - [Oficina { Nexo de Código Aberto }](https://ibrahimcesar.cloud/blog/nexo-de-codigo-aberto/) Oficina ministrada sobre a visão de tecnologia do Nexo  
 - [O que aprendi ao co-fundar uma startup da “economia colaborativa" e por que saí dela](https://ibrahimcesar.cloud/blog/o-que-aprendi-ao-co-fundar-uma-startup-da-economia-colaborativa-e-por-que-sai-dela/):  *Minha experiência pesssoal em uma startup, vários dos conceitos da gig economy e outras questões relativas ao Uber etc, já se desenhavam naquela época. Interessante ver a sociedade como um todo abordando estas reflexões que acredito poucos que estavam criando estas infra-estruturas, por menor que minha  contribuição tenha sido, estavam fazendo*.  
