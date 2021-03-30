@@ -5,7 +5,7 @@
 
 <a href="https://www.youracclaim.com/badges/e986686b-8c9f-4488-a9be-5724d82c6e48" target="_blank" title="Badge AWS Certified Solutions Architect – Associate" alt="AWS Certified Solutions Architect – Associate"><img src="https://ibrahimcesar.cloud//assets/images/badges/AWS-SolArchitect-Associate-2020.png" alt="" title="AWS Certified Solutions Architect – Associate" width="100"></a><a href="https://www.youracclaim.com/badges/c3bd4b17-9465-4bb6-a8c2-419f72302124" target="_blank" title="Badge AWS Certified Cloud Practitioner" alt="AWS Certified Cloud Practitioner"><img src="https://ibrahimcesar.cloud//assets/images/badges/AWS-CloudPractitioner-2020.png" alt="" title="AWS Certified Solutions Architect – Associate" width="100"></a><a href="https://brasilopenbadge.com.br/pages/badge/418bf1ce1437adeeb5d0352fcd92b1d2" target="_blank" title="Badge FGV Lei Geral de Proteção de Dados: Teoria e Prática" alt="FGV - Lei Geral de Proteção de Dados: Teoria e Prática"><img src="https://ibrahimcesar.cloud/assets/images/badges/fgv-lgpd.png" alt="" title="AWS Certified Solutions Architect – Associate" width="100"></a>
 
-- 🔭 Diretor de Tecnologia no  [Nexo Jornal](https://www.nexojornal.com.br/), [Políticas Públicas](https://pp.nexojornal.com.br/) e [Revista Gama](https://gamarevista.com.br)
+- 🦕 Diretor de Tecnologia no  [Nexo Jornal](https://www.nexojornal.com.br/), [Políticas Públicas](https://pp.nexojornal.com.br/) e [Revista Gama](https://gamarevista.com.br)
 - AWS Community Builder
 - [Blog](https://ibrahimcesar.cloud)
 - [explicit:any](https://explicitany.substack.com/), minha newsletter pessoal
@@ -46,7 +46,7 @@
 - [You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS)
 - [Fundamentals of Software Architecture](https://amzn.to/2Uny6AP)
 
-### Artigos em destaque 💭
+### Artigos em destaque 📓
 
 - [Serverless is Ready, Developers Are Not](https://dev.to/aws-builders/serverless-is-ready-developers-are-not-12f9) Artigo em inglês sobre os _trade-offs_ de nevegar em desenvolvimento serverless  
 - [Full Stack Cloud SSR with Next.js, Tailwind, and AWS CDK](https://dev.to/aws-builders/full-stack-cloud-ssr-with-next-js-tailwind-and-aws-cdk-416c) Artigo em inglês sobre como fazer deploys de aplicações SSR em NextJS utilizando Amplify e CDK  
