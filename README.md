@@ -12,6 +12,7 @@
 - [Nanodegree AWS Cloud Architect pela Udacity](https://graduation.udacity.com/confirm/UDRWJKSP)
 - [Twitter](https://www.twitter.com/ibrahimcesar/)
 - [LinkedIn](https://www.linkedin.com/in/ibrahimcesar/)
+- [Dev.to](https://dev.to/ibrahimcesar)
 - [DevBooks](https://devbooks.club), pet project
 - 🌱 Atualmente estou aprendendo mais sobre TypeScript e CDK
 - ⚡ Fun facts: 
