@@ -1,7 +1,7 @@
 # Hello World!
 
 
-## Ibrahim Cesar aqui 👋 /ɪ́brəhɪjm/
+## Ibrahim Cesar aqui 👋
 
 <a href="https://www.youracclaim.com/badges/e986686b-8c9f-4488-a9be-5724d82c6e48" target="_blank" title="Badge AWS Certified Solutions Architect – Associate" alt="AWS Certified Solutions Architect – Associate"><img src="https://ibrahimcesar.cloud//assets/images/badges/AWS-SolArchitect-Associate-2020.png" alt="" title="AWS Certified Solutions Architect – Associate" width="100"></a><a href="https://www.youracclaim.com/badges/c3bd4b17-9465-4bb6-a8c2-419f72302124" target="_blank" title="Badge AWS Certified Cloud Practitioner" alt="AWS Certified Cloud Practitioner"><img src="https://ibrahimcesar.cloud//assets/images/badges/AWS-CloudPractitioner-2020.png" alt="" title="AWS Certified Solutions Architect – Associate" width="100"></a><a href="https://brasilopenbadge.com.br/pages/badge/418bf1ce1437adeeb5d0352fcd92b1d2" target="_blank" title="Badge FGV Lei Geral de Proteção de Dados: Teoria e Prática" alt="FGV - Lei Geral de Proteção de Dados: Teoria e Prática"><img src="https://ibrahimcesar.cloud/assets/images/badges/fgv-lgpd.png" alt="" title="AWS Certified Solutions Architect – Associate" width="100"></a>
 
@@ -20,6 +20,7 @@
     - Meu livro favorito é **Anna Kariênina**.
     - Filosoficamente me alinho com a escola de pensamento OOO - Object Oriented Ontology (que não tem relação nenhuma com Orientação a Objetos da programação) de Graham Harman e Timothy Morton. Como abordagem prática de vida me chamaria de realista, mas me classificariam de pessimista (Pense em Schopenhauer e Thomas Ligotti)
     - Me casei e meu nome passou a ser Ibrahim Cesar Nogueira Bevilacqua, mas carrego no email corporativo o código legado de um dos meus antigos sobrenomes
+- /ɪ́brəhɪjm/
 - 😄  Ele/dele
 - 📫  ibrahim.souza@nexojornal.com.br
 
