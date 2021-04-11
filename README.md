@@ -24,21 +24,6 @@
 - 😄  Ele/dele
 - 📫  ibrahim.souza@nexojornal.com.br
 
-### Stack 🔧
-- JavaScript / TypeScript
-- AWS - AWS Amplify / Lambda / DynamoDB / API Gateway / SES / CloudWatch / S3 / IAM / EC2 / ECS / Fargate / SAM / CDK
-- React / NextJS
-- Node
-- CUE / CUE Front
-- HTML / CSS
-- a11y
-- Perfomance
-- GraphQL
-- Express
-- Nginx / Apache
-- Java, só manutenção e camada visual
-- Bem pouco de Python, apenas uso como uma linguagem de script, envolvendo Numpy e Pandas
-- Ruby, bem enferrujado
 
 ### Livros técnicos favoritos 📚
 
@@ -59,3 +44,19 @@
 - [A Otimização Prematura e a Raíz de Todo o Mal](https://ibrahimcesar.cloud/blog/otimizacao-prematura-e-a-raiz-de-todo-mal/): *Leitura do paper em que Knut declara "a otimização prematura é a raíz de todo mal" que é citado muitas e muitas vezes e talvez não signifique o que se acredita que ele queria dizer*  
 - [Next Billion Users](https://ibrahimcesar.cloudd/blog/nbu-next-billion-users-brasil/): Exploração do conceito de "Next Billion Users", o oceanos azuis que as grandes corporações de tecnologia irão atrás, e o Brasil faz parte desse número.  
 - [Por quê sistemas falham?](https://ibrahimcesar.cloud/blog/por-que-sistemas-falham/): Tudo falha, o tempo todo. E podemos aprender com todo tipo de sistema
+
+### Stack 🔧
+- JavaScript / TypeScript
+- AWS - AWS Amplify / Lambda / DynamoDB / API Gateway / SES / CloudWatch / S3 / IAM / EC2 / ECS / Fargate / SAM / CDK
+- React / NextJS
+- Node
+- CUE / CUE Front
+- HTML / CSS
+- a11y
+- Perfomance
+- GraphQL
+- Express
+- Nginx / Apache
+- Java, só manutenção e camada visual
+- Bem pouco de Python, apenas uso como uma linguagem de script, envolvendo Numpy e Pandas
+- Ruby, bem enferrujado
