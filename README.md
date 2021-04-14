@@ -60,3 +60,5 @@
 - Java, só manutenção e camada visual
 - Bem pouco de Python, apenas uso como uma linguagem de script, envolvendo Numpy e Pandas
 - Ruby, bem enferrujado
+
+[![Ibrahim Cesar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimcesar)](https://github.com/anuraghazra/github-readme-stats)
