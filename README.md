@@ -59,7 +59,9 @@
 ### Lendo atualmente... 📚
 
 <!-- READING_LIST:START -->
-
+- [Sooner Safer Happier: Patterns and Antipatterns for Organizational Agility](https://www.goodreads.com/review/show/3945357773?utm_medium=api&utm_source=rss) by Jonathan Smart (⭐️4.42)
+- [The Adolescent](https://www.goodreads.com/review/show/3907651091?utm_medium=api&utm_source=rss) by Fyodor Dostoyevsky (⭐️3.96)
+- [Domain-Driven Design Distilled](https://www.goodreads.com/review/show/3794487218?utm_medium=api&utm_source=rss) by Vaughn Vernon (⭐️3.72)
 <!-- READING_LIST:END -->
 
 ### Últimos livros lidos 📚
