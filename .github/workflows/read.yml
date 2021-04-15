@@ -1,0 +1,15 @@
+name: Latest book list from a goodreads
+on:
+  schedule:
+    - cron: "0 12 * * *"
+  workflow_dispatch:
+jobs:
+  update-readme-with-goodreads-books-reading:
+    name: Update this repo's README with books I'm currently reading
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: zwacky/goodreads-profile-workflow@main
+        with:
+          goodreads_user_id: "18545177"
+          shelf: "read"
