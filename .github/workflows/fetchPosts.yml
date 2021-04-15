@@ -1,0 +1,16 @@
+name: Latest Blogs Posts
+on:
+  schedule:
+    - cron: '0 12 * * *'
+  workflow_dispatch:
+  
+jobs:
+  update-readme-with-blog:
+    name: Update this repo with my latest posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "POSTS_LIST"
+          feed_list: "https://ibrahimcesar.cloud/feed.xml"
