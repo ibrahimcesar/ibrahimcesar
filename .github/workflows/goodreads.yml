@@ -1,12 +1,11 @@
-name: Latest book list from a goodreads
+name: Latest books
 on:
   schedule:
     - cron: "0 12 * * *"
   workflow_dispatch:
 jobs:
-
   update-readme-with-goodreads-books-reading:
-    name: Update this repo's README with books I'm currently reading
+    name: Reading List
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -17,7 +16,7 @@ jobs:
           shelf: "currently-reading"
   
   update-readme-with-goodreads-books-read:
-    name: Update this repo's README with books I read
+    name: Read List
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -25,4 +24,4 @@ jobs:
         with:
           comment_tag_name: "READ_LIST"
           goodreads_user_id: "18545177"
-          shelf: "currently-reading"
+          shelf: "read"
