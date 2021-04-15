@@ -33,6 +33,11 @@
 - [Testing the new CDK Construct to deploy a Serverless NextJS application in CloudFront and Lambda@Edge](https://dev.to/aws-builders/testing-the-new-cdk-construct-to-deploy-a-serverless-nextjs-application-in-cloudfront-and-lambda-edge-1ckk)
 - [How to upgrade CDK to latest version](https://dev.to/aws-builders/how-to-upgrade-cdk-to-latest-version-1np5)
 - [How to deploy Docusaurus with authentication using AWS Amplify](https://dev.to/ibrahimcesar/how-to-deploy-docusaurus-with-authentication-using-aws-amplify-m8g)
+- [A Developer's Code of Ethics](https://dev.to/ibrahimcesar/a-developer-s-code-of-ethics-2d7b)
+- [AWS Amplify, SAM, CDK ... What to choose for your Infrastructure as Code on AWS?!?](https://dev.to/aws-builders/aws-amplify-sam-cdk-what-to-choose-for-your-infrastructure-as-code-on-aws-lh2)
+- [Wondering about the size of your bundle?](https://dev.to/ibrahimcesar/wondering-about-the-size-of-your-bundle-4b9b)
+- [Serverless Transformation on a news media outlet in Brazil](https://dev.to/aws-builders/serverless-transformation-on-a-news-media-outlet-in-brazil-3ed9)
+- [Discuss: The Ship of Theseus and Yarn 2](https://dev.to/ibrahimcesar/discuss-the-ship-of-theseus-and-yarn-2-kdh)
 <!-- DEVTO_LIST:END -->
 
 ### Minhas últimas postagens no blog
