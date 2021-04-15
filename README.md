@@ -45,8 +45,19 @@
 - [10 livros de 2020](https://ibrahimcesar.cloud/blog/10-livros-de-2020/)
 <!-- POSTS_LIST:END -->
 
+### Últimos livros lidos 📚
 
-### Livros técnicos favoritos 📚
+<-- READING_LIST:START -->
+
+<-- READING_LIST:END -->
+
+### Lenado atualmente... 📚
+
+<-- READ_LIST:START -->
+
+<-- READ_LIST:END -->
+
+### Livros técnicos favoritos
 
 - [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://amzn.to/3pso93l) *Junto com outros livros do Gene Kim e DevOps Handbook, alteraram profundamente minha forma de trabalho*  
 - [Designing Data Intensive Applications](https://amzn.to/2UqSK2K) *Um dos livros mais profundos e bem pesquisados que li, com riqueza de detalhes e com uma clareja rara. Obrigatório para se ter uma ideia dos trade-offs envolvidos com dados*
