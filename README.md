@@ -26,7 +26,11 @@
 ### Minhas últimas postagens no blog
 
 <!-- POSTS_LIST:START -->
-
+- [Por quê sistemas falham?](https://ibrahimcesar.cloud/blog/por-que-sistemas-falham/)
+- [Tupi or not Tupi?](https://ibrahimcesar.cloud/blog/tupi-or-not-tupi/)
+- [Apoio a Timnit Gebru e ética em algoritmos, por Celeste Kidd](https://ibrahimcesar.cloud/blog/apoio-a-timnit-gebru-e-etica-em-algoritmos-por-celeste-kidd/)
+- [The Art of Code, Dylan Beattie](https://ibrahimcesar.cloud/blog/the-art-of-code-dylan-beattie/)
+- [10 livros de 2020](https://ibrahimcesar.cloud/blog/10-livros-de-2020/)
 <!-- POSTS_LIST:END -->
 
 
