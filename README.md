@@ -23,6 +23,12 @@
 
 ---
 
+### Latest published on Dev.to
+
+<!--DEVTO_LIST:START-->
+
+<!--DEVTO_LIST:END -->
+
 ### Minhas últimas postagens no blog
 
 <!-- POSTS_LIST:START -->
