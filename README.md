@@ -23,11 +23,11 @@
 
 ---
 
-### Latest
+### Minhas últimas postagens no blog
 
-<!-- POSTS-LIST:START -->
+<!-- POSTS_LIST:START -->
 
-<!-- POSTS-LIST:END -->
+<!-- POSTS_LIST:END -->
 
 
 ### Livros técnicos favoritos 📚
