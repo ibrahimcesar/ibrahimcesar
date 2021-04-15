@@ -1,6 +1,6 @@
 # Ibrahim Cesar aqui <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="42px" style="max-width:100%;">
 
-<a href="https://www.youracclaim.com/badges/e986686b-8c9f-4488-a9be-5724d82c6e48" target="_blank" title="Badge AWS Certified Solutions Architect – Associate" alt="AWS Certified Solutions Architect – Associate"><img src="https://ibrahimcesar.cloud//assets/images/badges/AWS-SolArchitect-Associate-2020.png" alt="" title="AWS Certified Solutions Architect – Associate" width="100"></a><a href="https://www.youracclaim.com/badges/c3bd4b17-9465-4bb6-a8c2-419f72302124" target="_blank" title="Badge AWS Certified Cloud Practitioner" alt="AWS Certified Cloud Practitioner"><img src="https://ibrahimcesar.cloud//assets/images/badges/AWS-CloudPractitioner-2020.png" alt="" title="AWS Certified Solutions Architect – Associate" width="100"></a><a href="https://brasilopenbadge.com.br/pages/badge/418bf1ce1437adeeb5d0352fcd92b1d2" target="_blank" title="Badge FGV Lei Geral de Proteção de Dados: Teoria e Prática" alt="FGV - Lei Geral de Proteção de Dados: Teoria e Prática"><img src="https://ibrahimcesar.cloud/assets/images/badges/fgv-lgpd.png" alt="" title="AWS Certified Solutions Architect – Associate" width="100"></a>
+<a href="https://www.youracclaim.com/badges/e986686b-8c9f-4488-a9be-5724d82c6e48" target="_blank" title="Badge AWS Certified Solutions Architect – Associate" alt="AWS Certified Solutions Architect – Associate"><img src="https://ibrahimcesar.cloud//assets/images/badges/AWS-SolArchitect-Associate-2020.png" alt="AWS Certified Solutions Architect – Associate" width="100"></a><a href="https://www.youracclaim.com/badges/c3bd4b17-9465-4bb6-a8c2-419f72302124" target="_blank" title="Badge AWS Certified Cloud Practitioner" alt="AWS Certified Cloud Practitioner"><img src="https://ibrahimcesar.cloud//assets/images/badges/AWS-CloudPractitioner-2020.png" alt="AWS Certified Solutions Architect – Associate" width="100"></a><a href="https://brasilopenbadge.com.br/pages/badge/418bf1ce1437adeeb5d0352fcd92b1d2" target="_blank" alt="FGV - Lei Geral de Proteção de Dados: Teoria e Prática" title="FGV - Lei Geral de Proteção de Dados: Teoria e Prática"><img src="https://ibrahimcesar.cloud/assets/images/badges/fgv-lgpd.png" alt="FGV - Lei Geral de Proteção de Dados: Teoria e Prática" width="100"></a><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="100" style="margin-left: 2px"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="100" style="margin-left: 2px"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="NextJS"  width="100" style="margin-left: 2px"><img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS"  width="100" style="margin-left: 2px"><img src="https://cdn.worldvectorlogo.com/logos/aws-lambda-1.svg" alt="AWS Lambda"  width="100" style="margin-left: 2px">
 
 - 🦕 Diretor de Tecnologia no  [Nexo Jornal](https://www.nexojornal.com.br/), [Políticas Públicas](https://pp.nexojornal.com.br/) e [Revista Gama](https://gamarevista.com.br)
 - AWS Community Builder
@@ -22,6 +22,12 @@
 - 📫  ibrahim.souza@nexojornal.com.br
 
 ---
+
+### Latest
+
+<!-- START-POSTS -->
+
+<!-- END-POSTS -->
 
 
 ### Livros técnicos favoritos 📚
@@ -45,8 +51,6 @@
 - [Por quê sistemas falham?](https://ibrahimcesar.cloud/blog/por-que-sistemas-falham/): Tudo falha, o tempo todo. E podemos aprender com todo tipo de sistema
 
 ---
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimcesar&layout=compact&hide=php)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Ibrahim Cesar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimcesar)](https://github.com/anuraghazra/github-readme-stats)
 
