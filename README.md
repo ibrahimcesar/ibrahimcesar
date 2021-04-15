@@ -57,15 +57,15 @@
 
 ### Últimos livros lidos 📚
 
-<-- READING_LIST:START -->
+<!-- READING_LIST:START -->
 
-<-- READING_LIST:END -->
+<!-- READING_LIST:END -->
 
 ### Lenado atualmente... 📚
 
-<-- READ_LIST:START -->
+<!-- READ_LIST:START -->
 
-<-- READ_LIST:END -->
+<!-- READ_LIST:END -->
 
 ### Livros técnicos favoritos
 
