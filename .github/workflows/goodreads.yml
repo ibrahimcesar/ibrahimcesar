@@ -12,7 +12,7 @@ jobs:
       - uses: zwacky/goodreads-profile-workflow@main
         with:
           comment_tag_name: "READING_LIST"
-          goodreads_user_id: "18545177"
+          goodreads_user_id: "15886916"
           shelf: "currently-reading"
   
   update-readme-with-goodreads-books-read:
@@ -23,5 +23,5 @@ jobs:
       - uses: zwacky/goodreads-profile-workflow@main
         with:
           comment_tag_name: "READ_LIST"
-          goodreads_user_id: "18545177"
+          goodreads_user_id: "15886916"
           shelf: "read"
