@@ -25,9 +25,9 @@
 
 ### Latest
 
-<!-- START-POSTS -->
+<!-- POSTS-LIST:START -->
 
-<!-- END-POSTS -->
+<!-- POSTS-LIST:END -->
 
 
 ### Livros técnicos favoritos 📚
