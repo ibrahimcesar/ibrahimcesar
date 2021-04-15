@@ -11,5 +11,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses: zwacky/goodreads-profile-workflow@main
         with:
-          goodreads_user_id: "18545177.Ibrahim_Cesar"
-          shelf: "read"
+          goodreads_user_id: "15886916"
+          shelf: "currently-reading"
