@@ -25,9 +25,9 @@
 
 ### Latest published on Dev.to
 
-<!--DEVTO_LIST:START-->
+<!-- DEVTO_LIST:START -->
 
-<!--DEVTO_LIST:END -->
+<!-- DEVTO_LIST:END -->
 
 ### Minhas últimas postagens no blog
 
