@@ -13,3 +13,4 @@ jobs:
         with:
           goodreads_user_id: "15886916"
           shelf: "currently-reading"
+          max_books_count: 10
