@@ -14,3 +14,4 @@ jobs:
         with:
           comment_tag_name: "POSTS_LIST"
           feed_list: "https://ibrahimcesar.cloud/feed.xml"
+          max_postt_count: 10
