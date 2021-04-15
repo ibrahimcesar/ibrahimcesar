@@ -63,9 +63,7 @@
 
 ### Lenado atualmente... 📚
 
-<!-- READ_LIST:START -->
-
-<!-- READ_LIST:END -->
+<!-- GOODREADS-LIST:START --><!-- GOODREADS-LIST:END -->
 
 ### Livros técnicos favoritos
 
