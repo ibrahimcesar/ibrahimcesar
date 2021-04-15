@@ -43,6 +43,11 @@
 - [Apoio a Timnit Gebru e ética em algoritmos, por Celeste Kidd](https://ibrahimcesar.cloud/blog/apoio-a-timnit-gebru-e-etica-em-algoritmos-por-celeste-kidd/)
 - [The Art of Code, Dylan Beattie](https://ibrahimcesar.cloud/blog/the-art-of-code-dylan-beattie/)
 - [10 livros de 2020](https://ibrahimcesar.cloud/blog/10-livros-de-2020/)
+- [Nexo de Código Aberto](https://ibrahimcesar.cloud/blog/nexo-de-codigo-aberto/)
+- [Como eu parei de me preocupar e passei a amar a Nuvem](https://ibrahimcesar.cloud/blog/como-eu-parei-de-me-preocupar-e-passei-a-amar-a-nuvem/)
+- [Fundamentals of Software Arquitecture](https://ibrahimcesar.cloud/blog/fundamentals-of-software-arquitecture/)
+- [O Princípio Anna Kariênina](https://ibrahimcesar.cloud/blog/o-principio-anna-karienina/)
+- [Certificar ou não? Eis a questão](https://ibrahimcesar.cloud/blog/certificar-ou-nao-eis-a-questao/)
 <!-- POSTS_LIST:END -->
 
 ### Últimos livros lidos 📚
