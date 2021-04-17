@@ -75,7 +75,7 @@
 - [Implementing Domain-Driven Design](https://www.goodreads.com/review/show/3794484904?utm_medium=api&utm_source=rss) by Vaughn Vernon (⭐️4.08)
 - [Full Stack Serverless: Modern Application Development with React, Aws, and Graphql](https://www.goodreads.com/review/show/3487814004?utm_medium=api&utm_source=rss) by Nader Dabit (⭐️3.43)
 - [The Coding Career Handbook. Guides, Principles, Strategies, and Tactics – from Code Newbie to Senior Dev](https://www.goodreads.com/review/show/3744272696?utm_medium=api&utm_source=rss) by Shawn Swyx Wang (⭐️4.42)
-- [The Feeling of Life Itself: Why Consciousness Is Widespread But Can't Be Computed](https://www.goodreads.com/review/show/3728144506?utm_medium=api&utm_source=rss) by Christof Koch (⭐️3.91)
+- [The Feeling of Life Itself: Why Consciousness Is Widespread But Can't Be Computed](https://www.goodreads.com/review/show/3728144506?utm_medium=api&utm_source=rss) by Christof Koch (⭐️3.92)
 - [How Artifacts Afford: The Power and Politics of Everyday Things](https://www.goodreads.com/review/show/3723542645?utm_medium=api&utm_source=rss) by Jenny L.  Davis (⭐️4.45)
 - [Synthetic Biology: A Primer](https://www.goodreads.com/review/show/3721683207?utm_medium=api&utm_source=rss) by Geoff Baldwin (⭐️3.94)
 - [A Philosophy of Software Design](https://www.goodreads.com/review/show/3704723362?utm_medium=api&utm_source=rss) by John Ousterhout (⭐️4.13)
