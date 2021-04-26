@@ -25,6 +25,9 @@
 - 😄  Ele/dele
 - 📫  cloud@ibrahimcesar.com
 
+
+## :octocat: [AMA - Ask Me Anything](https://github.com/ibrahimcesar/ibrahimcesar/discussions/categories/ama-ask-me-anything)
+
 ---
 
 ### Latest published on Dev.to
