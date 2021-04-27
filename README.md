@@ -33,6 +33,7 @@
 ### Latest published on Dev.to
 
 <!-- DEVTO_LIST:START -->
+- [My journey as an AWS Community Builder so far](https://dev.to/aws-builders/my-journey-as-an-aws-community-builder-so-far-14n8)
 - [Serverless is Ready, Developers Are Not](https://dev.to/aws-builders/serverless-is-ready-developers-are-not-12f9)
 - [Full Stack Cloud SSR with Next.js, Tailwind, and AWS CDK](https://dev.to/aws-builders/full-stack-cloud-ssr-with-next-js-tailwind-and-aws-cdk-416c)
 - [Testing the new CDK Construct to deploy a Serverless NextJS application in CloudFront and Lambda@Edge](https://dev.to/aws-builders/testing-the-new-cdk-construct-to-deploy-a-serverless-nextjs-application-in-cloudfront-and-lambda-edge-1ckk)
@@ -42,7 +43,6 @@
 - [AWS Amplify, SAM, CDK ... What to choose for your Infrastructure as Code on AWS?!?](https://dev.to/aws-builders/aws-amplify-sam-cdk-what-to-choose-for-your-infrastructure-as-code-on-aws-lh2)
 - [Wondering about the size of your bundle?](https://dev.to/ibrahimcesar/wondering-about-the-size-of-your-bundle-4b9b)
 - [Serverless Transformation on a news media outlet in Brazil](https://dev.to/aws-builders/serverless-transformation-on-a-news-media-outlet-in-brazil-3ed9)
-- [Discuss: The Ship of Theseus and Yarn 2](https://dev.to/ibrahimcesar/discuss-the-ship-of-theseus-and-yarn-2-kdh)
 <!-- DEVTO_LIST:END -->
 
 ### Minhas últimas postagens no blog
