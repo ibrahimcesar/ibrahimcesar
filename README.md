@@ -48,6 +48,7 @@
 ### Minhas últimas postagens no blog
 
 <!-- POSTS_LIST:START -->
+- [Segurança psicológica em tempos de pandemia](https://ibrahimcesar.cloud/blog/seguranca-psicologica-em-tempos-de-pandemia/)
 - [Por quê sistemas falham?](https://ibrahimcesar.cloud/blog/por-que-sistemas-falham/)
 - [Tupi or not Tupi?](https://ibrahimcesar.cloud/blog/tupi-or-not-tupi/)
 - [Apoio a Timnit Gebru e ética em algoritmos, por Celeste Kidd](https://ibrahimcesar.cloud/blog/apoio-a-timnit-gebru-e-etica-em-algoritmos-por-celeste-kidd/)
@@ -57,7 +58,6 @@
 - [Como eu parei de me preocupar e passei a amar a Nuvem](https://ibrahimcesar.cloud/blog/como-eu-parei-de-me-preocupar-e-passei-a-amar-a-nuvem/)
 - [Fundamentals of Software Arquitecture](https://ibrahimcesar.cloud/blog/fundamentals-of-software-arquitecture/)
 - [O Princípio Anna Kariênina](https://ibrahimcesar.cloud/blog/o-principio-anna-karienina/)
-- [Certificar ou não? Eis a questão](https://ibrahimcesar.cloud/blog/certificar-ou-nao-eis-a-questao/)
 <!-- POSTS_LIST:END -->
 
 
