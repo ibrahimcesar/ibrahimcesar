@@ -33,6 +33,7 @@
 ### Latest published on Dev.to
 
 <!-- DEVTO_LIST:START -->
+- [Open letter to AWS: Please, give us a price cap](https://dev.to/aws-builders/open-letter-to-aws-please-give-us-price-cap-4ge6)
 - [Happy little clouds: finding my way with CDK](https://dev.to/aws-builders/happy-little-clouds-find-my-way-with-cdk-1fj3)
 - [The State of Serverless Databases in AWS](https://dev.to/aws-builders/the-state-of-serverless-databases-in-aws-part-0-162c)
 - [My journey as an AWS Community Builder so far](https://dev.to/aws-builders/my-journey-as-an-aws-community-builder-so-far-14n8)
@@ -42,7 +43,6 @@
 - [How to upgrade CDK to latest version](https://dev.to/aws-builders/how-to-upgrade-cdk-to-latest-version-1np5)
 - [How to deploy Docusaurus with authentication using AWS Amplify](https://dev.to/ibrahimcesar/how-to-deploy-docusaurus-with-authentication-using-aws-amplify-m8g)
 - [A Developer's Code of Ethics](https://dev.to/ibrahimcesar/a-developer-s-code-of-ethics-2d7b)
-- [AWS Amplify, SAM, CDK ... What to choose for your Infrastructure as Code on AWS?!?](https://dev.to/aws-builders/aws-amplify-sam-cdk-what-to-choose-for-your-infrastructure-as-code-on-aws-lh2)
 <!-- DEVTO_LIST:END -->
 
 ### Minhas últimas postagens no blog
