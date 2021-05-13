@@ -25,6 +25,10 @@
 - 😄  Ele/dele
 - 📫  cloud@ibrahimcesar.com
 
+<p align="middle">
+    <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/source.gif" style="max-width:100%;">
+
+</p>
 
 ## :octocat: [AMA - Ask Me Anything](https://github.com/ibrahimcesar/ibrahimcesar/discussions/categories/ama-ask-me-anything)
 
