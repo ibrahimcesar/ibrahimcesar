@@ -37,6 +37,7 @@
 ### Latest published on Dev.to
 
 <!-- DEVTO_LIST:START -->
+- [Redis:  Exploring Redis as Serverless Database to solve idempotence in APIs](https://dev.to/aws-builders/redis-exploring-redis-as-serverless-database-to-solve-idempotence-in-apis-2gma)
 - [Open letter to AWS: Please, give us a price cap](https://dev.to/aws-builders/open-letter-to-aws-please-give-us-price-cap-4ge6)
 - [Happy little clouds: finding my way with CDK](https://dev.to/aws-builders/happy-little-clouds-find-my-way-with-cdk-1fj3)
 - [The State of Serverless Databases in AWS](https://dev.to/aws-builders/the-state-of-serverless-databases-in-aws-part-0-162c)
@@ -46,7 +47,6 @@
 - [Testing the new CDK Construct to deploy a Serverless NextJS application in CloudFront and Lambda@Edge](https://dev.to/aws-builders/testing-the-new-cdk-construct-to-deploy-a-serverless-nextjs-application-in-cloudfront-and-lambda-edge-1ckk)
 - [How to upgrade CDK to latest version](https://dev.to/aws-builders/how-to-upgrade-cdk-to-latest-version-1np5)
 - [How to deploy Docusaurus with authentication using AWS Amplify](https://dev.to/ibrahimcesar/how-to-deploy-docusaurus-with-authentication-using-aws-amplify-m8g)
-- [A Developer's Code of Ethics](https://dev.to/ibrahimcesar/a-developer-s-code-of-ethics-2d7b)
 <!-- DEVTO_LIST:END -->
 
 ### Minhas últimas postagens no blog
