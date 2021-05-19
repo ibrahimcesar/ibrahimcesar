@@ -37,6 +37,7 @@
 ### Latest published on Dev.to
 
 <!-- DEVTO_LIST:START -->
+- [How to host a Next.js web apps with server-side rendering (SSR) in AWS Amplify](https://dev.to/aws-builders/how-to-host-a-next-js-web-apps-with-server-side-rendering-ssr-in-aws-amplify-3n3h)
 - [Why I made my open source React component private by default: an Open Source story](https://dev.to/ibrahimcesar/why-i-made-my-open-source-react-component-private-by-default-an-open-source-story-1jja)
 - [Redis:  Exploring Redis as Serverless Database to solve idempotence in APIs](https://dev.to/aws-builders/redis-exploring-redis-as-serverless-database-to-solve-idempotence-in-apis-2gma)
 - [Open letter to AWS: Please, give us a price cap](https://dev.to/aws-builders/open-letter-to-aws-please-give-us-price-cap-4ge6)
@@ -46,7 +47,6 @@
 - [Serverless is Ready, Developers Are Not](https://dev.to/aws-builders/serverless-is-ready-developers-are-not-12f9)
 - [Full Stack Cloud SSR with Next.js, Tailwind, and AWS CDK](https://dev.to/aws-builders/full-stack-cloud-ssr-with-next-js-tailwind-and-aws-cdk-416c)
 - [Testing the new CDK Construct to deploy a Serverless NextJS application in CloudFront and Lambda@Edge](https://dev.to/aws-builders/testing-the-new-cdk-construct-to-deploy-a-serverless-nextjs-application-in-cloudfront-and-lambda-edge-1ckk)
-- [How to upgrade CDK to latest version](https://dev.to/aws-builders/how-to-upgrade-cdk-to-latest-version-1np5)
 <!-- DEVTO_LIST:END -->
 
 ### Minhas últimas postagens no blog
