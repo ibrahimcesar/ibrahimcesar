@@ -32,6 +32,7 @@
 ### Latest published on Dev.to
 
 <!-- DEVTO_LIST:START -->
+- [We need to talk more about equality in tech](https://dev.to/ibrahimcesar/we-need-to-talk-more-about-equality-in-tech-4g2k)
 - [How to host a Next.js web apps with server-side rendering (SSR) in AWS Amplify](https://dev.to/aws-builders/how-to-host-a-next-js-web-apps-with-server-side-rendering-ssr-in-aws-amplify-3n3h)
 - [Why I made my open source React component private by default: an Open Source story](https://dev.to/ibrahimcesar/why-i-made-my-open-source-react-component-private-by-default-an-open-source-story-1jja)
 - [Redis:  Exploring Redis as Serverless Database to solve idempotence in APIs](https://dev.to/aws-builders/redis-exploring-redis-as-serverless-database-to-solve-idempotence-in-apis-2gma)
@@ -41,7 +42,6 @@
 - [My journey as an AWS Community Builder so far](https://dev.to/aws-builders/my-journey-as-an-aws-community-builder-so-far-14n8)
 - [Serverless is Ready, Developers Are Not](https://dev.to/aws-builders/serverless-is-ready-developers-are-not-12f9)
 - [Full Stack Cloud SSR with Next.js, Tailwind, and AWS CDK](https://dev.to/aws-builders/full-stack-cloud-ssr-with-next-js-tailwind-and-aws-cdk-416c)
-- [Testing the new CDK Construct to deploy a Serverless NextJS application in CloudFront and Lambda@Edge](https://dev.to/aws-builders/testing-the-new-cdk-construct-to-deploy-a-serverless-nextjs-application-in-cloudfront-and-lambda-edge-1ckk)
 <!-- DEVTO_LIST:END -->
 
 ### Minhas últimas postagens no blog
