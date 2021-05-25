@@ -6,7 +6,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ibrahimcesar?label=People%20following%20me%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=ibrahimcesar)
 
-> Se chegou aqui procurando hackers do Ministério da Saúde, eles não esttão aqui. Na verdade foi tudo [deliberadamentet colocado no ar pelo próprio ministério](https://twitter.com/ibrahimcesar/status/1351878131381112832).
+> Se chegou aqui procurando hackers do Ministério da Saúde, eles não estão aqui. Eles não existtem. É uma fabricação do governo e sua péssima atuação e polítticas irresponsáveis que passam pelos diversos Ministtérios e o Execuivo. Na verdade foi tudo [deliberadamentet colocado no ar pelo próprio ministério](https://twitter.com/ibrahimcesar/status/1351878131381112832).
 
 - 🦕 Diretor de Tecnologia no  [Nexo Jornal](https://www.nexojornal.com.br/), [Políticas Públicas](https://pp.nexojornal.com.br/) e [Revista Gama](https://gamarevista.com.br)
 - AWS Community Builder
