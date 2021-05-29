@@ -49,6 +49,7 @@
 ### Minhas últimas postagens no blog
 
 <!-- POSTS_LIST:START -->
+- [Multicloud: o que, quando e para quem?](https://ibrahimcesar.cloud/blog/multicloud:-o-que-quando-e-para-quem/)
 - [Segurança psicológica em tempos de pandemia](https://ibrahimcesar.cloud/blog/seguranca-psicologica-em-tempos-de-pandemia/)
 - [Por quê sistemas falham?](https://ibrahimcesar.cloud/blog/por-que-sistemas-falham/)
 - [Tupi or not Tupi?](https://ibrahimcesar.cloud/blog/tupi-or-not-tupi/)
@@ -58,7 +59,6 @@
 - [Nexo de Código Aberto](https://ibrahimcesar.cloud/blog/nexo-de-codigo-aberto/)
 - [Como eu parei de me preocupar e passei a amar a Nuvem](https://ibrahimcesar.cloud/blog/como-eu-parei-de-me-preocupar-e-passei-a-amar-a-nuvem/)
 - [Fundamentals of Software Arquitecture](https://ibrahimcesar.cloud/blog/fundamentals-of-software-arquitecture/)
-- [O Princípio Anna Kariênina](https://ibrahimcesar.cloud/blog/o-principio-anna-karienina/)
 <!-- POSTS_LIST:END -->
 
 
