@@ -49,7 +49,7 @@
 ### Minhas últimas postagens no blog
 
 <!-- POSTS_LIST:START -->
-- [Multicloud: o que, quando e para quem?](https://ibrahimcesar.cloud/blog/multicloud:-o-que-quando-e-para-quem/)
+- [Multicloud: o que, quando e para quem?](https://ibrahimcesar.cloud/blog/multicloud/)
 - [Segurança psicológica em tempos de pandemia](https://ibrahimcesar.cloud/blog/seguranca-psicologica-em-tempos-de-pandemia/)
 - [Por quê sistemas falham?](https://ibrahimcesar.cloud/blog/por-que-sistemas-falham/)
 - [Tupi or not Tupi?](https://ibrahimcesar.cloud/blog/tupi-or-not-tupi/)
