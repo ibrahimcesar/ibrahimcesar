@@ -8,7 +8,7 @@
 
 > Se chegou aqui procurando hackers do Ministério da Saúde, eles não estão aqui. Eles não existem. É uma fabricação do governo e sua péssima atuação e polítticas irresponsáveis que passam pelos diversos Ministérios e o Executivo. Na verdade foi tudo [deliberadamente colocado no ar pelo próprio ministério](https://twitter.com/ibrahimcesar/status/1351878131381112832).
 
-- 🦕 Diretor de Tecnologia no  [Nexo Jornal](https://www.nexojornal.com.br/), [Políticas Públicas](https://pp.nexojornal.com.br/) e [Revista Gama](https://gamarevista.com.br)
+- 🦕 &nbsp;&nbsp; Diretor de Tecnologia no  [Nexo Jornal](https://www.nexojornal.com.br/), [Políticas Públicas](https://pp.nexojornal.com.br/) e [Revista Gama](https://gamarevista.com.br)
 - AWS Community Builder
 - [Blog (pt-br)](https://ibrahimcesar.cloud)
 - [Blog (en)](https://en.ibrahimcesar.cloud)
@@ -24,10 +24,10 @@
     - Filosoficamente me alinho com a escola de pensamento OOO - Object Oriented Ontology (que não tem relação nenhuma com Orientação a Objetos da programação) de Graham Harman e Timothy Morton. Como abordagem prática de vida me chamaria de realista, mas me classificariam de pessimista (Pense em Schopenhauer e Thomas Ligotti)
     - Me casei e meu nome passou a ser Ibrahim Cesar Nogueira Bevilacqua, mas carrego no email corporativo o código legado de um dos meus antigos sobrenomes
 - /ɪ́brəhɪjm/
-- 😄  Ele/dele
-- 📫  cloud@ibrahimcesar.com
+- 😄  &nbsp;&nbsp; Ele/dele
+- 📫  &nbsp;&nbsp; cloud@ibrahimcesar.com
 
-## :octocat: [AMA - Ask Me Anything](https://github.com/ibrahimcesar/ibrahimcesar/discussions/categories/ama-ask-me-anything)
+## :octocat: &nbsp;&nbsp; [AMA - Ask Me Anything](https://github.com/ibrahimcesar/ibrahimcesar/discussions/categories/ama-ask-me-anything)
 
 ---
 
