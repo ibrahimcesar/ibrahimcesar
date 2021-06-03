@@ -9,6 +9,7 @@
 > Se chegou aqui procurando hackers do Ministério da Saúde, eles não estão aqui. Eles não existem. É uma fabricação do governo e sua péssima atuação e polítticas irresponsáveis que passam pelos diversos Ministérios e o Executivo. Na verdade foi tudo [deliberadamente colocado no ar pelo próprio ministério](https://twitter.com/ibrahimcesar/status/1351878131381112832).
 
 - 🦕 &nbsp;&nbsp; Diretor de Tecnologia no  [Nexo Jornal](https://www.nexojornal.com.br/), [Políticas Públicas](https://pp.nexojornal.com.br/) e [Revista Gama](https://gamarevista.com.br)
+- Meu [Manager README](https://github.com/ibrahimcesar/Manager-README)
 - AWS Community Builder
 - [Blog (pt-br)](https://ibrahimcesar.cloud)
 - [Blog (en)](https://en.ibrahimcesar.cloud)
