@@ -27,6 +27,7 @@
 - /ɪ́brəhɪjm/
 - 😄  &nbsp;&nbsp; Ele/dele
 - 📫  &nbsp;&nbsp; cloud@ibrahimcesar.com
+- Total acumulado de horas em **Animal Crossing: New Horizons** 1.115.
 
 ## :octocat: &nbsp;&nbsp; [AMA - Ask Me Anything](https://github.com/ibrahimcesar/ibrahimcesar/discussions/categories/ama-ask-me-anything)
 
