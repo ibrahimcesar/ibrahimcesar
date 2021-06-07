@@ -52,15 +52,15 @@
 
 <!-- POSTS_LIST:START -->
 - [Multi-cloud: o que, quando e para quem?](https://ibrahimcesar.cloud/blog/multicloud/)
-- [Segurança psicológica em tempos de pandemia](https://ibrahimcesar.cloud/blog/seguranca-psicologica-em-tempos-de-pandemia/)
-- [Por quê sistemas falham?](https://ibrahimcesar.cloud/blog/por-que-sistemas-falham/)
+- [Segurança psicológica em tempos de pandemia](https://ibrahimcesar.cloud/blog/seguran%C3%A7a-psicol%C3%B3gica-em-tempos-de-pandemia/)
+- [Por quê sistemas falham?](https://ibrahimcesar.cloud/blog/sistemas-falham/)
 - [Tupi or not Tupi?](https://ibrahimcesar.cloud/blog/tupi-or-not-tupi/)
-- [Apoio a Timnit Gebru e ética em algoritmos, por Celeste Kidd](https://ibrahimcesar.cloud/blog/apoio-a-timnit-gebru-e-etica-em-algoritmos-por-celeste-kidd/)
-- [The Art of Code, Dylan Beattie](https://ibrahimcesar.cloud/blog/the-art-of-code-dylan-beattie/)
+- [Apoio a Timnit Gebru e ética em algoritmos, por Celeste Kidd](https://ibrahimcesar.cloud/blog/vieses-em-algoritmos/)
+- [The Art of Code, Dylan Beattie](https://ibrahimcesar.cloud/blog/the-art-of-code/)
 - [10 livros de 2020](https://ibrahimcesar.cloud/blog/10-livros-de-2020/)
 - [Nexo de Código Aberto](https://ibrahimcesar.cloud/blog/nexo-de-codigo-aberto/)
-- [Como eu parei de me preocupar e passei a amar a Nuvem](https://ibrahimcesar.cloud/blog/como-eu-parei-de-me-preocupar-e-passei-a-amar-a-nuvem/)
-- [Fundamentals of Software Arquitecture](https://ibrahimcesar.cloud/blog/fundamentals-of-software-arquitecture/)
+- [Como eu parei de me preocupar e passei a amar a Nuvem](https://ibrahimcesar.cloud/blog/como-eu-parei-de-me-preocupar-e-passei-a-amar-a-Nuvem/)
+- [Fundamentals of Software Arquitecture](https://ibrahimcesar.cloud/blog/fundametals-of-software-architecture/)
 <!-- POSTS_LIST:END -->
 
 
