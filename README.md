@@ -82,9 +82,9 @@
 - [Implementing Domain-Driven Design](https://www.goodreads.com/review/show/3794484904?utm_medium=api&utm_source=rss) by Vaughn Vernon (⭐️4.07)
 - [Full Stack Serverless: Modern Application Development with React, Aws, and Graphql](https://www.goodreads.com/review/show/3487814004?utm_medium=api&utm_source=rss) by Nader Dabit (⭐️3.43)
 - [The Coding Career Handbook. Guides, Principles, Strategies, and Tactics – from Code Newbie to Senior Dev](https://www.goodreads.com/review/show/3744272696?utm_medium=api&utm_source=rss) by Shawn Swyx Wang (⭐️4.42)
-- [The Feeling of Life Itself: Why Consciousness Is Widespread But Can't Be Computed](https://www.goodreads.com/review/show/3728144506?utm_medium=api&utm_source=rss) by Christof Koch (⭐️3.72)
+- [The Feeling of Life Itself: Why Consciousness Is Widespread But Can't Be Computed](https://www.goodreads.com/review/show/3728144506?utm_medium=api&utm_source=rss) by Christof Koch (⭐️3.88)
 - [How Artifacts Afford: The Power and Politics of Everyday Things](https://www.goodreads.com/review/show/3723542645?utm_medium=api&utm_source=rss) by Jenny L.  Davis (⭐️4.5)
-- [Synthetic Biology: A Primer](https://www.goodreads.com/review/show/3721683207?utm_medium=api&utm_source=rss) by Geoff Baldwin (⭐️3.97)
+- [Synthetic Biology: A Primer](https://www.goodreads.com/review/show/3721683207?utm_medium=api&utm_source=rss) by Geoff Baldwin (⭐️4)
 <!-- READ_LIST:END -->
 
 ### Livros técnicos favoritos
