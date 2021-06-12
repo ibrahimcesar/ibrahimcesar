@@ -68,7 +68,7 @@
 
 <!-- READING_LIST:START -->
 - [Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy](https://www.goodreads.com/review/show/3950787152?utm_medium=api&utm_source=rss) by Cathy O&apos;Neil (⭐️3.87)
-- [Sooner Safer Happier: Patterns and Antipatterns for Organizational Agility](https://www.goodreads.com/review/show/3945357773?utm_medium=api&utm_source=rss) by Jonathan Smart (⭐️4.38)
+- [Sooner Safer Happier: Patterns and Antipatterns for Organizational Agility](https://www.goodreads.com/review/show/3945357773?utm_medium=api&utm_source=rss) by Jonathan Smart (⭐️4.36)
 - [The Adolescent](https://www.goodreads.com/review/show/3907651091?utm_medium=api&utm_source=rss) by Fyodor Dostoyevsky (⭐️3.95)
 <!-- READING_LIST:END -->
 
