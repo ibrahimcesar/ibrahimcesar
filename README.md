@@ -53,14 +53,14 @@
 <!-- POSTS_LIST:START -->
 - [A Trillion Dollar Paradox that never was](https://ibrahimcesar.cloud/blog/a-trillion-dollar-paradox-that-never-was/)
 - [Multi-cloud: o que, quando e para quem?](https://ibrahimcesar.cloud/blog/multicloud/)
+- [📘 #devbooks:  Effective TypeScript: 62 Specific Ways to Improve Your TypeScript](https://ibrahimcesar.cloud/blog/effective-typescript-62-specific-ways-to-improve-your-typescript-by-dan-vanderkam/)
 - [Segurança psicológica em tempos de pandemia](https://ibrahimcesar.cloud/blog/seguran%C3%A7a-psicol%C3%B3gica-em-tempos-de-pandemia/)
 - [Por quê sistemas falham?](https://ibrahimcesar.cloud/blog/sistemas-falham/)
 - [Tupi or not Tupi?](https://ibrahimcesar.cloud/blog/tupi-or-not-tupi/)
+- [📘 #devbooks:  why's (poignant) Guide to Ruby](https://ibrahimcesar.cloud/blog/whys-poignant-guide-to-ruby/)
+- [📘 #devbooks:  AWS Well-Architected Framework](https://ibrahimcesar.cloud/blog/aws-well-architected-framework/)
 - [Apoio a Timnit Gebru e ética em algoritmos, por Celeste Kidd](https://ibrahimcesar.cloud/blog/vieses-em-algoritmos/)
 - [The Art of Code, Dylan Beattie](https://ibrahimcesar.cloud/blog/the-art-of-code/)
-- [10 livros de 2020](https://ibrahimcesar.cloud/blog/10-livros-de-2020/)
-- [Nexo de Código Aberto](https://ibrahimcesar.cloud/blog/nexo-de-codigo-aberto/)
-- [Como eu parei de me preocupar e passei a amar a Nuvem](https://ibrahimcesar.cloud/blog/como-eu-parei-de-me-preocupar-e-passei-a-amar-a-Nuvem/)
 <!-- POSTS_LIST:END -->
 
 
