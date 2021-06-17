@@ -17,7 +17,6 @@
 - [Twitter](https://www.twitter.com/ibrahimcesar/)
 - [LinkedIn](https://www.linkedin.com/in/ibrahimcesar/)
 - [Dev.to](https://dev.to/ibrahimcesar)
-- [DevBooks](https://devbooks.club), pet project
 - 🌱 Atualmente estou aprendendo mais sobre TypeScript e CDK
 - ⚡ Fun facts: 
     - Sou **grande** fã do Tolstói e Van Gogh
