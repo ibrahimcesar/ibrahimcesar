@@ -40,11 +40,11 @@
 - [📘 #devbooks:  Effective TypeScript: 62 Specific Ways to Improve Your TypeScript](https://ibrahimcesar.cloud/blog/effective-typescript-62-specific-ways-to-improve-your-typescript-by-dan-vanderkam/)
 - [Segurança psicológica em tempos de pandemia](https://ibrahimcesar.cloud/blog/seguran%C3%A7a-psicol%C3%B3gica-em-tempos-de-pandemia/)
 - [Por quê sistemas falham?](https://ibrahimcesar.cloud/blog/sistemas-falham/)
+- [Serverless is Ready, Developers Are Not](https://ibrahimcesar.cloud/blog/serverless-is-ready-developers-are-not/)
 - [Tupi or not Tupi?](https://ibrahimcesar.cloud/blog/tupi-or-not-tupi/)
 - [📘 #devbooks:  why's (poignant) Guide to Ruby](https://ibrahimcesar.cloud/blog/whys-poignant-guide-to-ruby/)
+- [Testing a new CDK Construct to deploy a Serverless NextJS application with CloudFront and Lambda@Edge](https://ibrahimcesar.cloud/blog/testing-a-new-cdk-construct-to-deploy-a-serverless-nextjs-application-in-cloudfront-and-lambda-at-edge/)
 - [📘 #devbooks:  AWS Well-Architected Framework](https://ibrahimcesar.cloud/blog/aws-well-architected-framework/)
-- [Apoio a Timnit Gebru e ética em algoritmos, por Celeste Kidd](https://ibrahimcesar.cloud/blog/vieses-em-algoritmos/)
-- [The Art of Code, Dylan Beattie](https://ibrahimcesar.cloud/blog/the-art-of-code/)
 <!-- POSTS_LIST:END -->
 
 
