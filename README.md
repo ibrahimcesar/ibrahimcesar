@@ -48,22 +48,6 @@
 <!-- POSTS_LIST:END -->
 
 
-### Latest published on Dev.to
-
-<!-- DEVTO_LIST:START -->
-- [A Trillion Dollar Paradox that never was: the largest bank in Latin America will move half of its infra to AWS Cloud](https://dev.to/aws-builders/a-trillion-dollar-paradox-that-never-was-the-largest-bank-in-latin-america-will-move-half-of-its-infra-to-aws-cloud-4ba2)
-- [We need to talk more about equality in tech](https://dev.to/ibrahimcesar/we-need-to-talk-more-about-equality-in-tech-4g2k)
-- [How to host a Next.js web apps with server-side rendering (SSR) in AWS Amplify](https://dev.to/aws-builders/how-to-host-a-next-js-web-apps-with-server-side-rendering-ssr-in-aws-amplify-3n3h)
-- [Why I made my open source React component private by default: an Open Source story](https://dev.to/ibrahimcesar/why-i-made-my-open-source-react-component-private-by-default-an-open-source-story-1jja)
-- [Redis:  Exploring Redis as Serverless Database to solve idempotence in APIs](https://dev.to/aws-builders/redis-exploring-redis-as-serverless-database-to-solve-idempotence-in-apis-2gma)
-- [Open letter to AWS: Please, give us a price cap](https://dev.to/aws-builders/open-letter-to-aws-please-give-us-price-cap-4ge6)
-- [Happy little clouds: finding my way with CDK](https://dev.to/aws-builders/happy-little-clouds-find-my-way-with-cdk-1fj3)
-- [The State of Serverless Databases in AWS](https://dev.to/aws-builders/the-state-of-serverless-databases-in-aws-part-0-162c)
-- [My journey as an AWS Community Builder so far](https://dev.to/aws-builders/my-journey-as-an-aws-community-builder-so-far-14n8)
-- [Serverless is Ready, Developers Are Not](https://dev.to/aws-builders/serverless-is-ready-developers-are-not-12f9)
-<!-- DEVTO_LIST:END -->
-
-
 ### Lendo atualmente... 📚
 
 <!-- READING_LIST:START -->
