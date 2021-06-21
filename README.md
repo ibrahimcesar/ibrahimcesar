@@ -37,14 +37,14 @@
 <!-- POSTS_LIST:START -->
 - [A Trillion Dollar Paradox that never was](https://ibrahimcesar.cloud/blog/a-trillion-dollar-paradox-that-never-was/)
 - [Multi-cloud: o que, quando e para quem?](https://ibrahimcesar.cloud/blog/multicloud/)
+- [We need to talk more about equality in tech](https://ibrahimcesar.cloud/blog/we-need-to-talk-more-about-equality-in-tech/)
+- [Why I made my open source React component private by default](https://ibrahimcesar.cloud/blog/why-i-made-my-open-source-react-component-private-by-default/)
 - [📘 #devbooks:  Effective TypeScript: 62 Specific Ways to Improve Your TypeScript](https://ibrahimcesar.cloud/blog/effective-typescript-62-specific-ways-to-improve-your-typescript-by-dan-vanderkam/)
+- [Redis: Exploring Redis as Serverless Database to solve idempotence in APIs](https://ibrahimcesar.cloud/blog/redis-exploring-redis-as-serverless-databases-to-solve-idempotence-in-api-upstash/)
+- [Open letter to AWS: Please, give us a price cap](https://ibrahimcesar.cloud/blog/open-letter-to-aws-please-give-us-a-price-cap/)
 - [Segurança psicológica em tempos de pandemia](https://ibrahimcesar.cloud/blog/seguran%C3%A7a-psicol%C3%B3gica-em-tempos-de-pandemia/)
-- [Por quê sistemas falham?](https://ibrahimcesar.cloud/blog/sistemas-falham/)
-- [Serverless is Ready, Developers Are Not](https://ibrahimcesar.cloud/blog/serverless-is-ready-developers-are-not/)
-- [Tupi or not Tupi?](https://ibrahimcesar.cloud/blog/tupi-or-not-tupi/)
-- [📘 #devbooks:  why's (poignant) Guide to Ruby](https://ibrahimcesar.cloud/blog/whys-poignant-guide-to-ruby/)
-- [Testing a new CDK Construct to deploy a Serverless NextJS application with CloudFront and Lambda@Edge](https://ibrahimcesar.cloud/blog/testing-a-new-cdk-construct-to-deploy-a-serverless-nextjs-application-in-cloudfront-and-lambda-at-edge/)
-- [📘 #devbooks:  AWS Well-Architected Framework](https://ibrahimcesar.cloud/blog/aws-well-architected-framework/)
+- [Happy little clouds: finding my way with CDK](https://ibrahimcesar.cloud/blog/happy-little-clouds-finding-my-way-with-cdk/)
+- [The State of Serverless Databases in AWS](https://ibrahimcesar.cloud/blog/the-state-of-serverless-databases-in-aws/)
 <!-- POSTS_LIST:END -->
 
 
