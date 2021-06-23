@@ -66,14 +66,14 @@
 <!-- READ_LIST:START -->
 - [Sooner Safer Happier: Patterns and Antipatterns for Organizational Agility](https://www.goodreads.com/review/show/3945357773?utm_medium=api&utm_source=rss) by Jonathan Smart (⭐️4.34)
 - [Your Computer Is on Fire](https://www.goodreads.com/review/show/3965353369?utm_medium=api&utm_source=rss) by Thomas S. Mullaney (⭐️4)
-- [O Duplo](https://www.goodreads.com/review/show/2723281419?utm_medium=api&utm_source=rss) by Fyodor Dostoyevsky (⭐️3.95)
+- [O Duplo](https://www.goodreads.com/review/show/2723281419?utm_medium=api&utm_source=rss) by Fyodor Dostoyevsky (⭐️3.96)
 - [O Capote E Outras Histórias](https://www.goodreads.com/review/show/3907649753?utm_medium=api&utm_source=rss) by Nikolai Gogol (⭐️4.32)
 - [Os Demônios](https://www.goodreads.com/review/show/2723276513?utm_medium=api&utm_source=rss) by Fyodor Dostoyevsky (⭐️4.52)
 - [Implementing Domain-Driven Design](https://www.goodreads.com/review/show/3794484904?utm_medium=api&utm_source=rss) by Vaughn Vernon (⭐️4.07)
 - [Full Stack Serverless: Modern Application Development with React, Aws, and Graphql](https://www.goodreads.com/review/show/3487814004?utm_medium=api&utm_source=rss) by Nader Dabit (⭐️3.43)
 - [The Coding Career Handbook. Guides, Principles, Strategies, and Tactics – from Code Newbie to Senior Dev](https://www.goodreads.com/review/show/3744272696?utm_medium=api&utm_source=rss) by Shawn Swyx Wang (⭐️4.42)
 - [The Feeling of Life Itself: Why Consciousness Is Widespread But Can't Be Computed](https://www.goodreads.com/review/show/3728144506?utm_medium=api&utm_source=rss) by Christof Koch (⭐️3.88)
-- [How Artifacts Afford: The Power and Politics of Everyday Things](https://www.goodreads.com/review/show/3723542645?utm_medium=api&utm_source=rss) by Jenny L.  Davis (⭐️4.5)
+- [How Artifacts Afford: The Power and Politics of Everyday Things](https://www.goodreads.com/review/show/3723542645?utm_medium=api&utm_source=rss) by Jenny L.  Davis (⭐️4.53)
 <!-- READ_LIST:END -->
 
 ### Livros técnicos favoritos
