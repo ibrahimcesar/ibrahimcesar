@@ -52,7 +52,7 @@
 
 <!-- READING_LIST:START -->
 - [The Adolescent](https://www.goodreads.com/review/show/3907651091?utm_medium=api&utm_source=rss) by Fyodor Dostoyevsky (⭐️3.95)
-- [Domain-Driven Design Distilled](https://www.goodreads.com/review/show/3794487218?utm_medium=api&utm_source=rss) by Vaughn Vernon (⭐️3.72)
+- [Domain-Driven Design Distilled](https://www.goodreads.com/review/show/3794487218?utm_medium=api&utm_source=rss) by Vaughn Vernon (⭐️3.73)
 - [Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation](https://www.goodreads.com/review/show/3747959698?utm_medium=api&utm_source=rss) by Jez Humble (⭐️4.18)
 - [O Oráculo da Noite : A História e a Ciência do Sonho](https://www.goodreads.com/review/show/3744391446?utm_medium=api&utm_source=rss) by Sidarta Ribeiro (⭐️4.29)
 - [Cloud Native Patterns: Designing change-tolerant software](https://www.goodreads.com/review/show/3744387924?utm_medium=api&utm_source=rss) by Cornelia Davis (⭐️4.23)
