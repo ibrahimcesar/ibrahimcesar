@@ -35,6 +35,7 @@
 ### Minhas últimas postagens no blog
 
 <!-- POSTS_LIST:START -->
+- [AI é de esquerda e Cripto é de direita?](https://ibrahimcesar.cloud/blog/ai-e-de-esquerda-cripto-bitocin-e-de-direita/)
 - [A Trillion Dollar Paradox that never was](https://ibrahimcesar.cloud/blog/a-trillion-dollar-paradox-that-never-was/)
 - [Multi-cloud: o que, quando e para quem?](https://ibrahimcesar.cloud/blog/multicloud/)
 - [We need to talk more about equality in tech](https://ibrahimcesar.cloud/blog/we-need-to-talk-more-about-equality-in-tech/)
@@ -44,7 +45,6 @@
 - [Open letter to AWS: Please, give us a price cap](https://ibrahimcesar.cloud/blog/open-letter-to-aws-please-give-us-a-price-cap/)
 - [Segurança psicológica em tempos de pandemia](https://ibrahimcesar.cloud/blog/seguran%C3%A7a-psicol%C3%B3gica-em-tempos-de-pandemia/)
 - [Happy little clouds: finding my way with CDK](https://ibrahimcesar.cloud/blog/happy-little-clouds-finding-my-way-with-cdk/)
-- [The State of Serverless Databases in AWS](https://ibrahimcesar.cloud/blog/the-state-of-serverless-databases-in-aws/)
 <!-- POSTS_LIST:END -->
 
 
