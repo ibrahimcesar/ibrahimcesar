@@ -10,8 +10,7 @@
 - 🦕 &nbsp;&nbsp; Diretor de Tecnologia no  [Nexo Jornal](https://www.nexojornal.com.br/), [Políticas Públicas](https://pp.nexojornal.com.br/) e [Revista Gama](https://gamarevista.com.br)
 - Meu [Manager README](https://github.com/ibrahimcesar/Manager-README)
 - AWS Community Builder
-- [Blog (pt-br)](https://ibrahimcesar.cloud)
-- [Blog (en)](https://en.ibrahimcesar.cloud)
+- [Blog (en && pt-br)](https://ibrahimcesar.cloud)
 - [Nanodegree AWS Cloud Architect pela Udacity](https://graduation.udacity.com/confirm/UDRWJKSP)
 - [Twitter](https://www.twitter.com/ibrahimcesar/)
 - [LinkedIn](https://www.linkedin.com/in/ibrahimcesar/)
