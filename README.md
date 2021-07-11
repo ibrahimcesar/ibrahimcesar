@@ -33,6 +33,7 @@
 ### Minhas últimas postagens no blog
 
 <!-- POSTS_LIST:START -->
+- [📘 #devbooks:  Sooner, Safer, Happier: Antipatterns and Patterns for Business Agility](https://ibrahimcesar.cloud/blog/sooner-safer-happier-antipatterns-and-patterns-for-business-by-jonathan-smart/)
 - [AI é de esquerda e Cripto é de direita?](https://ibrahimcesar.cloud/blog/ai-e-de-esquerda-cripto-bitocin-e-de-direita/)
 - [A Trillion Dollar Paradox that never was](https://ibrahimcesar.cloud/blog/a-trillion-dollar-paradox-that-never-was/)
 - [Multi-cloud: o que, quando e para quem?](https://ibrahimcesar.cloud/blog/multicloud/)
@@ -42,7 +43,6 @@
 - [Redis: Exploring Redis as Serverless Database to solve idempotence in APIs](https://ibrahimcesar.cloud/blog/redis-exploring-redis-as-serverless-databases-to-solve-idempotence-in-api-upstash/)
 - [Open letter to AWS: Please, give us a price cap](https://ibrahimcesar.cloud/blog/open-letter-to-aws-please-give-us-a-price-cap/)
 - [Segurança psicológica em tempos de pandemia](https://ibrahimcesar.cloud/blog/seguran%C3%A7a-psicol%C3%B3gica-em-tempos-de-pandemia/)
-- [Happy little clouds: finding my way with CDK](https://ibrahimcesar.cloud/blog/happy-little-clouds-finding-my-way-with-cdk/)
 <!-- POSTS_LIST:END -->
 
 
