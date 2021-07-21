@@ -33,6 +33,7 @@
 ### Minhas últimas postagens no blog
 
 <!-- POSTS_LIST:START -->
+- [Estrutura e Interpretação de Programas de Computador](https://ibrahimcesar.cloud/blog/estrutura-e-interpretacao-de-programas-de-computador/)
 - [#webdev: Anatomia de uma URL](https://ibrahimcesar.cloud/blog/anatomia-de-uma-url/)
 - [📘 #devbooks:  Sooner, Safer, Happier: Antipatterns and Patterns for Business Agility](https://ibrahimcesar.cloud/blog/sooner-safer-happier-antipatterns-and-patterns-for-business-by-jonathan-smart/)
 - [AI é de esquerda e Cripto é de direita?](https://ibrahimcesar.cloud/blog/ai-e-de-esquerda-cripto-bitocin-e-de-direita/)
@@ -42,7 +43,6 @@
 - [Why I made my open source React component private by default](https://ibrahimcesar.cloud/blog/why-i-made-my-open-source-react-component-private-by-default/)
 - [📘 #devbooks:  Effective TypeScript: 62 Specific Ways to Improve Your TypeScript](https://ibrahimcesar.cloud/blog/effective-typescript-62-specific-ways-to-improve-your-typescript-by-dan-vanderkam/)
 - [Redis: Exploring Redis as Serverless Database to solve idempotence in APIs](https://ibrahimcesar.cloud/blog/redis-exploring-redis-as-serverless-databases-to-solve-idempotence-in-api-upstash/)
-- [Open letter to AWS: Please, give us a price cap](https://ibrahimcesar.cloud/blog/open-letter-to-aws-please-give-us-a-price-cap/)
 <!-- POSTS_LIST:END -->
 
 
