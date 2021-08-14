@@ -32,6 +32,7 @@
 ### Minhas últimas postagens no blog
 
 <!-- POSTS_LIST:START -->
+- [Do Zero a “Salve Mundo” com AWS CDK](https://ibrahimcesar.cloud/blog/do-zero-ao-salve-mundo-em-aws-cdk-cloud-development-kit/)
 - [Estrutura e Interpretação de Programas de Computador](https://ibrahimcesar.cloud/blog/estrutura-e-interpretacao-de-programas-de-computador/)
 - [#webdev: Anatomia de uma URL](https://ibrahimcesar.cloud/blog/anatomia-de-uma-url/)
 - [📘 #devbooks:  Sooner, Safer, Happier: Antipatterns and Patterns for Business Agility](https://ibrahimcesar.cloud/blog/sooner-safer-happier-antipatterns-and-patterns-for-business-by-jonathan-smart/)
@@ -41,7 +42,6 @@
 - [We need to talk more about equality in tech](https://ibrahimcesar.cloud/blog/we-need-to-talk-more-about-equality-in-tech/)
 - [Why I made my open source React component private by default](https://ibrahimcesar.cloud/blog/why-i-made-my-open-source-react-component-private-by-default/)
 - [📘 #devbooks:  Effective TypeScript: 62 Specific Ways to Improve Your TypeScript](https://ibrahimcesar.cloud/blog/effective-typescript-62-specific-ways-to-improve-your-typescript-by-dan-vanderkam/)
-- [Redis: Exploring Redis as Serverless Database to solve idempotence in APIs](https://ibrahimcesar.cloud/blog/redis-exploring-redis-as-serverless-databases-to-solve-idempotence-in-api-upstash/)
 <!-- POSTS_LIST:END -->
 
 
