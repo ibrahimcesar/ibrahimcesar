@@ -62,10 +62,10 @@
 
 <!-- READ_LIST:START -->
 - [Sooner Safer Happier: Patterns and Antipatterns for Organizational Agility](https://www.goodreads.com/review/show/3945357773?utm_medium=api&utm_source=rss) by Jonathan Smart (⭐️4.33)
-- [Your Computer Is on Fire](https://www.goodreads.com/review/show/3965353369?utm_medium=api&utm_source=rss) by Thomas S. Mullaney (⭐️4.05)
+- [Your Computer Is on Fire](https://www.goodreads.com/review/show/3965353369?utm_medium=api&utm_source=rss) by Thomas S. Mullaney (⭐️4)
 - [O Duplo](https://www.goodreads.com/review/show/2723281419?utm_medium=api&utm_source=rss) by Fyodor Dostoyevsky (⭐️3.95)
 - [O Capote E Outras Histórias](https://www.goodreads.com/review/show/3907649753?utm_medium=api&utm_source=rss) by Nikolai Gogol (⭐️4.33)
-- [Os Demônios](https://www.goodreads.com/review/show/2723276513?utm_medium=api&utm_source=rss) by Fyodor Dostoyevsky (⭐️4.51)
+- [Os Demônios](https://www.goodreads.com/review/show/2723276513?utm_medium=api&utm_source=rss) by Fyodor Dostoyevsky (⭐️4.52)
 - [Implementing Domain-Driven Design](https://www.goodreads.com/review/show/3794484904?utm_medium=api&utm_source=rss) by Vaughn Vernon (⭐️4.07)
 - [Full Stack Serverless: Modern Application Development with React, Aws, and Graphql](https://www.goodreads.com/review/show/3487814004?utm_medium=api&utm_source=rss) by Nader Dabit (⭐️3.56)
 - [The Coding Career Handbook. Guides, Principles, Strategies, and Tactics – from Code Newbie to Senior Dev](https://www.goodreads.com/review/show/3744272696?utm_medium=api&utm_source=rss) by Shawn Swyx Wang (⭐️4.46)
