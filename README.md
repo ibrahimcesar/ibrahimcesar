@@ -32,6 +32,7 @@
 ### Minhas últimas postagens no blog
 
 <!-- POSTS_LIST:START -->
+- [Next.js TypeScript serverless deploy with SSR and ISR with AWS CDK](https://ibrahimcesar.cloud/blog/nextjs-typescript-serverless-deploy-with-ssr-and-isr-with-aws-cdk/)
 - [Do Zero a “Salve Mundo” com AWS CDK](https://ibrahimcesar.cloud/blog/do-zero-ao-salve-mundo-em-aws-cdk-cloud-development-kit/)
 - [Estrutura e Interpretação de Programas de Computador](https://ibrahimcesar.cloud/blog/estrutura-e-interpretacao-de-programas-de-computador/)
 - [#webdev: Anatomia de uma URL](https://ibrahimcesar.cloud/blog/anatomia-de-uma-url/)
@@ -41,7 +42,6 @@
 - [Multi-cloud: o que, quando e para quem?](https://ibrahimcesar.cloud/blog/multicloud/)
 - [We need to talk more about equality in tech](https://ibrahimcesar.cloud/blog/we-need-to-talk-more-about-equality-in-tech/)
 - [Why I made my open source React component private by default](https://ibrahimcesar.cloud/blog/why-i-made-my-open-source-react-component-private-by-default/)
-- [📘 #devbooks:  Effective TypeScript: 62 Specific Ways to Improve Your TypeScript](https://ibrahimcesar.cloud/blog/effective-typescript-62-specific-ways-to-improve-your-typescript-by-dan-vanderkam/)
 <!-- POSTS_LIST:END -->
 
 
