@@ -55,7 +55,7 @@
 - [Cloud Native Patterns: Designing change-tolerant software](https://www.goodreads.com/review/show/3744387924?utm_medium=api&utm_source=rss) by Cornelia Davis (⭐️4.17)
 - [Solutions Architect's Handbook: Kick-start your solutions architect career by learning architecture design principles and strategies](https://www.goodreads.com/review/show/3698008428?utm_medium=api&utm_source=rss) by Saurabh Shrivastava (⭐️4.17)
 - [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.goodreads.com/review/show/3668099235?utm_medium=api&utm_source=rss) by Eric Evans (⭐️4.15)
-- [Are We Smart Enough to Know How Smart Animals Are?](https://www.goodreads.com/review/show/2896016684?utm_medium=api&utm_source=rss) by Frans de Waal (⭐️3.88)
+- [Are We Smart Enough to Know How Smart Animals Are?](https://www.goodreads.com/review/show/2896016684?utm_medium=api&utm_source=rss) by Frans de Waal (⭐️3.87)
 <!-- READING_LIST:END -->
 
 ### Últimos livros lidos 📚
