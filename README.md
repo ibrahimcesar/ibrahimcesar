@@ -66,11 +66,11 @@
 - [チェンソーマン 10 (Chainsaw Man, #10)](https://www.goodreads.com/review/show/4206373839?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐️4.47)
 - [チェンソーマン 8 (Chainsaw Man, #8)](https://www.goodreads.com/review/show/4206374423?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐️4.41)
 - [チェンソーマン 3 (Chainsaw Man, #3)](https://www.goodreads.com/review/show/4206374752?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐️4.3)
-- [チェンソーマン 7 (Chainsaw Man, #7)](https://www.goodreads.com/review/show/4206375670?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐️4.34)
+- [チェンソーマン 7 (Chainsaw Man, #7)](https://www.goodreads.com/review/show/4206375670?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐️4.33)
 - [チェンソーマン 11 (Chainsaw Man, #11)](https://www.goodreads.com/review/show/4206375947?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐️4.47)
-- [チェンソーマン 6 (Chainsaw Man, #6)](https://www.goodreads.com/review/show/4206376307?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐️4.41)
+- [チェンソーマン 6 (Chainsaw Man, #6)](https://www.goodreads.com/review/show/4206376307?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐️4.4)
 - [チェンソーマン 2 (Chainsaw Man, #2)](https://www.goodreads.com/review/show/4206375369?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐️4.26)
-- [チェンソーマン 9 (Chainsaw Man, #9)](https://www.goodreads.com/review/show/4206374155?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐️4.59)
+- [チェンソーマン 9 (Chainsaw Man, #9)](https://www.goodreads.com/review/show/4206374155?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐️4.58)
 - [Sooner Safer Happier: Patterns and Antipatterns for Organizational Agility](https://www.goodreads.com/review/show/3945357773?utm_medium=api&utm_source=rss) by Jonathan Smart (⭐️4.33)
 <!-- READ_LIST:END -->
 
