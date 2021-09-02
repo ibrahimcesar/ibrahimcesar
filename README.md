@@ -32,6 +32,7 @@
 ### Minhas últimas postagens no blog
 
 <!-- POSTS_LIST:START -->
+- [The material question with Google's Core Web Vitals](https://ibrahimcesar.cloud/blog/the-material-question-with-google-web-core-vitals/)
 - [Next.js TypeScript serverless deploy with SSR and ISR with AWS CDK](https://ibrahimcesar.cloud/blog/nextjs-typescript-serverless-deploy-with-ssr-and-isr-with-aws-cdk/)
 - [Do Zero a “Salve Mundo” com AWS CDK](https://ibrahimcesar.cloud/blog/do-zero-ao-salve-mundo-em-aws-cdk-cloud-development-kit/)
 - [Estrutura e Interpretação de Programas de Computador](https://ibrahimcesar.cloud/blog/estrutura-e-interpretacao-de-programas-de-computador/)
@@ -41,7 +42,6 @@
 - [A Trillion Dollar Paradox that never was](https://ibrahimcesar.cloud/blog/a-trillion-dollar-paradox-that-never-was/)
 - [Multi-cloud: o que, quando e para quem?](https://ibrahimcesar.cloud/blog/multicloud/)
 - [We need to talk more about equality in tech](https://ibrahimcesar.cloud/blog/we-need-to-talk-more-about-equality-in-tech/)
-- [Why I made my open source React component private by default](https://ibrahimcesar.cloud/blog/why-i-made-my-open-source-react-component-private-by-default/)
 <!-- POSTS_LIST:END -->
 
 
