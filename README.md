@@ -71,7 +71,7 @@
 - [チェンソーマン 6 (Chainsaw Man, #6)](https://www.goodreads.com/review/show/4206376307?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐️4.4)
 - [チェンソーマン 2 (Chainsaw Man, #2)](https://www.goodreads.com/review/show/4206375369?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐️4.26)
 - [チェンソーマン 9 (Chainsaw Man, #9)](https://www.goodreads.com/review/show/4206374155?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐️4.58)
-- [Sooner Safer Happier: Patterns and Antipatterns for Organizational Agility](https://www.goodreads.com/review/show/3945357773?utm_medium=api&utm_source=rss) by Jonathan Smart (⭐️4.33)
+- [Sooner Safer Happier: Patterns and Antipatterns for Organizational Agility](https://www.goodreads.com/review/show/3945357773?utm_medium=api&utm_source=rss) by Jonathan Smart (⭐️4.25)
 <!-- READ_LIST:END -->
 
 ### Livros técnicos favoritos
