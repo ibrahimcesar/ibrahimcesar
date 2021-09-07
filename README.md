@@ -48,13 +48,13 @@
 ### Lendo atualmente... 📚
 
 <!-- READING_LIST:START -->
-- [An Ugly Truth: Inside Facebook's Battle for Domination](https://www.goodreads.com/review/show/4206887563?utm_medium=api&utm_source=rss) by Sheera Frenkel (⭐️4.1)
+- [An Ugly Truth: Inside Facebook's Battle for Domination](https://www.goodreads.com/review/show/4206887563?utm_medium=api&utm_source=rss) by Sheera Frenkel (⭐️4.09)
 - [The Adolescent](https://www.goodreads.com/review/show/3907651091?utm_medium=api&utm_source=rss) by Fyodor Dostoevsky (⭐️3.95)
 - [Domain-Driven Design Distilled](https://www.goodreads.com/review/show/3794487218?utm_medium=api&utm_source=rss) by Vaughn Vernon (⭐️3.72)
 - [Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation](https://www.goodreads.com/review/show/3747959698?utm_medium=api&utm_source=rss) by Jez Humble (⭐️4.18)
-- [O Oráculo da Noite : A História e a Ciência do Sonho](https://www.goodreads.com/review/show/3744391446?utm_medium=api&utm_source=rss) by Sidarta Ribeiro (⭐️4.31)
+- [O Oráculo da Noite : A História e a Ciência do Sonho](https://www.goodreads.com/review/show/3744391446?utm_medium=api&utm_source=rss) by Sidarta Ribeiro (⭐️4.29)
 - [Cloud Native Patterns: Designing change-tolerant software](https://www.goodreads.com/review/show/3744387924?utm_medium=api&utm_source=rss) by Cornelia Davis (⭐️4.16)
-- [Solutions Architect's Handbook: Kick-start your solutions architect career by learning architecture design principles and strategies](https://www.goodreads.com/review/show/3698008428?utm_medium=api&utm_source=rss) by Saurabh Shrivastava (⭐️4.17)
+- [Solutions Architect's Handbook: Kick-start your solutions architect career by learning architecture design principles and strategies](https://www.goodreads.com/review/show/3698008428?utm_medium=api&utm_source=rss) by Saurabh Shrivastava (⭐️4.23)
 - [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.goodreads.com/review/show/3668099235?utm_medium=api&utm_source=rss) by Eric Evans (⭐️4.15)
 - [Are We Smart Enough to Know How Smart Animals Are?](https://www.goodreads.com/review/show/2896016684?utm_medium=api&utm_source=rss) by Frans de Waal (⭐️3.88)
 <!-- READING_LIST:END -->
