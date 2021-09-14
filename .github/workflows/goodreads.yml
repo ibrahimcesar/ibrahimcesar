@@ -15,14 +15,3 @@ jobs:
           goodreads_user_id: "15886916"
           shelf: "currently-reading"
           max_books_count: 10
-  
-  update-readme-with-goodreads-books-read:
-    name: Read List
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: zwacky/goodreads-profile-workflow@main
-        with:
-          comment_tag_name: "READ_LIST"
-          goodreads_user_id: "15886916"
-          shelf: "read"
