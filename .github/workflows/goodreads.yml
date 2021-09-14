@@ -1,4 +1,4 @@
-name: Latest books
+name: Latest books reading
 on:
   schedule:
     - cron: "0 12 * * *"
