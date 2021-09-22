@@ -61,11 +61,11 @@
 ### Últimos livros lidos 📚
 
 <!-- READ_LIST:START -->
-- [An Ugly Truth: Inside Facebook's Battle for Domination](https://www.goodreads.com/review/show/4206887563?utm_medium=api&utm_source=rss) by Sheera Frenkel (⭐️4.07)
+- [An Ugly Truth: Inside Facebook's Battle for Domination](https://www.goodreads.com/review/show/4206887563?utm_medium=api&utm_source=rss) by Sheera Frenkel (⭐️4.08)
 - [Chainsaw Man, Vol. 1](https://www.goodreads.com/review/show/4206373494?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐️4.34)
 - [チェンソーマン 10 (Chainsaw Man, #10)](https://www.goodreads.com/review/show/4206373839?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐️4.47)
 - [チェンソーマン 8 (Chainsaw Man, #8)](https://www.goodreads.com/review/show/4206374423?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐️4.41)
-- [チェンソーマン 3 (Chainsaw Man, #3)](https://www.goodreads.com/review/show/4206374752?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐️4.31)
+- [チェンソーマン 3 (Chainsaw Man, #3)](https://www.goodreads.com/review/show/4206374752?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐️4.32)
 - [チェンソーマン 7 (Chainsaw Man, #7)](https://www.goodreads.com/review/show/4206375670?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐️4.34)
 - [チェンソーマン 11 (Chainsaw Man, #11)](https://www.goodreads.com/review/show/4206375947?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐️4.47)
 - [チェンソーマン 6 (Chainsaw Man, #6)](https://www.goodreads.com/review/show/4206376307?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐️4.41)
