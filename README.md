@@ -61,16 +61,16 @@
 ### Últimos livros lidos 📚
 
 <!-- READ_LIST:START -->
-- [An Ugly Truth: Inside Facebook's Battle for Domination](https://www.goodreads.com/review/show/4206887563?utm_medium=api&utm_source=rss) by Sheera Frenkel (⭐️4.06)
-- [Chainsaw Man, Vol. 1](https://www.goodreads.com/review/show/4206373494?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐️4.34)
-- [チェンソーマン 10 (Chainsaw Man, #10)](https://www.goodreads.com/review/show/4206373839?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐️4.47)
-- [チェンソーマン 8 (Chainsaw Man, #8)](https://www.goodreads.com/review/show/4206374423?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐️4.41)
-- [チェンソーマン 3 (Chainsaw Man, #3)](https://www.goodreads.com/review/show/4206374752?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐️4.32)
-- [チェンソーマン 7 (Chainsaw Man, #7)](https://www.goodreads.com/review/show/4206375670?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐️4.34)
-- [チェンソーマン 11 (Chainsaw Man, #11)](https://www.goodreads.com/review/show/4206375947?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐️4.47)
-- [チェンソーマン 6 (Chainsaw Man, #6)](https://www.goodreads.com/review/show/4206376307?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐️4.4)
-- [チェンソーマン 2 (Chainsaw Man, #2)](https://www.goodreads.com/review/show/4206375369?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐️4.28)
-- [チェンソーマン 9 (Chainsaw Man, #9)](https://www.goodreads.com/review/show/4206374155?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐️4.58)
+- [The Weird and the Eerie](https://www.goodreads.com/review/show/2720428966?utm_medium=api&utm_source=rss) by Mark Fisher (⭐️4.07)
+- [Ressurreição](https://www.goodreads.com/review/show/2835263137?utm_medium=api&utm_source=rss) by Leo Tolstoy (⭐️4.06)
+- [O Duplo](https://www.goodreads.com/review/show/2723281419?utm_medium=api&utm_source=rss) by Fyodor Dostoevsky (⭐️3.95)
+- [O Capote E Outras Histórias](https://www.goodreads.com/review/show/3907649753?utm_medium=api&utm_source=rss) by Nikolai Gogol (⭐️4.33)
+- [Os Demônios](https://www.goodreads.com/review/show/2723276513?utm_medium=api&utm_source=rss) by Fyodor Dostoevsky (⭐️4.52)
+- [Creating Character Arcs: The Masterful Author's Guide to Uniting Story Structure](https://www.goodreads.com/review/show/2723310291?utm_medium=api&utm_source=rss) by K.M. Weiland (⭐️4.38)
+- [Progressive Web Apps](https://www.goodreads.com/review/show/3198264329?utm_medium=api&utm_source=rss) by Jason Grigsby (⭐️4.11)
+- [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://www.goodreads.com/review/show/3479336854?utm_medium=api&utm_source=rss) by Gene Kim (⭐️4.31)
+- [Resilient Management](https://www.goodreads.com/review/show/3138002690?utm_medium=api&utm_source=rss) by Lara   Hogan (⭐️4.44)
+- [No Immediate Danger: Volume One of Carbon Ideologies](https://www.goodreads.com/review/show/2791702770?utm_medium=api&utm_source=rss) by William T. Vollmann (⭐️3.64)
 <!-- READ_LIST:END -->
 
 ### Livros técnicos favoritos
