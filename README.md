@@ -14,7 +14,7 @@
 - [Nanodegree AWS Cloud Architect pela Udacity](https://graduation.udacity.com/confirm/UDRWJKSP)
 - [Twitter](https://www.twitter.com/ibrahimcesar/)
 - [LinkedIn](https://www.linkedin.com/in/ibrahimcesar/)
-- 🌱 Atualmente estou aprendendo mais sobre TypeScript e CDK
+- 🌱 Apostando muito em **TypeScript** e **CDK**. Aprendendo sobre infra e GitHub Actions.
 - ⚡ Fun facts: 
     - Sou **grande** fã do Tolstói e Van Gogh
     - Meu livro favorito é **Anna Kariênina**.
@@ -23,7 +23,7 @@
 - /ɪ́brəhɪjm/
 - 😄  &nbsp;&nbsp; Ele/dele
 - 📫  &nbsp;&nbsp; cloud@ibrahimcesar.com
-- Total acumulado de horas em **Animal Crossing: New Horizons**: 1.115
+- Total acumulado de horas em **Animal Crossing: New Horizons**: 1.295 (2021-10-01)
 
 ## :octocat: &nbsp;&nbsp; [AMA - Ask Me Anything](https://github.com/ibrahimcesar/ibrahimcesar/discussions/categories/ama-ask-me-anything)
 
