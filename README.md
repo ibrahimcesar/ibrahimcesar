@@ -32,16 +32,16 @@
 ### Minhas últimas postagens no blog
 
 <!-- POSTS_LIST:START -->
+- [PeopleOps](https://ibrahimcesar.cloud/blog/peopleops-integracao-continua-do-time-entrega-continua-de-valor/)
 - [Event-Driven Architectures](https://ibrahimcesar.cloud/blog/event-driven-architectures/)
 - [The material question with Google's Core Web Vitals](https://ibrahimcesar.cloud/blog/the-material-question-with-google-web-core-vitals/)
 - [Next.js TypeScript serverless deploy with SSR and ISR with AWS CDK](https://ibrahimcesar.cloud/blog/nextjs-typescript-serverless-deploy-with-ssr-and-isr-with-aws-cdk/)
 - [Do Zero a “Salve Mundo” com AWS CDK](https://ibrahimcesar.cloud/blog/do-zero-ao-salve-mundo-em-aws-cdk-cloud-development-kit/)
 - [Estrutura e Interpretação de Programas de Computador](https://ibrahimcesar.cloud/blog/estrutura-e-interpretacao-de-programas-de-computador/)
 - [#webdev: Anatomia de uma URL](https://ibrahimcesar.cloud/blog/anatomia-de-uma-url/)
-- [📘 #devbooks:  Sooner, Safer, Happier: Antipatterns and Patterns for Business Agility](https://ibrahimcesar.cloud/blog/sooner-safer-happier-antipatterns-and-patterns-for-business-by-jonathan-smart/)
+- [📘 #devbooks:  Sooner, Safer, Sooner, Happier: Antipatterns and Patterns for Business Agility](https://ibrahimcesar.cloud/blog/sooner-safer-happier-antipatterns-and-patterns-for-business-by-jonathan-smart/)
 - [AI é de esquerda e Cripto é de direita?](https://ibrahimcesar.cloud/blog/ai-e-de-esquerda-cripto-bitocin-e-de-direita/)
 - [A Trillion Dollar Paradox that never was](https://ibrahimcesar.cloud/blog/a-trillion-dollar-paradox-that-never-was/)
-- [Multi-cloud: o que, quando e para quem?](https://ibrahimcesar.cloud/blog/multicloud/)
 <!-- POSTS_LIST:END -->
 
 
