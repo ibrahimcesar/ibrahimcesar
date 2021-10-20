@@ -52,7 +52,7 @@
 - [Solutions Architect's Handbook: Kick-start your solutions architect career by learning architecture design principles and strategies](https://www.goodreads.com/review/show/3698008428?utm_medium=api&utm_source=rss) by Saurabh Shrivastava (⭐️4.27)
 - [Domain-Driven Design Distilled](https://www.goodreads.com/review/show/3794487218?utm_medium=api&utm_source=rss) by Vaughn Vernon (⭐️3.72)
 - [Are We Smart Enough to Know How Smart Animals Are?](https://www.goodreads.com/review/show/2896016684?utm_medium=api&utm_source=rss) by Frans de Waal (⭐️3.87)
-- [O Oráculo da Noite : A História e a Ciência do Sonho](https://www.goodreads.com/review/show/3744391446?utm_medium=api&utm_source=rss) by Sidarta Ribeiro (⭐️4.31)
+- [O Oráculo da Noite : A História e a Ciência do Sonho](https://www.goodreads.com/review/show/3744391446?utm_medium=api&utm_source=rss) by Sidarta Ribeiro (⭐️4.3)
 - [Cloud Native Patterns: Designing change-tolerant software](https://www.goodreads.com/review/show/3744387924?utm_medium=api&utm_source=rss) by Cornelia Davis (⭐️4.16)
 - [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.goodreads.com/review/show/3668099235?utm_medium=api&utm_source=rss) by Eric Evans (⭐️4.15)
 - [Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation](https://www.goodreads.com/review/show/3747959698?utm_medium=api&utm_source=rss) by Jez Humble (⭐️4.18)
