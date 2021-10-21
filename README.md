@@ -32,6 +32,8 @@
 ### Minhas últimas postagens no blog
 
 <!-- POSTS_LIST:START -->
+- [⛅ #jornadaaws: CDK Bootstrapping](https://ibrahimcesar.cloud/blog/cdk-bootstrapping/)
+- [⛅ #jornadaaws:  Iniciando nossa jornada na AWS](https://ibrahimcesar.cloud/blog/jornada-aws-iniciando-na-nuvem-aws/)
 - [SAFe™ Considered Harmful](https://ibrahimcesar.cloud/blog/SAFe-considered-harmful/)
 - [PeopleOps](https://ibrahimcesar.cloud/blog/peopleops-integracao-continua-do-time-entrega-continua-de-valor/)
 - [Event-Driven Architectures](https://ibrahimcesar.cloud/blog/event-driven-architectures/)
@@ -40,8 +42,6 @@
 - [Do Zero a “Salve Mundo” com AWS CDK](https://ibrahimcesar.cloud/blog/do-zero-ao-salve-mundo-em-aws-cdk-cloud-development-kit/)
 - [Estrutura e Interpretação de Programas de Computador](https://ibrahimcesar.cloud/blog/estrutura-e-interpretacao-de-programas-de-computador/)
 - [#webdev: Anatomia de uma URL](https://ibrahimcesar.cloud/blog/anatomia-de-uma-url/)
-- [📘 #devbooks:  Sooner, Safer, Sooner, Happier: Antipatterns and Patterns for Business Agility](https://ibrahimcesar.cloud/blog/sooner-safer-happier-antipatterns-and-patterns-for-business-by-jonathan-smart/)
-- [AI é de esquerda e Cripto é de direita?](https://ibrahimcesar.cloud/blog/ai-e-de-esquerda-cripto-bitocin-e-de-direita/)
 <!-- POSTS_LIST:END -->
 
 
