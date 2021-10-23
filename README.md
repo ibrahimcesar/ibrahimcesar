@@ -56,6 +56,7 @@
 - [Cloud Native Patterns: Designing change-tolerant software](https://www.goodreads.com/review/show/3744387924?utm_medium=api&utm_source=rss) by Cornelia Davis (⭐️4.16)
 - [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.goodreads.com/review/show/3668099235?utm_medium=api&utm_source=rss) by Eric Evans (⭐️4.15)
 - [Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation](https://www.goodreads.com/review/show/3747959698?utm_medium=api&utm_source=rss) by Jez Humble (⭐️4.18)
+- [The Dark Forest (Remembrance of Earth’s Past, #2)](https://www.goodreads.com/review/show/4301103018?utm_medium=api&utm_source=rss) by Liu Cixin (⭐️4.38)
 <!-- READING_LIST:END -->
 
 ### Últimos livros lidos 📚
