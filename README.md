@@ -67,7 +67,7 @@
 - [O Duplo](https://www.goodreads.com/review/show/2723281419?utm_medium=api&utm_source=rss) by Fyodor Dostoevsky (⭐️3.95)
 - [O Capote E Outras Histórias](https://www.goodreads.com/review/show/3907649753?utm_medium=api&utm_source=rss) by Nikolai Gogol (⭐️4.33)
 - [Os Demônios](https://www.goodreads.com/review/show/2723276513?utm_medium=api&utm_source=rss) by Fyodor Dostoevsky (⭐️4.52)
-- [Creating Character Arcs: The Masterful Author's Guide to Uniting Story Structure](https://www.goodreads.com/review/show/2723310291?utm_medium=api&utm_source=rss) by K.M. Weiland (⭐️4.38)
+- [Creating Character Arcs: The Masterful Author's Guide to Uniting Story Structure](https://www.goodreads.com/review/show/2723310291?utm_medium=api&utm_source=rss) by K.M. Weiland (⭐️4.37)
 - [Progressive Web Apps](https://www.goodreads.com/review/show/3198264329?utm_medium=api&utm_source=rss) by Jason Grigsby (⭐️4.12)
 - [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://www.goodreads.com/review/show/3479336854?utm_medium=api&utm_source=rss) by Gene Kim (⭐️4.31)
 - [Resilient Management](https://www.goodreads.com/review/show/3138002690?utm_medium=api&utm_source=rss) by Lara   Hogan (⭐️4.44)
