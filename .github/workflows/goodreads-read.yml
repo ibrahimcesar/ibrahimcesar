@@ -1,4 +1,4 @@
-name: Latest books read
+name: Latest read
 on:
   schedule:
     - cron: "0 12/5 * * *"
@@ -11,6 +11,6 @@ jobs:
       - uses: actions/checkout@v2
       - uses: zwacky/goodreads-profile-workflow@main
         with:
+          goodreads_user_id: "15886916"        
           comment_tag_name: "READ_LIST"
-          goodreads_user_id: "15886916"
           shelf: "read"
