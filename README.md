@@ -64,14 +64,14 @@
 <!-- READ_LIST:START -->
 - [The Weird and the Eerie](https://www.goodreads.com/review/show/2720428966?utm_medium=api&utm_source=rss) by Mark Fisher (⭐️4.07)
 - [Ressurreição](https://www.goodreads.com/review/show/2835263137?utm_medium=api&utm_source=rss) by Leo Tolstoy (⭐️4.06)
-- [O Duplo](https://www.goodreads.com/review/show/2723281419?utm_medium=api&utm_source=rss) by Fyodor Dostoevsky (⭐️3.95)
-- [O Capote E Outras Histórias](https://www.goodreads.com/review/show/3907649753?utm_medium=api&utm_source=rss) by Nikolai Gogol (⭐️4.33)
 - [Os Demônios](https://www.goodreads.com/review/show/2723276513?utm_medium=api&utm_source=rss) by Fyodor Dostoevsky (⭐️4.52)
 - [Creating Character Arcs: The Masterful Author's Guide to Uniting Story Structure](https://www.goodreads.com/review/show/2723310291?utm_medium=api&utm_source=rss) by K.M. Weiland (⭐️4.37)
-- [Progressive Web Apps](https://www.goodreads.com/review/show/3198264329?utm_medium=api&utm_source=rss) by Jason Grigsby (⭐️4.12)
 - [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://www.goodreads.com/review/show/3479336854?utm_medium=api&utm_source=rss) by Gene Kim (⭐️4.31)
+- [AWS Well-Architected Framework (AWS Whitepaper)](https://www.goodreads.com/review/show/3681834017?utm_medium=api&utm_source=rss) by Amazon Web Services (⭐️4.2)
 - [Resilient Management](https://www.goodreads.com/review/show/3138002690?utm_medium=api&utm_source=rss) by Lara   Hogan (⭐️4.44)
 - [No Immediate Danger: Volume One of Carbon Ideologies](https://www.goodreads.com/review/show/2791702770?utm_medium=api&utm_source=rss) by William T. Vollmann (⭐️3.64)
+- [Performance Efficiency Pillar: AWS Well-Architected Framework (AWS Whitepaper)](https://www.goodreads.com/review/show/3681834992?utm_medium=api&utm_source=rss) by AWS Whitepapers (⭐️4.43)
+- [Security Pillar: AWS Well-Architected Framework (AWS Whitepaper)](https://www.goodreads.com/review/show/3681834396?utm_medium=api&utm_source=rss) by AWS Whitepapers (⭐️4.29)
 <!-- READ_LIST:END -->
 
 ### Livros técnicos favoritos
