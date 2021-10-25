@@ -9,9 +9,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: zwacky/goodreads-profile-workflow@main
+      - uses: zwacky/goodreads-profile-workflow@v1.1.0
         with:
           goodreads_user_id: "15886916"
           shelf: "currently-reading"
-          comment_tag_name: "READING_LIST"          
+          comment_tag_name: "READING_LIST" 
+          sort_by_fields: ">user_date_added"
           max_books_count: 10
