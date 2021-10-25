@@ -13,4 +13,5 @@ jobs:
         with:
           goodreads_user_id: "15886916"        
           comment_tag_name: "READ_LIST"
+          sort_by_fields: ">user_read_at"
           shelf: "read"
