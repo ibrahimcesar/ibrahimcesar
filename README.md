@@ -62,16 +62,16 @@
 ### Últimos livros lidos 📚
 
 <!-- READ_LIST:START -->
-- [The Weird and the Eerie](https://www.goodreads.com/review/show/2720428966?utm_medium=api&utm_source=rss) by Mark Fisher (⭐️4.07)
-- [Ressurreição](https://www.goodreads.com/review/show/2835263137?utm_medium=api&utm_source=rss) by Leo Tolstoy (⭐️4.06)
-- [Os Demônios](https://www.goodreads.com/review/show/2723276513?utm_medium=api&utm_source=rss) by Fyodor Dostoevsky (⭐️4.52)
-- [Creating Character Arcs: The Masterful Author's Guide to Uniting Story Structure](https://www.goodreads.com/review/show/2723310291?utm_medium=api&utm_source=rss) by K.M. Weiland (⭐️4.37)
-- [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://www.goodreads.com/review/show/3479336854?utm_medium=api&utm_source=rss) by Gene Kim (⭐️4.31)
-- [AWS Well-Architected Framework (AWS Whitepaper)](https://www.goodreads.com/review/show/3681834017?utm_medium=api&utm_source=rss) by Amazon Web Services (⭐️4.2)
-- [Resilient Management](https://www.goodreads.com/review/show/3138002690?utm_medium=api&utm_source=rss) by Lara   Hogan (⭐️4.44)
-- [No Immediate Danger: Volume One of Carbon Ideologies](https://www.goodreads.com/review/show/2791702770?utm_medium=api&utm_source=rss) by William T. Vollmann (⭐️3.64)
-- [Performance Efficiency Pillar: AWS Well-Architected Framework (AWS Whitepaper)](https://www.goodreads.com/review/show/3681834992?utm_medium=api&utm_source=rss) by AWS Whitepapers (⭐️4.43)
-- [Security Pillar: AWS Well-Architected Framework (AWS Whitepaper)](https://www.goodreads.com/review/show/3681834396?utm_medium=api&utm_source=rss) by AWS Whitepapers (⭐️4.29)
+- [The Dark Forest (Remembrance of Earth’s Past, #2)](https://www.goodreads.com/review/show/4301103018?utm_medium=api&utm_source=rss) by Liu Cixin (⭐️4.38)
+- [An Ugly Truth: Inside Facebook's Battle for Domination](https://www.goodreads.com/review/show/4206887563?utm_medium=api&utm_source=rss) by Sheera Frenkel (⭐️4.06)
+- [Chainsaw Man, Vol. 1](https://www.goodreads.com/review/show/4206373494?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐️4.35)
+- [チェンソーマン 10 (Chainsaw Man, #10)](https://www.goodreads.com/review/show/4206373839?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐️4.49)
+- [チェンソーマン 8 (Chainsaw Man, #8)](https://www.goodreads.com/review/show/4206374423?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐️4.42)
+- [チェンソーマン 3 (Chainsaw Man, #3)](https://www.goodreads.com/review/show/4206374752?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐️4.33)
+- [チェンソーマン 7 (Chainsaw Man, #7)](https://www.goodreads.com/review/show/4206375670?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐️4.36)
+- [チェンソーマン 11 (Chainsaw Man, #11)](https://www.goodreads.com/review/show/4206375947?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐️4.48)
+- [チェンソーマン 6 (Chainsaw Man, #6)](https://www.goodreads.com/review/show/4206376307?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐️4.41)
+- [チェンソーマン 2 (Chainsaw Man, #2)](https://www.goodreads.com/review/show/4206375369?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐️4.29)
 <!-- READ_LIST:END -->
 
 ### Livros técnicos favoritos
