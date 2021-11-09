@@ -48,7 +48,7 @@
 ### Lendo atualmente... 📚
 
 <!-- READING_LIST:START -->
-- [Crafting Interpreters](https://www.goodreads.com/review/show/4313478006?utm_medium=api&utm_source=rss) by Robert Nystrom (⭐️4.75)
+- [Crafting Interpreters](https://www.goodreads.com/review/show/4313478006?utm_medium=api&utm_source=rss) by Robert Nystrom (⭐️4.74)
 - [Death's End (Remembrance of Earth’s Past #3)](https://www.goodreads.com/review/show/4303248689?utm_medium=api&utm_source=rss) by Liu Cixin (⭐️4.39)
 - [The Adolescent](https://www.goodreads.com/review/show/3907651091?utm_medium=api&utm_source=rss) by Fyodor Dostoevsky (⭐️3.95)
 - [Domain-Driven Design Distilled](https://www.goodreads.com/review/show/3794487218?utm_medium=api&utm_source=rss) by Vaughn Vernon (⭐️3.72)
