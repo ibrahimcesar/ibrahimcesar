@@ -62,16 +62,16 @@
 ### Últimos livros lidos 📚
 
 <!-- READ_LIST:START -->
+- [Cloud Native Patterns: Designing change-tolerant software](https://www.goodreads.com/review/show/3744387924?utm_medium=api&utm_source=rss) by Cornelia Davis (⭐️4.16)
 - [Death's End (Remembrance of Earth’s Past #3)](https://www.goodreads.com/review/show/4303248689?utm_medium=api&utm_source=rss) by Liu Cixin (⭐️4.39)
 - [The Dark Forest (Remembrance of Earth’s Past, #2)](https://www.goodreads.com/review/show/4301103018?utm_medium=api&utm_source=rss) by Liu Cixin (⭐️4.38)
-- [An Ugly Truth: Inside Facebook's Battle for Domination](https://www.goodreads.com/review/show/4206887563?utm_medium=api&utm_source=rss) by Sheera Frenkel (⭐️4.04)
+- [An Ugly Truth: Inside Facebook's Battle for Domination](https://www.goodreads.com/review/show/4206887563?utm_medium=api&utm_source=rss) by Sheera Frenkel (⭐️4.05)
 - [Chainsaw Man, Vol. 1](https://www.goodreads.com/review/show/4206373494?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐️4.36)
 - [チェンソーマン 10 (Chainsaw Man, #10)](https://www.goodreads.com/review/show/4206373839?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐️4.49)
 - [チェンソーマン 8 (Chainsaw Man, #8)](https://www.goodreads.com/review/show/4206374423?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐️4.42)
 - [チェンソーマン 3 (Chainsaw Man, #3)](https://www.goodreads.com/review/show/4206374752?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐️4.34)
 - [チェンソーマン 7 (Chainsaw Man, #7)](https://www.goodreads.com/review/show/4206375670?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐️4.37)
-- [チェンソーマン 11 (Chainsaw Man, #11)](https://www.goodreads.com/review/show/4206375947?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐️4.49)
-- [チェンソーマン 6 (Chainsaw Man, #6)](https://www.goodreads.com/review/show/4206376307?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐️4.43)
+- [チェンソーマン 11 (Chainsaw Man, #11)](https://www.goodreads.com/review/show/4206375947?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐️4.48)
 <!-- READ_LIST:END -->
 
 ### Livros técnicos favoritos
