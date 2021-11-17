@@ -12,6 +12,7 @@
 - AWS Community Builder
 - [Blog (en && pt-br)](https://ibrahimcesar.cloud)
 - [Nanodegree AWS Cloud Architect pela Udacity](https://graduation.udacity.com/confirm/UDRWJKSP)
+- [Polywork](https://www.polywork.com/ibrahimcesar)
 - [Twitter](https://www.twitter.com/ibrahimcesar/)
 - [LinkedIn](https://www.linkedin.com/in/ibrahimcesar/)
 - 🌱 Apostando muito em **TypeScript** e **CDK**. Aprendendo sobre infra e GitHub Actions.
