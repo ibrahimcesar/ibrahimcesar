@@ -63,6 +63,7 @@
 ### Últimos livros lidos 📚
 
 <!-- READ_LIST:START -->
+- [Crafting Interpreters](https://www.goodreads.com/review/show/4313478006?utm_medium=api&utm_source=rss) by Robert Nystrom (⭐️4.72)
 - [Cloud Native Patterns: Designing change-tolerant software](https://www.goodreads.com/review/show/3744387924?utm_medium=api&utm_source=rss) by Cornelia Davis (⭐️4.18)
 - [Death's End (Remembrance of Earth’s Past #3)](https://www.goodreads.com/review/show/4303248689?utm_medium=api&utm_source=rss) by Liu Cixin (⭐️4.39)
 - [The Dark Forest (Remembrance of Earth’s Past, #2)](https://www.goodreads.com/review/show/4301103018?utm_medium=api&utm_source=rss) by Liu Cixin (⭐️4.38)
@@ -72,7 +73,6 @@
 - [チェンソーマン 8 (Chainsaw Man, #8)](https://www.goodreads.com/review/show/4206374423?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐️4.42)
 - [チェンソーマン 3 (Chainsaw Man, #3)](https://www.goodreads.com/review/show/4206374752?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐️4.34)
 - [チェンソーマン 7 (Chainsaw Man, #7)](https://www.goodreads.com/review/show/4206375670?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐️4.37)
-- [チェンソーマン 11 (Chainsaw Man, #11)](https://www.goodreads.com/review/show/4206375947?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐️4.49)
 <!-- READ_LIST:END -->
 
 ### Livros técnicos favoritos
