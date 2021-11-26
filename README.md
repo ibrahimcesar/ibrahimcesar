@@ -33,6 +33,7 @@
 ### Minhas últimas postagens no blog
 
 <!-- POSTS_LIST:START -->
+- [Is Software Engineering Still an Oxymoron?, Alan Kay](https://ibrahimcesar.cloud/blog/is-software-engineering-still-an-oxymoron-alan-kay/)
 - [Mergulho em AWS Cloud Development Kit &lpar;CDK&rpar;](https://ibrahimcesar.cloud/blog/mergulho-cdk/)
 - [⛅ #jornadaaws: CDK Bootstrapping](https://ibrahimcesar.cloud/blog/cdk-bootstrapping/)
 - [⛅ #jornadaaws:  Iniciando nossa jornada na AWS](https://ibrahimcesar.cloud/blog/jornada-aws-iniciando-na-nuvem-aws/)
@@ -42,7 +43,6 @@
 - [The material question with Google&#39;s Core Web Vitals](https://ibrahimcesar.cloud/blog/the-material-question-with-google-web-core-vitals/)
 - [Next.js TypeScript serverless deploy with SSR and ISR with AWS CDK](https://ibrahimcesar.cloud/blog/nextjs-typescript-serverless-deploy-with-ssr-and-isr-with-aws-cdk/)
 - [Do Zero a “Salve Mundo” com AWS CDK](https://ibrahimcesar.cloud/blog/do-zero-ao-salve-mundo-em-aws-cdk-cloud-development-kit/)
-- [Estrutura e Interpretação de Programas de Computador](https://ibrahimcesar.cloud/blog/estrutura-e-interpretacao-de-programas-de-computador/)
 <!-- POSTS_LIST:END -->
 
 
