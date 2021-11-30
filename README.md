@@ -63,7 +63,7 @@
 
 <!-- READ_LIST:START -->
 - [The Good Parts of AWS](https://www.goodreads.com/review/show/4354121130?utm_medium=api&utm_source=rss) by Daniel Vassallo (⭐️3.17)
-- [Crafting Interpreters](https://www.goodreads.com/review/show/4313478006?utm_medium=api&utm_source=rss) by Robert Nystrom (⭐️4.73)
+- [Crafting Interpreters](https://www.goodreads.com/review/show/4313478006?utm_medium=api&utm_source=rss) by Robert Nystrom (⭐️4.72)
 - [Cloud Native Patterns: Designing change-tolerant software](https://www.goodreads.com/review/show/3744387924?utm_medium=api&utm_source=rss) by Cornelia Davis (⭐️4.18)
 - [Death's End (Remembrance of Earth’s Past #3)](https://www.goodreads.com/review/show/4303248689?utm_medium=api&utm_source=rss) by Liu Cixin (⭐️4.39)
 - [The Dark Forest (Remembrance of Earth’s Past, #2)](https://www.goodreads.com/review/show/4301103018?utm_medium=api&utm_source=rss) by Liu Cixin (⭐️4.38)
