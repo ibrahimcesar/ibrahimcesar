@@ -16,3 +16,4 @@ jobs:
           comment_tag_name: "READ_LIST"
           template: "- [$title]($url) by $author ($my_rating_stars)"
           sort_by_fields: "<pubDate"
+          
