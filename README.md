@@ -61,6 +61,8 @@
 ### Últimos livros lidos 📚
 
 <!-- READ_LIST:START -->
+- [Learning React: Modern Patterns for Developing React Apps](https://www.goodreads.com/review/show/3433269201?utm_medium=api&utm_source=rss) by Alex Banks (⭐️4.22)
+- [Dune (Dune, #1)](https://www.goodreads.com/review/show/4374298549?utm_medium=api&utm_source=rss) by Frank Herbert (⭐️4.3)
 - [The Science of Can and Can't: A Physicist's Journey Through the Land of Counterfactuals](https://www.goodreads.com/review/show/4338329661?utm_medium=api&utm_source=rss) by Chiara Marletto (⭐️3.84)
 - [The CDK Book](https://www.goodreads.com/review/show/4368508354?utm_medium=api&utm_source=rss) by Matthew Bonig (⭐️5)
 - [The Good Parts of AWS](https://www.goodreads.com/review/show/4354121130?utm_medium=api&utm_source=rss) by Daniel Vassallo (⭐️3.17)
@@ -69,8 +71,6 @@
 - [Death's End (Remembrance of Earth’s Past #3)](https://www.goodreads.com/review/show/4303248689?utm_medium=api&utm_source=rss) by Liu Cixin (⭐️4.39)
 - [The Dark Forest (Remembrance of Earth’s Past, #2)](https://www.goodreads.com/review/show/4301103018?utm_medium=api&utm_source=rss) by Liu Cixin (⭐️4.38)
 - [An Ugly Truth: Inside Facebook's Battle for Domination](https://www.goodreads.com/review/show/4206887563?utm_medium=api&utm_source=rss) by Sheera Frenkel (⭐️4.04)
-- [Chainsaw Man, Vol. 1](https://www.goodreads.com/review/show/4206373494?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐️4.36)
-- [チェンソーマン 10 (Chainsaw Man, #10)](https://www.goodreads.com/review/show/4206373839?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐️4.49)
 <!-- READ_LIST:END -->
 
 ### Livros técnicos favoritos
