@@ -61,8 +61,8 @@
 ### Últimos livros lidos 📚
 
 <!-- READ_LIST:START -->
-- [Learning React: Modern Patterns for Developing React Apps](https://www.goodreads.com/review/show/3433269201?utm_medium=api&utm_source=rss) by Alex Banks (⭐️4.22)
 - [Dune (Dune, #1)](https://www.goodreads.com/review/show/4374298549?utm_medium=api&utm_source=rss) by Frank Herbert (⭐️4.3)
+- [Learning React: Modern Patterns for Developing React Apps](https://www.goodreads.com/review/show/3433269201?utm_medium=api&utm_source=rss) by Alex Banks (⭐️4.22)
 - [The Science of Can and Can't: A Physicist's Journey Through the Land of Counterfactuals](https://www.goodreads.com/review/show/4338329661?utm_medium=api&utm_source=rss) by Chiara Marletto (⭐️3.84)
 - [The CDK Book](https://www.goodreads.com/review/show/4368508354?utm_medium=api&utm_source=rss) by Matthew Bonig (⭐️5)
 - [The Good Parts of AWS](https://www.goodreads.com/review/show/4354121130?utm_medium=api&utm_source=rss) by Daniel Vassallo (⭐️3.17)
