@@ -9,9 +9,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: zwacky/goodreads-profile-workflow@v1.1.0
+      - uses: zwacky/goodreads-profile-workflow@main
         with:
-          goodreads_user_id: "15886916"        
-          comment_tag_name: "READ_LIST"
-          sort_by_fields: ">user_read_at"
+          goodreads_user_id: "15886916"
           shelf: "read"
+          comment_tag_name: "READ_LIST"
+          template: "- [$title]($url) by $author ($my_rating_stars)"
+          sort_by_fields: "<user_read_at"
