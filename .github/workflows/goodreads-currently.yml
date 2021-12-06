@@ -14,5 +14,5 @@ jobs:
           goodreads_user_id: "15886916"
           shelf: "currently-reading"
           comment_tag_name: "READING_LIST" 
-          sort_by_fields: ">user_date_added"
+          sort_by_fields: ">average_rating"
           max_books_count: 10
