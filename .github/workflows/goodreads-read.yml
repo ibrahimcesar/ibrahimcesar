@@ -16,5 +16,5 @@ jobs:
           comment_tag_name: "READ_LIST"
           template: "- [$title]($url) by $author ($my_rating_stars)"
           max_books_count: 10
-          sort_by_fields: "user_read_at"
+          sort_by_fields: ">date_read"
           
