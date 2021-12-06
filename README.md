@@ -61,16 +61,16 @@
 ### Últimos livros lidos 📚
 
 <!-- READ_LIST:START -->
-- [The Weird and the Eerie](https://www.goodreads.com/review/show/2720428966?utm_medium=api&utm_source=rss) by Mark Fisher (⭐⭐⭐⭐)
-- [Ressurreição](https://www.goodreads.com/review/show/2835263137?utm_medium=api&utm_source=rss) by Leo Tolstoy (⭐⭐⭐⭐⭐)
-- [Os Demônios](https://www.goodreads.com/review/show/2723276513?utm_medium=api&utm_source=rss) by Fyodor Dostoevsky (⭐⭐⭐⭐⭐)
-- [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://www.goodreads.com/review/show/3479336854?utm_medium=api&utm_source=rss) by Gene Kim (⭐⭐⭐⭐)
-- [AWS Well-Architected Framework (AWS Whitepaper)](https://www.goodreads.com/review/show/3681834017?utm_medium=api&utm_source=rss) by Amazon Web Services (unrated)
-- [Resilient Management](https://www.goodreads.com/review/show/3138002690?utm_medium=api&utm_source=rss) by Lara   Hogan (⭐⭐⭐⭐⭐)
-- [Performance Efficiency Pillar: AWS Well-Architected Framework (AWS Whitepaper)](https://www.goodreads.com/review/show/3681834992?utm_medium=api&utm_source=rss) by AWS Whitepapers (unrated)
-- [Security Pillar: AWS Well-Architected Framework (AWS Whitepaper)](https://www.goodreads.com/review/show/3681834396?utm_medium=api&utm_source=rss) by AWS Whitepapers (⭐⭐⭐⭐⭐)
-- [Operational Excellence Pillar: AWS Well-Architected Framework (AWS Whitepaper)](https://www.goodreads.com/review/show/3681834711?utm_medium=api&utm_source=rss) by AWS Whitepapers (⭐⭐⭐⭐⭐)
+- [Dune (Dune, #1)](https://www.goodreads.com/review/show/4374298549?utm_medium=api&utm_source=rss) by Frank Herbert (⭐⭐⭐⭐)
+- [Learning React: Modern Patterns for Developing React Apps](https://www.goodreads.com/review/show/3433269201?utm_medium=api&utm_source=rss) by Alex Banks (⭐⭐⭐⭐⭐)
+- [The Science of Can and Can't: A Physicist's Journey Through the Land of Counterfactuals](https://www.goodreads.com/review/show/4338329661?utm_medium=api&utm_source=rss) by Chiara Marletto (⭐⭐⭐⭐)
+- [The CDK Book](https://www.goodreads.com/review/show/4368508354?utm_medium=api&utm_source=rss) by Matthew Bonig (⭐⭐⭐⭐⭐)
+- [The Good Parts of AWS](https://www.goodreads.com/review/show/4354121130?utm_medium=api&utm_source=rss) by Daniel Vassallo (⭐⭐⭐)
 - [Crafting Interpreters](https://www.goodreads.com/review/show/4313478006?utm_medium=api&utm_source=rss) by Robert Nystrom (⭐⭐⭐⭐⭐)
+- [Cloud Native Patterns: Designing change-tolerant software](https://www.goodreads.com/review/show/3744387924?utm_medium=api&utm_source=rss) by Cornelia Davis (⭐⭐⭐⭐⭐)
+- [Death's End (Remembrance of Earth’s Past #3)](https://www.goodreads.com/review/show/4303248689?utm_medium=api&utm_source=rss) by Liu Cixin (⭐⭐⭐⭐⭐)
+- [The Dark Forest (Remembrance of Earth’s Past, #2)](https://www.goodreads.com/review/show/4301103018?utm_medium=api&utm_source=rss) by Liu Cixin (⭐⭐⭐⭐)
+- [An Ugly Truth: Inside Facebook's Battle for Domination](https://www.goodreads.com/review/show/4206887563?utm_medium=api&utm_source=rss) by Sheera Frenkel (⭐⭐⭐⭐)
 <!-- READ_LIST:END -->
 
 ### Livros técnicos favoritos
