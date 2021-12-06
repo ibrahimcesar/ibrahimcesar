@@ -48,16 +48,16 @@
 ### Últimos livros lidos 📚
 
 <!-- READ_LIST:START -->
-- [The CDK Book](https://www.goodreads.com/review/show/4368508354?utm_medium=api&utm_source=rss) by Matthew Bonig (⭐⭐⭐⭐⭐)
-- [CORS in Action: Creating and consuming cross-origin APIs](https://www.goodreads.com/review/show/3424683306?utm_medium=api&utm_source=rss) by Monsur Hossain (⭐⭐⭐)
-- [Docker: Up & Running: Shipping Reliable Containers in Production](https://www.goodreads.com/review/show/3376751624?utm_medium=api&utm_source=rss) by Karl Matthias (⭐⭐⭐⭐)
-- [You Don't Know JS: this & Object Prototypes](https://www.goodreads.com/review/show/3209768308?utm_medium=api&utm_source=rss) by Kyle Simpson (⭐⭐⭐⭐⭐)
-- [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://www.goodreads.com/review/show/3487809451?utm_medium=api&utm_source=rss) by Matthew    Skelton (⭐⭐⭐⭐⭐)
-- [As Intermitências da Morte](https://www.goodreads.com/review/show/2821477682?utm_medium=api&utm_source=rss) by José Saramago (⭐⭐⭐⭐)
-- [Building Event-Driven Microservices: Leveraging Organizational Data at Scale](https://www.goodreads.com/review/show/3463901467?utm_medium=api&utm_source=rss) by Adam Bellemare (⭐⭐⭐⭐)
-- [Sooner Safer Happier: Patterns and Antipatterns for Organizational Agility](https://www.goodreads.com/review/show/3945357773?utm_medium=api&utm_source=rss) by Jonathan Smart (⭐⭐⭐⭐)
-- [Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure](https://www.goodreads.com/review/show/3555679723?utm_medium=api&utm_source=rss) by Nadia Eghbal (⭐⭐⭐⭐⭐)
-- [Terraform: Up and Running: Writing Infrastructure as Code](https://www.goodreads.com/review/show/3350746913?utm_medium=api&utm_source=rss) by Yevgeniy Brikman (⭐⭐⭐⭐⭐)
+- [Learning React: Modern Patterns for Developing React Apps](https://www.goodreads.com/review/show/3433269201?utm_medium=api&utm_source=rss) by Alex Banks (⭐⭐⭐⭐⭐)
+- [Chainsaw Man, Vol. 1](https://www.goodreads.com/review/show/4206373494?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐⭐⭐⭐)
+- [チェンソーマン 10 (Chainsaw Man, #10)](https://www.goodreads.com/review/show/4206373839?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐⭐⭐⭐)
+- [チェンソーマン 8 (Chainsaw Man, #8)](https://www.goodreads.com/review/show/4206374423?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐⭐⭐⭐)
+- [チェンソーマン 3 (Chainsaw Man, #3)](https://www.goodreads.com/review/show/4206374752?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐⭐⭐⭐)
+- [チェンソーマン 7 (Chainsaw Man, #7)](https://www.goodreads.com/review/show/4206375670?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐⭐⭐⭐)
+- [チェンソーマン 11 (Chainsaw Man, #11)](https://www.goodreads.com/review/show/4206375947?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐⭐⭐⭐)
+- [チェンソーマン 6 (Chainsaw Man, #6)](https://www.goodreads.com/review/show/4206376307?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐⭐⭐⭐)
+- [O Duplo](https://www.goodreads.com/review/show/2723281419?utm_medium=api&utm_source=rss) by Fyodor Dostoevsky (⭐⭐⭐⭐)
+- [O Capote E Outras Histórias](https://www.goodreads.com/review/show/3907649753?utm_medium=api&utm_source=rss) by Nikolai Gogol (unrated)
 <!-- READ_LIST:END -->
 
 ### Lendo atualmente... 📚
