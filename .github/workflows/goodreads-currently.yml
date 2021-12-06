@@ -15,6 +15,6 @@ jobs:
           shelf: "currently-reading"
           comment_tag_name: "READING_LIST" 
           max_books_count: 10
-          template: "- [$title]($url) by $author ($average_rating)"
+          template: "- [$title]($url) by $author (⭐️ $average_rating)"
           sort_by_fields: "<user_date_added"
           
