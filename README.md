@@ -61,16 +61,16 @@
 ### Últimos livros lidos 📚
 
 <!-- READ_LIST:START -->
-- [Dune (Dune, #1)](https://www.goodreads.com/review/show/4374298549?utm_medium=api&utm_source=rss) by Frank Herbert (⭐⭐⭐⭐)
-- [Learning React: Modern Patterns for Developing React Apps](https://www.goodreads.com/review/show/3433269201?utm_medium=api&utm_source=rss) by Alex Banks (⭐⭐⭐⭐⭐)
-- [The Science of Can and Can't: A Physicist's Journey Through the Land of Counterfactuals](https://www.goodreads.com/review/show/4338329661?utm_medium=api&utm_source=rss) by Chiara Marletto (⭐⭐⭐⭐)
 - [The CDK Book](https://www.goodreads.com/review/show/4368508354?utm_medium=api&utm_source=rss) by Matthew Bonig (⭐⭐⭐⭐⭐)
-- [The Good Parts of AWS](https://www.goodreads.com/review/show/4354121130?utm_medium=api&utm_source=rss) by Daniel Vassallo (⭐⭐⭐)
-- [Crafting Interpreters](https://www.goodreads.com/review/show/4313478006?utm_medium=api&utm_source=rss) by Robert Nystrom (⭐⭐⭐⭐⭐)
-- [Cloud Native Patterns: Designing change-tolerant software](https://www.goodreads.com/review/show/3744387924?utm_medium=api&utm_source=rss) by Cornelia Davis (⭐⭐⭐⭐⭐)
-- [Death's End (Remembrance of Earth’s Past #3)](https://www.goodreads.com/review/show/4303248689?utm_medium=api&utm_source=rss) by Liu Cixin (⭐⭐⭐⭐⭐)
-- [The Dark Forest (Remembrance of Earth’s Past, #2)](https://www.goodreads.com/review/show/4301103018?utm_medium=api&utm_source=rss) by Liu Cixin (⭐⭐⭐⭐)
-- [An Ugly Truth: Inside Facebook's Battle for Domination](https://www.goodreads.com/review/show/4206887563?utm_medium=api&utm_source=rss) by Sheera Frenkel (⭐⭐⭐⭐)
+- [CORS in Action: Creating and consuming cross-origin APIs](https://www.goodreads.com/review/show/3424683306?utm_medium=api&utm_source=rss) by Monsur Hossain (⭐⭐⭐)
+- [Docker: Up & Running: Shipping Reliable Containers in Production](https://www.goodreads.com/review/show/3376751624?utm_medium=api&utm_source=rss) by Karl Matthias (⭐⭐⭐⭐)
+- [You Don't Know JS: this & Object Prototypes](https://www.goodreads.com/review/show/3209768308?utm_medium=api&utm_source=rss) by Kyle Simpson (⭐⭐⭐⭐⭐)
+- [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://www.goodreads.com/review/show/3487809451?utm_medium=api&utm_source=rss) by Matthew    Skelton (⭐⭐⭐⭐⭐)
+- [As Intermitências da Morte](https://www.goodreads.com/review/show/2821477682?utm_medium=api&utm_source=rss) by José Saramago (⭐⭐⭐⭐)
+- [Building Event-Driven Microservices: Leveraging Organizational Data at Scale](https://www.goodreads.com/review/show/3463901467?utm_medium=api&utm_source=rss) by Adam Bellemare (⭐⭐⭐⭐)
+- [Sooner Safer Happier: Patterns and Antipatterns for Organizational Agility](https://www.goodreads.com/review/show/3945357773?utm_medium=api&utm_source=rss) by Jonathan Smart (⭐⭐⭐⭐)
+- [Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure](https://www.goodreads.com/review/show/3555679723?utm_medium=api&utm_source=rss) by Nadia Eghbal (⭐⭐⭐⭐⭐)
+- [Terraform: Up and Running: Writing Infrastructure as Code](https://www.goodreads.com/review/show/3350746913?utm_medium=api&utm_source=rss) by Yevgeniy Brikman (⭐⭐⭐⭐⭐)
 <!-- READ_LIST:END -->
 
 ### Livros técnicos favoritos
