@@ -48,16 +48,16 @@
 ### Últimos livros lidos 📚
 
 <!-- READ_LIST:START -->
-- [Performance Efficiency Pillar: AWS Well-Architected Framework (AWS Whitepaper)](https://www.goodreads.com/review/show/3681834992?utm_medium=api&utm_source=rss) by AWS Whitepapers (⭐⭐⭐⭐⭐)
-- [チェンソーマン 9 (Chainsaw Man, #9)](https://www.goodreads.com/review/show/4206374155?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (unrated)
-- [チェンソーマン 2 (Chainsaw Man, #2)](https://www.goodreads.com/review/show/4206375369?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (unrated)
-- [The Good Parts of AWS](https://www.goodreads.com/review/show/4354121130?utm_medium=api&utm_source=rss) by Daniel Vassallo (⭐⭐⭐)
-- [Dune (Dune, #1)](https://www.goodreads.com/review/show/4374298549?utm_medium=api&utm_source=rss) by Frank Herbert (⭐⭐⭐⭐)
-- [Learning React: Modern Patterns for Developing React Apps](https://www.goodreads.com/review/show/3433269201?utm_medium=api&utm_source=rss) by Alex Banks (⭐⭐⭐⭐⭐)
-- [The Science of Can and Can't: A Physicist's Journey Through the Land of Counterfactuals](https://www.goodreads.com/review/show/4338329661?utm_medium=api&utm_source=rss) by Chiara Marletto (⭐⭐⭐⭐)
-- [The CDK Book](https://www.goodreads.com/review/show/4368508354?utm_medium=api&utm_source=rss) by Matthew Bonig (⭐⭐⭐⭐⭐)
-- [Crafting Interpreters](https://www.goodreads.com/review/show/4313478006?utm_medium=api&utm_source=rss) by Robert Nystrom (⭐⭐⭐⭐⭐)
-- [Cloud Native Patterns: Designing change-tolerant software](https://www.goodreads.com/review/show/3744387924?utm_medium=api&utm_source=rss) by Cornelia Davis (⭐⭐⭐⭐⭐)
+- [Performance Efficiency Pillar: AWS Well-Architected Framework (AWS Whitepaper)](https://www.goodreads.com/review/show/3681834992?utm_medium=api&utm_source=rss) by AWS Whitepapers (⭐️4.46)
+- [チェンソーマン 9 (Chainsaw Man, #9)](https://www.goodreads.com/review/show/4206374155?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐️4.59)
+- [チェンソーマン 2 (Chainsaw Man, #2)](https://www.goodreads.com/review/show/4206375369?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐️4.31)
+- [The Good Parts of AWS](https://www.goodreads.com/review/show/4354121130?utm_medium=api&utm_source=rss) by Daniel Vassallo (⭐️3.17)
+- [Dune (Dune, #1)](https://www.goodreads.com/review/show/4374298549?utm_medium=api&utm_source=rss) by Frank Herbert (⭐️4.3)
+- [Learning React: Modern Patterns for Developing React Apps](https://www.goodreads.com/review/show/3433269201?utm_medium=api&utm_source=rss) by Alex Banks (⭐️4.22)
+- [The Science of Can and Can't: A Physicist's Journey Through the Land of Counterfactuals](https://www.goodreads.com/review/show/4338329661?utm_medium=api&utm_source=rss) by Chiara Marletto (⭐️3.83)
+- [The CDK Book](https://www.goodreads.com/review/show/4368508354?utm_medium=api&utm_source=rss) by Matthew Bonig (⭐️5)
+- [Crafting Interpreters](https://www.goodreads.com/review/show/4313478006?utm_medium=api&utm_source=rss) by Robert Nystrom (⭐️4.73)
+- [Cloud Native Patterns: Designing change-tolerant software](https://www.goodreads.com/review/show/3744387924?utm_medium=api&utm_source=rss) by Cornelia Davis (⭐️4.18)
 <!-- READ_LIST:END -->
 
 ### Lendo atualmente... 📚
