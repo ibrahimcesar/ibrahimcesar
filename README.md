@@ -33,6 +33,7 @@
 ### Minhas últimas postagens no blog
 
 <!-- POSTS_LIST:START -->
+- [Introdução ao Next.js](https://ibrahimcesar.cloud/blog/introducao-nextjs-ssr-isr-ssg-javascript-react-framework/)
 - [Brasil, uma Profecia e O Monstro de Mariana](https://ibrahimcesar.cloud/blog/brasil-uma-profecia-o-monstro-de-mariana-ficcao-ibrahim-cesar/)
 - [Is Software Engineering Still an Oxymoron?, Alan Kay](https://ibrahimcesar.cloud/blog/is-software-engineering-still-an-oxymoron-alan-kay/)
 - [Mergulho em AWS Cloud Development Kit &lpar;CDK&rpar;](https://ibrahimcesar.cloud/blog/mergulho-cdk/)
@@ -42,7 +43,6 @@
 - [PeopleOps](https://ibrahimcesar.cloud/blog/peopleops-integracao-continua-do-time-entrega-continua-de-valor/)
 - [Event-Driven Architectures](https://ibrahimcesar.cloud/blog/event-driven-architectures/)
 - [The material question with Google&#39;s Core Web Vitals](https://ibrahimcesar.cloud/blog/the-material-question-with-google-web-core-vitals/)
-- [Next.js TypeScript serverless deploy with SSR and ISR with AWS CDK](https://ibrahimcesar.cloud/blog/nextjs-typescript-serverless-deploy-with-ssr-and-isr-with-aws-cdk/)
 <!-- POSTS_LIST:END -->
 
 ### Últimos livros lidos 📚
