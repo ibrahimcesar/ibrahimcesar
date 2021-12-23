@@ -64,7 +64,7 @@
 
 <!-- READING_LIST:START -->
 - [Architecting for Scale: How to Maintain High Availability and Manage Risk in the Cloud, Second Edition](https://www.goodreads.com/review/show/4397306783?utm_medium=api&utm_source=rss) by Lee Atchison (⭐️ )
-- [The Gulag Archipelago 1918–1956 (Abridged)](https://www.goodreads.com/review/show/4385909343?utm_medium=api&utm_source=rss) by Aleksandr Solzhenitsyn (⭐️ 4.28)
+- [The Gulag Archipelago 1918–1956 (Abridged)](https://www.goodreads.com/review/show/4385909343?utm_medium=api&utm_source=rss) by Aleksandr Solzhenitsyn (⭐️ 4.29)
 - [The Adolescent](https://www.goodreads.com/review/show/3907651091?utm_medium=api&utm_source=rss) by Fyodor Dostoevsky (⭐️ 3.95)
 - [Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation](https://www.goodreads.com/review/show/3747959698?utm_medium=api&utm_source=rss) by Jez Humble (⭐️ 4.18)
 <!-- READING_LIST:END -->
