@@ -33,6 +33,7 @@
 ### Minhas últimas postagens no blog
 
 <!-- POSTS_LIST:START -->
+- [Top 5 technology books I read in 2021](https://ibrahimcesar.cloud/blog/top5-technology-books-2021/)
 - [Explorando trade-offs da web3](https://ibrahimcesar.cloud/blog/trade-offs-da-web3-criptomoedas-blockchains-DAOs/)
 - [Introdução ao Next.js](https://ibrahimcesar.cloud/blog/introducao-nextjs-ssr-isr-ssg-javascript-react-framework/)
 - [Brasil, uma Profecia e O Monstro de Mariana](https://ibrahimcesar.cloud/blog/brasil-uma-profecia-o-monstro-de-mariana-ficcao-ibrahim-cesar/)
@@ -42,7 +43,6 @@
 - [⛅ #jornadaaws:  Iniciando nossa jornada na AWS](https://ibrahimcesar.cloud/blog/jornada-aws-iniciando-na-nuvem-aws/)
 - [SAFe™ Considered Harmful](https://ibrahimcesar.cloud/blog/SAFe-considered-harmful/)
 - [PeopleOps](https://ibrahimcesar.cloud/blog/peopleops-integracao-continua-do-time-entrega-continua-de-valor/)
-- [Event-Driven Architectures](https://ibrahimcesar.cloud/blog/event-driven-architectures/)
 <!-- POSTS_LIST:END -->
 
 ### Últimos livros lidos 📚
