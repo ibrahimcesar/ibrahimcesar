@@ -48,6 +48,7 @@
 ### Últimos livros lidos 📚
 
 <!-- READ_LIST:START -->
+- [Learning Domain-Driven Design: Aligning Software Architecture and Business Strategy](https://www.goodreads.com/review/show/4408215819?utm_medium=api&utm_source=rss) by Vladik Khononov (⭐⭐⭐⭐⭐)
 - [Architecting for Scale: How to Maintain High Availability and Manage Risk in the Cloud, Second Edition](https://www.goodreads.com/review/show/4397306783?utm_medium=api&utm_source=rss) by Lee Atchison (⭐⭐⭐)
 - [Domain-Driven Design Distilled](https://www.goodreads.com/review/show/3794487218?utm_medium=api&utm_source=rss) by Vaughn Vernon (⭐⭐⭐)
 - [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.goodreads.com/review/show/3668099235?utm_medium=api&utm_source=rss) by Eric Evans (⭐⭐⭐⭐⭐)
@@ -57,7 +58,6 @@
 - [Crafting Interpreters](https://www.goodreads.com/review/show/4313478006?utm_medium=api&utm_source=rss) by Robert Nystrom (⭐⭐⭐⭐⭐)
 - [Cloud Native Patterns: Designing change-tolerant software](https://www.goodreads.com/review/show/3744387924?utm_medium=api&utm_source=rss) by Cornelia Davis (⭐⭐⭐⭐⭐)
 - [Death's End (Remembrance of Earth’s Past #3)](https://www.goodreads.com/review/show/4303248689?utm_medium=api&utm_source=rss) by Liu Cixin (⭐⭐⭐⭐⭐)
-- [The Dark Forest (Remembrance of Earth’s Past, #2)](https://www.goodreads.com/review/show/4301103018?utm_medium=api&utm_source=rss) by Liu Cixin (⭐⭐⭐⭐)
 <!-- READ_LIST:END -->
 
 ### Lendo atualmente... 📚
