@@ -64,7 +64,6 @@
 
 <!-- READING_LIST:START -->
 - [The Dawn of Everything: A New History of Humanity](https://www.goodreads.com/review/show/4334086502?utm_medium=api&utm_source=rss) by David Graeber (⭐️ 4.33)
-- [Software Architecture: The Hard Parts: Modern Tradeoff Analysis for Distributed Architectures](https://www.goodreads.com/review/show/4428661431?utm_medium=api&utm_source=rss) by Neal Ford (⭐️ 4.78)
 - [The Gulag Archipelago 1918–1956 (Abridged)](https://www.goodreads.com/review/show/4385909343?utm_medium=api&utm_source=rss) by Aleksandr Solzhenitsyn (⭐️ 4.29)
 - [The Adolescent](https://www.goodreads.com/review/show/3907651091?utm_medium=api&utm_source=rss) by Fyodor Dostoevsky (⭐️ 3.95)
 - [Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation](https://www.goodreads.com/review/show/3747959698?utm_medium=api&utm_source=rss) by Jez Humble (⭐️ 4.18)
