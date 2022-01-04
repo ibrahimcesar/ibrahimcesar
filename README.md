@@ -63,6 +63,12 @@
 ### Lendo atualmente... 📚
 
 <!-- READING_LIST:START -->
+- [Security and Microservice Architecture on AWS](https://www.goodreads.com/review/show/4443445251?utm_medium=api&utm_source=rss) by Gaurav Raje (⭐️ 4)
+- [Software Architecture Patterns for Serverless Systems: Architecting for innovation with events, autonomous services, and micro frontends](https://www.goodreads.com/review/show/4443442560?utm_medium=api&utm_source=rss) by John Gilbert (⭐️ )
+- [Building Microservices: Designing Fine-Grained Systems](https://www.goodreads.com/review/show/4443440525?utm_medium=api&utm_source=rss) by Sam Newman (⭐️ 4.16)
+- [Strategic Monoliths and Microservices: Driving Innovation Using Purposeful Architecture](https://www.goodreads.com/review/show/4443438389?utm_medium=api&utm_source=rss) by Vaughn Vernon (⭐️ 3.67)
+- [Introducing Python: Modern Computing in Simple Packages](https://www.goodreads.com/review/show/4443433566?utm_medium=api&utm_source=rss) by Bill Lubanovic (⭐️ 4.15)
+- [Learning Serverless](https://www.goodreads.com/review/show/4443429380?utm_medium=api&utm_source=rss) by Jason Katzer (⭐️ 3.17)
 - [The Dawn of Everything: A New History of Humanity](https://www.goodreads.com/review/show/4334086502?utm_medium=api&utm_source=rss) by David Graeber (⭐️ 4.33)
 - [The Gulag Archipelago 1918–1956 (Abridged)](https://www.goodreads.com/review/show/4385909343?utm_medium=api&utm_source=rss) by Aleksandr Solzhenitsyn (⭐️ 4.29)
 - [The Adolescent](https://www.goodreads.com/review/show/3907651091?utm_medium=api&utm_source=rss) by Fyodor Dostoevsky (⭐️ 3.95)
