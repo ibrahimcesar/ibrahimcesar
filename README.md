@@ -7,7 +7,6 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/ibrahimcesar?label=People%20following%20me%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=ibrahimcesar)
 
 
-- 🦕 &nbsp;&nbsp; Diretor de Tecnologia no  [Nexo Jornal](https://www.nexojornal.com.br/), [Políticas Públicas](https://pp.nexojornal.com.br/) e [Revista Gama](https://gamarevista.com.br)
 - Meu [Manager README](https://github.com/ibrahimcesar/Manager-README)
 - AWS Community Builder
 - [Blog (en && pt-br)](https://ibrahimcesar.cloud)
