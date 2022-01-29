@@ -47,11 +47,11 @@
 ### Últimos livros lidos 📚
 
 <!-- READ_LIST:START -->
+- [Architecting for Scale: How to Maintain High Availability and Manage Risk in the Cloud](https://www.goodreads.com/review/show/4397306783?utm_medium=api&utm_source=rss) by Lee Atchison (⭐⭐⭐)
 - [Learning Serverless](https://www.goodreads.com/review/show/4443429380?utm_medium=api&utm_source=rss) by Jason Katzer (⭐⭐⭐)
 - [Aws Cookbook: Building Practical Solutions with Aws](https://www.goodreads.com/review/show/4454263241?utm_medium=api&utm_source=rss) by John Culkin (⭐⭐⭐⭐⭐)
 - [Software Architecture: The Hard Parts: Modern Tradeoff Analysis for Distributed Architectures](https://www.goodreads.com/review/show/4428661431?utm_medium=api&utm_source=rss) by Neal Ford (⭐⭐⭐⭐⭐)
 - [Learning Domain-Driven Design: Aligning Software Architecture and Business Strategy](https://www.goodreads.com/review/show/4408215819?utm_medium=api&utm_source=rss) by Vladik Khononov (⭐⭐⭐⭐⭐)
-- [Architecting for Scale: How to Maintain High Availability and Manage Risk in the Cloud, Second Edition](https://www.goodreads.com/review/show/4397306783?utm_medium=api&utm_source=rss) by Lee Atchison (⭐⭐⭐)
 - [Domain-Driven Design Distilled](https://www.goodreads.com/review/show/3794487218?utm_medium=api&utm_source=rss) by Vaughn Vernon (⭐⭐⭐)
 - [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.goodreads.com/review/show/3668099235?utm_medium=api&utm_source=rss) by Eric Evans (⭐⭐⭐⭐⭐)
 - [Solutions Architect's Handbook: Kick-start your solutions architect career by learning architecture design principles and strategies](https://www.goodreads.com/review/show/3698008428?utm_medium=api&utm_source=rss) by Saurabh Shrivastava (⭐⭐⭐)
