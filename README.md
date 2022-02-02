@@ -62,7 +62,6 @@
 ### Lendo atualmente... 📚
 
 <!-- READING_LIST:START -->
-- [Cloud Native Transformation: Practical Patterns for Innovation](https://www.goodreads.com/review/show/4487566091?utm_medium=api&utm_source=rss) by Pini Reznik (⭐️ 4.09)
 - [Serverless Architectures on AWS](https://www.goodreads.com/review/show/4476762572?utm_medium=api&utm_source=rss) by Peter Sbarski (⭐️ 4)
 - [Security and Microservice Architecture on AWS](https://www.goodreads.com/review/show/4443445251?utm_medium=api&utm_source=rss) by Gaurav Raje (⭐️ 4)
 - [Software Architecture Patterns for Serverless Systems: Architecting for innovation with events, autonomous services, and micro frontends](https://www.goodreads.com/review/show/4443442560?utm_medium=api&utm_source=rss) by John Gilbert (⭐️ )
@@ -72,6 +71,7 @@
 - [The Dawn of Everything: A New History of Humanity](https://www.goodreads.com/review/show/4334086502?utm_medium=api&utm_source=rss) by David Graeber (⭐️ 4.32)
 - [The Gulag Archipelago 1918–1956 (Abridged)](https://www.goodreads.com/review/show/4385909343?utm_medium=api&utm_source=rss) by Aleksandr Solzhenitsyn (⭐️ 4.29)
 - [The Adolescent](https://www.goodreads.com/review/show/3907651091?utm_medium=api&utm_source=rss) by Fyodor Dostoevsky (⭐️ 3.95)
+- [Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation](https://www.goodreads.com/review/show/3747959698?utm_medium=api&utm_source=rss) by Jez Humble (⭐️ 4.18)
 <!-- READING_LIST:END -->
 
 ### Livros técnicos favoritos
