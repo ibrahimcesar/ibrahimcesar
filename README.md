@@ -47,6 +47,7 @@
 ### Últimos livros lidos 📚
 
 <!-- READ_LIST:START -->
+- [Cloud Native Transformation: Practical Patterns for Innovation](https://www.goodreads.com/review/show/4487566091?utm_medium=api&utm_source=rss) by Pini Reznik (⭐⭐⭐⭐)
 - [Architecting for Scale: How to Maintain High Availability and Manage Risk in the Cloud](https://www.goodreads.com/review/show/4397306783?utm_medium=api&utm_source=rss) by Lee Atchison (⭐⭐⭐)
 - [Learning Serverless](https://www.goodreads.com/review/show/4443429380?utm_medium=api&utm_source=rss) by Jason Katzer (⭐⭐⭐)
 - [Aws Cookbook: Building Practical Solutions with Aws](https://www.goodreads.com/review/show/4454263241?utm_medium=api&utm_source=rss) by John Culkin (⭐⭐⭐⭐⭐)
@@ -56,7 +57,6 @@
 - [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.goodreads.com/review/show/3668099235?utm_medium=api&utm_source=rss) by Eric Evans (⭐⭐⭐⭐⭐)
 - [Solutions Architect's Handbook: Kick-start your solutions architect career by learning architecture design principles and strategies](https://www.goodreads.com/review/show/3698008428?utm_medium=api&utm_source=rss) by Saurabh Shrivastava (⭐⭐⭐)
 - [The Science of Can and Can't: A Physicist's Journey Through the Land of Counterfactuals](https://www.goodreads.com/review/show/4338329661?utm_medium=api&utm_source=rss) by Chiara Marletto (⭐⭐⭐⭐)
-- [The CDK Book](https://www.goodreads.com/review/show/4368508354?utm_medium=api&utm_source=rss) by Matthew Bonig (⭐⭐⭐⭐⭐)
 <!-- READ_LIST:END -->
 
 ### Lendo atualmente... 📚
