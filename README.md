@@ -63,7 +63,6 @@
 
 <!-- READING_LIST:START -->
 - [Serverless Architectures on AWS](https://www.goodreads.com/review/show/4476762572?utm_medium=api&utm_source=rss) by Peter Sbarski (⭐️ 4)
-- [Security and Microservice Architecture on AWS](https://www.goodreads.com/review/show/4443445251?utm_medium=api&utm_source=rss) by Gaurav Raje (⭐️ 4)
 - [Software Architecture Patterns for Serverless Systems: Architecting for innovation with events, autonomous services, and micro frontends](https://www.goodreads.com/review/show/4443442560?utm_medium=api&utm_source=rss) by John Gilbert (⭐️ )
 - [Building Microservices: Designing Fine-Grained Systems](https://www.goodreads.com/review/show/4443440525?utm_medium=api&utm_source=rss) by Sam Newman (⭐️ 4.16)
 - [Strategic Monoliths and Microservices: Driving Innovation Using Purposeful Architecture](https://www.goodreads.com/review/show/4443438389?utm_medium=api&utm_source=rss) by Vaughn Vernon (⭐️ 4.5)
