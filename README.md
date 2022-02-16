@@ -47,6 +47,7 @@
 ### Últimos livros lidos 📚
 
 <!-- READ_LIST:START -->
+- [Work Together Anywhere: A Handbook on Working Remotely—Successfully—for Individuals, Teams, and Managers](https://www.goodreads.com/review/show/4553025403?utm_medium=api&utm_source=rss) by Lisette Sutherland (⭐⭐⭐⭐)
 - [Security and Microservice Architecture on AWS](https://www.goodreads.com/review/show/4443445251?utm_medium=api&utm_source=rss) by Gaurav Raje (⭐⭐⭐⭐⭐)
 - [You should write a book](https://www.goodreads.com/review/show/4546652028?utm_medium=api&utm_source=rss) by Katel LeDû (⭐⭐⭐)
 - [Cloud Native Transformation: Practical Patterns for Innovation](https://www.goodreads.com/review/show/4487566091?utm_medium=api&utm_source=rss) by Pini Reznik (⭐⭐⭐⭐)
@@ -56,7 +57,6 @@
 - [Software Architecture: The Hard Parts: Modern Tradeoff Analysis for Distributed Architectures](https://www.goodreads.com/review/show/4428661431?utm_medium=api&utm_source=rss) by Neal Ford (⭐⭐⭐⭐⭐)
 - [Learning Domain-Driven Design: Aligning Software Architecture and Business Strategy](https://www.goodreads.com/review/show/4408215819?utm_medium=api&utm_source=rss) by Vladik Khononov (⭐⭐⭐⭐⭐)
 - [Domain-Driven Design Distilled](https://www.goodreads.com/review/show/3794487218?utm_medium=api&utm_source=rss) by Vaughn Vernon (⭐⭐⭐)
-- [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.goodreads.com/review/show/3668099235?utm_medium=api&utm_source=rss) by Eric Evans (⭐⭐⭐⭐⭐)
 <!-- READ_LIST:END -->
 
 ### Lendo atualmente... 📚
