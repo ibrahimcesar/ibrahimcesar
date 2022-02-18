@@ -52,7 +52,7 @@
 - [Cloud Native Transformation: Practical Patterns for Innovation](https://www.goodreads.com/review/show/4487566091?utm_medium=api&utm_source=rss) by Pini Reznik (⭐⭐⭐⭐)
 - [Architecting for Scale: How to Maintain High Availability and Manage Risk in the Cloud](https://www.goodreads.com/review/show/4397306783?utm_medium=api&utm_source=rss) by Lee Atchison (⭐⭐⭐)
 - [Learning Serverless](https://www.goodreads.com/review/show/4443429380?utm_medium=api&utm_source=rss) by Jason Katzer (⭐⭐⭐)
-- [Aws Cookbook: Building Practical Solutions with Aws](https://www.goodreads.com/review/show/4454263241?utm_medium=api&utm_source=rss) by John Culkin (⭐⭐⭐⭐⭐)
+- [AWS Cookbook](https://www.goodreads.com/review/show/4454263241?utm_medium=api&utm_source=rss) by John Culkin (⭐⭐⭐⭐⭐)
 - [Software Architecture: The Hard Parts: Modern Tradeoff Analysis for Distributed Architectures](https://www.goodreads.com/review/show/4428661431?utm_medium=api&utm_source=rss) by Neal Ford (⭐⭐⭐⭐⭐)
 - [Learning Domain-Driven Design: Aligning Software Architecture and Business Strategy](https://www.goodreads.com/review/show/4408215819?utm_medium=api&utm_source=rss) by Vladik Khononov (⭐⭐⭐⭐⭐)
 - [Domain-Driven Design Distilled](https://www.goodreads.com/review/show/3794487218?utm_medium=api&utm_source=rss) by Vaughn Vernon (⭐⭐⭐)
