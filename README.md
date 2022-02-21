@@ -61,15 +61,14 @@
 ### Lendo atualmente... 📚
 
 <!-- READING_LIST:START -->
+- [Arquipélago Gulag, um experimento de investigação artística 1918-1956](https://www.goodreads.com/review/show/4564170882?utm_medium=api&utm_source=rss) by SOLJENÍTSYN, ALEKSANDR (⭐️ 4.88)
 - [Serverless Architectures on AWS](https://www.goodreads.com/review/show/4476762572?utm_medium=api&utm_source=rss) by Peter Sbarski (⭐️ 4)
 - [Software Architecture Patterns for Serverless Systems: Architecting for innovation with events, autonomous services, and micro frontends](https://www.goodreads.com/review/show/4443442560?utm_medium=api&utm_source=rss) by John Gilbert (⭐️ )
 - [Building Microservices: Designing Fine-Grained Systems](https://www.goodreads.com/review/show/4443440525?utm_medium=api&utm_source=rss) by Sam Newman (⭐️ 4.16)
-- [Strategic Monoliths and Microservices: Driving Innovation Using Purposeful Architecture](https://www.goodreads.com/review/show/4443438389?utm_medium=api&utm_source=rss) by Vaughn Vernon (⭐️ 4.5)
+- [Strategic Monoliths and Microservices: Driving Innovation Using Purposeful Architecture](https://www.goodreads.com/review/show/4443438389?utm_medium=api&utm_source=rss) by Vaughn Vernon (⭐️ 4.29)
 - [Introducing Python: Modern Computing in Simple Packages](https://www.goodreads.com/review/show/4443433566?utm_medium=api&utm_source=rss) by Bill Lubanovic (⭐️ 4.13)
 - [The Dawn of Everything: A New History of Humanity](https://www.goodreads.com/review/show/4334086502?utm_medium=api&utm_source=rss) by David Graeber (⭐️ 4.29)
-- [The Gulag Archipelago 1918–1956 (Abridged)](https://www.goodreads.com/review/show/4385909343?utm_medium=api&utm_source=rss) by Aleksandr Solzhenitsyn (⭐️ 4.29)
 - [The Adolescent](https://www.goodreads.com/review/show/3907651091?utm_medium=api&utm_source=rss) by Fyodor Dostoevsky (⭐️ 3.95)
-- [Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation](https://www.goodreads.com/review/show/3747959698?utm_medium=api&utm_source=rss) by Jez Humble (⭐️ 4.18)
 <!-- READING_LIST:END -->
 
 ### Livros técnicos favoritos
