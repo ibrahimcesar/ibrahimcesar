@@ -6,15 +6,15 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ibrahimcesar?label=People%20following%20me%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=ibrahimcesar)
 
-
-- Meu [Manager README](https://github.com/ibrahimcesar/Manager-README)
+- Solutions Architect @ [Compass.uol](https://compass.uol/)
 - AWS Community Builder
 - [Blog (en && pt-br)](https://ibrahimcesar.cloud)
 - [Nanodegree AWS Cloud Architect pela Udacity](https://graduation.udacity.com/confirm/UDRWJKSP)
+- Meu [Manager README](https://github.com/ibrahimcesar/Manager-README)
 - [Polywork](https://www.polywork.com/ibrahimcesar)
 - [Twitter](https://www.twitter.com/ibrahimcesar/)
 - [LinkedIn](https://www.linkedin.com/in/ibrahimcesar/)
-- 🌱 Apostando muito em **TypeScript** e **CDK**. Aprendendo sobre infra e GitHub Actions.
+- 🌱 Apostando muito em **Arquitetura hexagonal**, **Domain Driven Design** e **Event-driven applications**.
 - ⚡ Fun facts: 
     - Sou **grande** fã do Tolstói e Van Gogh
     - Meu livro favorito é **Anna Kariênina**.
