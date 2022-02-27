@@ -10,7 +10,6 @@
 - AWS Community Builder
 - [Blog (en && pt-br)](https://ibrahimcesar.cloud)
 - [Nanodegree AWS Cloud Architect pela Udacity](https://graduation.udacity.com/confirm/UDRWJKSP)
-- Meu [Manager README](https://github.com/ibrahimcesar/Manager-README)
 - [Polywork](https://www.polywork.com/ibrahimcesar)
 - [Twitter](https://www.twitter.com/ibrahimcesar/)
 - [LinkedIn](https://www.linkedin.com/in/ibrahimcesar/)
