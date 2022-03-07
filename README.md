@@ -71,7 +71,7 @@
 - [Building Microservices: Designing Fine-Grained Systems](https://www.goodreads.com/review/show/4443440525?utm_medium=api&utm_source=rss) by Sam Newman (⭐️ 4.16)
 - [Strategic Monoliths and Microservices: Driving Innovation Using Purposeful Architecture](https://www.goodreads.com/review/show/4443438389?utm_medium=api&utm_source=rss) by Vaughn Vernon (⭐️ 4.29)
 - [Introducing Python: Modern Computing in Simple Packages](https://www.goodreads.com/review/show/4443433566?utm_medium=api&utm_source=rss) by Bill Lubanovic (⭐️ 4.13)
-- [The Dawn of Everything: A New History of Humanity](https://www.goodreads.com/review/show/4334086502?utm_medium=api&utm_source=rss) by David Graeber (⭐️ 4.29)
+- [The Dawn of Everything: A New History of Humanity](https://www.goodreads.com/review/show/4334086502?utm_medium=api&utm_source=rss) by David Graeber (⭐️ 4.28)
 - [The Adolescent](https://www.goodreads.com/review/show/3907651091?utm_medium=api&utm_source=rss) by Fyodor Dostoevsky (⭐️ 3.95)
 <!-- READING_LIST:END -->
 
