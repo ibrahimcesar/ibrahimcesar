@@ -13,7 +13,7 @@
 
 <div align="center">
     
-    Estou escrevendo um livro sobre AWS para a Casa do Código! Saiba mais: (https://ibra.link/aws)[https://ibra.link/aws]
+   > Estou escrevendo um livro sobre AWS para a Casa do Código! Saiba mais: <a href="https://ibra.link/aws">https://ibra.link/aws</a>
     
     
 </div>
