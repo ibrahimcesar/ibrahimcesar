@@ -72,6 +72,7 @@
 ### Lendo atualmente... 📚
 
 <!-- READING_LIST:START -->
+- [As Visionárias](https://www.goodreads.com/review/show/4604667355?utm_medium=api&utm_source=rss) by Wolfram Eilenberger (⭐️ )
 - [Arquipélago Gulag, um experimento de investigação artística 1918-1956](https://www.goodreads.com/review/show/4564170882?utm_medium=api&utm_source=rss) by SOLJENÍTSYN, ALEKSANDR (⭐️ 4.88)
 - [Serverless Architectures on AWS](https://www.goodreads.com/review/show/4476762572?utm_medium=api&utm_source=rss) by Peter Sbarski (⭐️ 4)
 - [Software Architecture Patterns for Serverless Systems: Architecting for innovation with events, autonomous services, and micro frontends](https://www.goodreads.com/review/show/4443442560?utm_medium=api&utm_source=rss) by John Gilbert (⭐️ )
