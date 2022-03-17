@@ -7,13 +7,15 @@
 " width="100px"  style="max-width:100px;"/></a>&nbsp; &nbsp;<a href="https://www.credly.com/badges/6cde2ea1-3e33-4df7-826d-5924ff6ee5cc/public_url" target="_blank" title="AWS Partner: Cloud Economics Accreditation"><img src="https://user-images.githubusercontent.com/509054/156542577-95fc78ee-5e8e-4854-9be8-9a842916ad3b.png" alt="AWS Partner: Cloud Economics Accreditation" width="100px"  style="max-width:100px;"/></a>&nbsp; &nbsp;<a href="https://www.credly.com/badges/4f01a02b-63c3-41b9-87ca-608031f2bdcc/public_url" target="_blank" title="AWS Partner: Accreditation (Business)"><img src="https://user-images.githubusercontent.com/509054/156542806-a600b198-872d-4ab8-a1f9-faa4caa1a36b.png" alt="AWS Partner: Accreditation (Business)" width="100px"  style="max-width:100px;"/></a>
     </p>
     
-
+<div align="center">
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ibrahimcesar?label=People%20following%20me%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=ibrahimcesar)
+    
+ </div>
 
 <div align="center">
     
-   > Estou escrevendo um livro sobre AWS para a Casa do Código! Saiba mais: <a href="https://ibra.link/aws">https://ibra.link/aws</a>
+   > Estou escrevendo um livro sobre AWS para a Casa do Código! Saiba mais: <a href="https://livroaws.ibrahimcesar.cloud">https://ibra.link/aws</a>
     
     
 </div>
