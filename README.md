@@ -15,7 +15,7 @@
 
 <div align="center">
     
-   > Estou escrevendo um livro sobre AWS para a Casa do Código! Saiba mais: <a href="https://livroaws.ibrahimcesar.cloud">https://ibra.link/aws</a>
+   > Estou escrevendo um livro sobre AWS para a Casa do Código! Saiba mais: <a href="https://livroaws.ibrahimcesar.cloud">https://livroaws.ibrahimcesar.cloud</a>
     
     
 </div>
