@@ -75,6 +75,7 @@
 ### Lendo atualmente... 📚
 
 <!-- READING_LIST:START -->
+- [Working Backwards: Insights, Stories, and Secrets from Inside Amazon](https://www.goodreads.com/review/show/4629490117?utm_medium=api&utm_source=rss) by Colin Bryar (⭐️ 4.2)
 - [As Visionárias](https://www.goodreads.com/review/show/4604667355?utm_medium=api&utm_source=rss) by Wolfram Eilenberger (⭐️ )
 - [Arquipélago Gulag, um experimento de investigação artística 1918-1956](https://www.goodreads.com/review/show/4564170882?utm_medium=api&utm_source=rss) by SOLJENÍTSYN, ALEKSANDR (⭐️ 4.89)
 - [Serverless Architectures on AWS](https://www.goodreads.com/review/show/4476762572?utm_medium=api&utm_source=rss) by Peter Sbarski (⭐️ 4)
