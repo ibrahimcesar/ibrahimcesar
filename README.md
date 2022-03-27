@@ -60,6 +60,7 @@
 ### Últimos livros lidos 📚
 
 <!-- READ_LIST:START -->
+- [Working Backwards: Insights, Stories, and Secrets from Inside Amazon](https://www.goodreads.com/review/show/4629490117?utm_medium=api&utm_source=rss) by Colin Bryar (⭐⭐⭐⭐⭐)
 - [Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation](https://www.goodreads.com/review/show/3747959698?utm_medium=api&utm_source=rss) by Jez Humble (⭐⭐⭐⭐⭐)
 - [Work Together Anywhere: A Handbook on Working Remotely—Successfully—for Individuals, Teams, and Managers](https://www.goodreads.com/review/show/4553025403?utm_medium=api&utm_source=rss) by Lisette Sutherland (⭐⭐⭐⭐)
 - [Security and Microservice Architecture on AWS](https://www.goodreads.com/review/show/4443445251?utm_medium=api&utm_source=rss) by Gaurav Raje (⭐⭐⭐⭐⭐)
@@ -69,7 +70,6 @@
 - [Learning Serverless](https://www.goodreads.com/review/show/4443429380?utm_medium=api&utm_source=rss) by Jason Katzer (⭐⭐⭐)
 - [AWS Cookbook](https://www.goodreads.com/review/show/4454263241?utm_medium=api&utm_source=rss) by John Culkin (⭐⭐⭐⭐⭐)
 - [Software Architecture: The Hard Parts: Modern Tradeoff Analysis for Distributed Architectures](https://www.goodreads.com/review/show/4428661431?utm_medium=api&utm_source=rss) by Neal Ford (⭐⭐⭐⭐⭐)
-- [Learning Domain-Driven Design: Aligning Software Architecture and Business Strategy](https://www.goodreads.com/review/show/4408215819?utm_medium=api&utm_source=rss) by Vladik Khononov (⭐⭐⭐⭐⭐)
 <!-- READ_LIST:END -->
 
 ### Lendo atualmente... 📚
