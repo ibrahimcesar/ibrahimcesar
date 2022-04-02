@@ -76,10 +76,11 @@
 ### Lendo atualmente... 📚
 
 <!-- READING_LIST:START -->
+- [Reaching Cloud Velocity: A Leader's Guide to Success in the AWS Cloud](https://www.goodreads.com/review/show/4643974130?utm_medium=api&utm_source=rss) by Jonathan    Allen (⭐️ 4.21)
 - [Arquipélago Gulag, um experimento de investigação artística 1918-1956](https://www.goodreads.com/review/show/4564170882?utm_medium=api&utm_source=rss) by Aleksandr Solzhenitsyn (⭐️ 4.85)
 - [As Visionárias](https://www.goodreads.com/review/show/4604667355?utm_medium=api&utm_source=rss) by Wolfram Eilenberger (⭐️ )
 - [Serverless Architectures on AWS](https://www.goodreads.com/review/show/4476762572?utm_medium=api&utm_source=rss) by Peter Sbarski (⭐️ 4)
-- [Software Architecture Patterns for Serverless Systems: Architecting for innovation with events, autonomous services, and micro frontends](https://www.goodreads.com/review/show/4443442560?utm_medium=api&utm_source=rss) by John Gilbert (⭐️ )
+- [Software Architecture Patterns for Serverless Systems: Architecting for innovation with events, autonomous services, and micro frontends](https://www.goodreads.com/review/show/4443442560?utm_medium=api&utm_source=rss) by John Gilbert (⭐️ 5)
 - [Building Microservices: Designing Fine-Grained Systems](https://www.goodreads.com/review/show/4443440525?utm_medium=api&utm_source=rss) by Sam Newman (⭐️ 4.16)
 - [Strategic Monoliths and Microservices: Driving Innovation Using Purposeful Architecture](https://www.goodreads.com/review/show/4443438389?utm_medium=api&utm_source=rss) by Vaughn Vernon (⭐️ 4.29)
 - [Introducing Python: Modern Computing in Simple Packages](https://www.goodreads.com/review/show/4443433566?utm_medium=api&utm_source=rss) by Bill Lubanovic (⭐️ 4.13)
