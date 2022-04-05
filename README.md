@@ -61,6 +61,7 @@
 ### Últimos livros lidos 📚
 
 <!-- READ_LIST:START -->
+- [The Amazon Way: Amazon's 14 Leadership Principles](https://www.goodreads.com/review/show/4647798523?utm_medium=api&utm_source=rss) by John Rossman (⭐⭐⭐⭐)
 - [Working Backwards: Insights, Stories, and Secrets from Inside Amazon](https://www.goodreads.com/review/show/4629490117?utm_medium=api&utm_source=rss) by Colin Bryar (⭐⭐⭐⭐⭐)
 - [Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation](https://www.goodreads.com/review/show/3747959698?utm_medium=api&utm_source=rss) by Jez Humble (⭐⭐⭐⭐⭐)
 - [Work Together Anywhere: A Handbook on Working Remotely—Successfully—for Individuals, Teams, and Managers](https://www.goodreads.com/review/show/4553025403?utm_medium=api&utm_source=rss) by Lisette Sutherland (⭐⭐⭐⭐)
@@ -70,7 +71,6 @@
 - [Architecting for Scale: How to Maintain High Availability and Manage Risk in the Cloud](https://www.goodreads.com/review/show/4397306783?utm_medium=api&utm_source=rss) by Lee Atchison (⭐⭐⭐)
 - [Learning Serverless](https://www.goodreads.com/review/show/4443429380?utm_medium=api&utm_source=rss) by Jason Katzer (⭐⭐⭐)
 - [AWS Cookbook](https://www.goodreads.com/review/show/4454263241?utm_medium=api&utm_source=rss) by John Culkin (⭐⭐⭐⭐⭐)
-- [Software Architecture: The Hard Parts: Modern Tradeoff Analysis for Distributed Architectures](https://www.goodreads.com/review/show/4428661431?utm_medium=api&utm_source=rss) by Neal Ford (⭐⭐⭐⭐⭐)
 <!-- READ_LIST:END -->
 
 ### Lendo atualmente... 📚
