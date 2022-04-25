@@ -45,6 +45,8 @@
 ### Minhas últimas postagens no blog
 
 <!-- POSTS_LIST:START -->
+- [Estou escrevendo um livro! Sobre AWS!](https://ibrahimcesar.cloud/blog/livro-aws/)
+- [Certificações AWS — Por quê e de que forma](https://ibrahimcesar.cloud/blog/certificacoes/)
 - [Top 5 technology books I read in 2021](https://ibrahimcesar.cloud/blog/top5-technology-books-2021/)
 - [Explorando trade-offs da web3](https://ibrahimcesar.cloud/blog/trade-offs-da-web3-criptomoedas-blockchains-DAOs/)
 - [Introdução ao Next.js](https://ibrahimcesar.cloud/blog/introducao-nextjs-ssr-isr-ssg-javascript-react-framework/)
@@ -53,8 +55,6 @@
 - [Mergulho em AWS Cloud Development Kit &lpar;CDK&rpar;](https://ibrahimcesar.cloud/blog/mergulho-cdk/)
 - [⛅ #jornadaaws: CDK Bootstrapping](https://ibrahimcesar.cloud/blog/cdk-bootstrapping/)
 - [⛅ #jornadaaws:  Iniciando nossa jornada na AWS](https://ibrahimcesar.cloud/blog/jornada-aws-iniciando-na-nuvem-aws/)
-- [SAFe™ Considered Harmful](https://ibrahimcesar.cloud/blog/SAFe-considered-harmful/)
-- [PeopleOps](https://ibrahimcesar.cloud/blog/peopleops-integracao-continua-do-time-entrega-continua-de-valor/)
 <!-- POSTS_LIST:END -->
 
 ### Últimos livros lidos 📚
