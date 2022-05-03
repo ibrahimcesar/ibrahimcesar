@@ -75,7 +75,7 @@
 ### Lendo atualmente... 📚
 
 <!-- READING_LIST:START -->
-- [The Software Architect Elevator: Transforming Enterprises with Technology and Business Architecture](https://www.goodreads.com/review/show/4674097065?utm_medium=api&utm_source=rss) by Gregor Hohpe (⭐️ 4.44)
+- [Technology Strategy Patterns: Architecture as Strategy](https://www.goodreads.com/review/show/4703086703?utm_medium=api&utm_source=rss) by Eben Hewitt (⭐️ 4.05)
 - [Arquipélago Gulag, um experimento de investigação artística 1918-1956](https://www.goodreads.com/review/show/4564170882?utm_medium=api&utm_source=rss) by Aleksandr Solzhenitsyn (⭐️ 4.85)
 - [As Visionárias](https://www.goodreads.com/review/show/4604667355?utm_medium=api&utm_source=rss) by Wolfram Eilenberger (⭐️ )
 - [Serverless Architectures on AWS](https://www.goodreads.com/review/show/4476762572?utm_medium=api&utm_source=rss) by Peter Sbarski (⭐️ 4)
