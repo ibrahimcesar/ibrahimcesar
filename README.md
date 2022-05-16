@@ -67,6 +67,7 @@
 ### Últimos livros lidos 📚
 
 <!-- READ_LIST:START -->
+- [Cloud Strategy](https://www.goodreads.com/review/show/4726289226?utm_medium=api&utm_source=rss) by Gregor Hohpe (⭐⭐⭐⭐⭐)
 - [The Software Architect Elevator: Transforming Enterprises with Technology and Business Architecture](https://www.goodreads.com/review/show/4674097065?utm_medium=api&utm_source=rss) by Gregor Hohpe (⭐⭐⭐⭐⭐)
 - [Reaching Cloud Velocity: A Leader's Guide to Success in the AWS Cloud](https://www.goodreads.com/review/show/4643974130?utm_medium=api&utm_source=rss) by Jonathan    Allen (⭐⭐⭐⭐)
 - [The Amazon Way: Amazon's 14 Leadership Principles](https://www.goodreads.com/review/show/4647798523?utm_medium=api&utm_source=rss) by John Rossman (⭐⭐⭐⭐)
@@ -76,7 +77,6 @@
 - [Security and Microservice Architecture on AWS](https://www.goodreads.com/review/show/4443445251?utm_medium=api&utm_source=rss) by Gaurav Raje (⭐⭐⭐⭐⭐)
 - [You should write a book](https://www.goodreads.com/review/show/4546652028?utm_medium=api&utm_source=rss) by Katel LeDû (⭐⭐⭐)
 - [Cloud Native Transformation: Practical Patterns for Innovation](https://www.goodreads.com/review/show/4487566091?utm_medium=api&utm_source=rss) by Pini Reznik (⭐⭐⭐⭐)
-- [Architecting for Scale: How to Maintain High Availability and Manage Risk in the Cloud](https://www.goodreads.com/review/show/4397306783?utm_medium=api&utm_source=rss) by Lee Atchison (⭐⭐⭐)
 <!-- READ_LIST:END -->
 
 ### Lendo atualmente... 📚
