@@ -67,10 +67,10 @@
 ### Últimos livros lidos 📚
 
 <!-- READ_LIST:START -->
+- [The Amazon Way: Amazon's 14 Leadership Principles](https://www.goodreads.com/review/show/4647798523?utm_medium=api&utm_source=rss) by John Rossman (⭐⭐⭐⭐)
 - [Cloud Strategy](https://www.goodreads.com/review/show/4726289226?utm_medium=api&utm_source=rss) by Gregor Hohpe (⭐⭐⭐⭐⭐)
 - [The Software Architect Elevator: Transforming Enterprises with Technology and Business Architecture](https://www.goodreads.com/review/show/4674097065?utm_medium=api&utm_source=rss) by Gregor Hohpe (⭐⭐⭐⭐⭐)
 - [Reaching Cloud Velocity: A Leader's Guide to Success in the AWS Cloud](https://www.goodreads.com/review/show/4643974130?utm_medium=api&utm_source=rss) by Jonathan    Allen (⭐⭐⭐⭐)
-- [The Amazon Way: Amazon's 14 Leadership Principles](https://www.goodreads.com/review/show/4647798523?utm_medium=api&utm_source=rss) by John Rossman (⭐⭐⭐⭐)
 - [Working Backwards: Insights, Stories, and Secrets from Inside Amazon](https://www.goodreads.com/review/show/4629490117?utm_medium=api&utm_source=rss) by Colin Bryar (⭐⭐⭐⭐⭐)
 - [Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation](https://www.goodreads.com/review/show/3747959698?utm_medium=api&utm_source=rss) by Jez Humble (⭐⭐⭐⭐⭐)
 - [Work Together Anywhere: A Handbook on Working Remotely—Successfully—for Individuals, Teams, and Managers](https://www.goodreads.com/review/show/4553025403?utm_medium=api&utm_source=rss) by Lisette Sutherland (⭐⭐⭐⭐)
