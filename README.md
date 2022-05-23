@@ -114,4 +114,10 @@
 - [Next Billion Users](https://ibrahimcesar.cloudd/blog/nbu-next-billion-users-brasil/): Exploração do conceito de "Next Billion Users", o oceanos azuis que as grandes corporações de tecnologia irão atrás, e o Brasil faz parte desse número.  
 - [Por quê sistemas falham?](https://ibrahimcesar.cloud/blog/por-que-sistemas-falham/): Tudo falha, o tempo todo. E podemos aprender com todo tipo de sistema
 
+<div align="center">
+
 ![Snake animation](https://github.com/ibrahimcesar/ibrahimcesar/blob/output/github-contribution-grid-snake.svg)
+
+![](https://github-readme-stats.vercel.app/api?username=ibrahimcesar&show_icons=true&theme=default)
+    
+ </div>
