@@ -82,6 +82,7 @@
 ### Lendo atualmente... 📚
 
 <!-- READING_LIST:START -->
+- [War and Peace and IT: Business Leadership, Technology, and Success in the Digital Age](https://www.goodreads.com/review/show/4747076666?utm_medium=api&utm_source=rss) by Mark  Schwartz (⭐️ 4.12)
 - [A Mind at Play: How Claude Shannon Invented the Information Age](https://www.goodreads.com/review/show/4726299400?utm_medium=api&utm_source=rss) by Jimmy Soni (⭐️ 4.14)
 - [Technology Strategy Patterns: Architecture as Strategy](https://www.goodreads.com/review/show/4703086703?utm_medium=api&utm_source=rss) by Eben Hewitt (⭐️ 4.06)
 - [Arquipélago Gulag, um experimento de investigação artística 1918-1956](https://www.goodreads.com/review/show/4564170882?utm_medium=api&utm_source=rss) by Aleksandr Solzhenitsyn (⭐️ 4.85)
@@ -91,7 +92,6 @@
 - [Building Microservices: Designing Fine-Grained Systems](https://www.goodreads.com/review/show/4443440525?utm_medium=api&utm_source=rss) by Sam Newman (⭐️ 4.16)
 - [Strategic Monoliths and Microservices: Driving Innovation Using Purposeful Architecture](https://www.goodreads.com/review/show/4443438389?utm_medium=api&utm_source=rss) by Vaughn Vernon (⭐️ 4.25)
 - [The Dawn of Everything: A New History of Humanity](https://www.goodreads.com/review/show/4334086502?utm_medium=api&utm_source=rss) by David Graeber (⭐️ 4.24)
-- [The Adolescent](https://www.goodreads.com/review/show/3907651091?utm_medium=api&utm_source=rss) by Fyodor Dostoevsky (⭐️ 3.95)
 <!-- READING_LIST:END -->
 
 ### Livros técnicos favoritos
