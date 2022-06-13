@@ -26,8 +26,7 @@
 </div>
 
 
-- Solutions Architect @ [Compass.uol](https://compass.uol/)
-- AWS Community Builder
+- Enterprise Solutions Architect @ [Amazon Web Services (AWS)](https://aws.amazon.com/) — _Opinions are my own and all code projects here are personal_
 - [Blog (en && pt-br)](https://ibrahimcesar.cloud)
 - [Nanodegree AWS Cloud Architect pela Udacity](https://graduation.udacity.com/confirm/UDRWJKSP)
 - [Polywork](https://www.polywork.com/ibrahimcesar)
