@@ -80,7 +80,7 @@
 
 <!-- READING_LIST:START -->
 - [The Man from the Future: The Visionary Life of John von Neumann](https://www.goodreads.com/review/show/4788644691?utm_medium=api&utm_source=rss) by Ananyo Bhattacharya (⭐️ 4.06)
-- [A Mind at Play: How Claude Shannon Invented the Information Age](https://www.goodreads.com/review/show/4726299400?utm_medium=api&utm_source=rss) by Jimmy Soni (⭐️ 4.14)
+- [A Mind at Play: How Claude Shannon Invented the Information Age](https://www.goodreads.com/review/show/4726299400?utm_medium=api&utm_source=rss) by Jimmy Soni (⭐️ 4.13)
 - [Technology Strategy Patterns: Architecture as Strategy](https://www.goodreads.com/review/show/4703086703?utm_medium=api&utm_source=rss) by Eben Hewitt (⭐️ 4.07)
 - [Arquipélago Gulag, um experimento de investigação artística 1918-1956](https://www.goodreads.com/review/show/4564170882?utm_medium=api&utm_source=rss) by Aleksandr Solzhenitsyn (⭐️ 4.85)
 - [As Visionárias](https://www.goodreads.com/review/show/4604667355?utm_medium=api&utm_source=rss) by Wolfram Eilenberger (⭐️ )
