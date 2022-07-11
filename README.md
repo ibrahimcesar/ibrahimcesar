@@ -79,7 +79,7 @@
 ### Lendo atualmente... 📚
 
 <!-- READING_LIST:START -->
-- [The Man from the Future: The Visionary Life of John von Neumann](https://www.goodreads.com/review/show/4788644691?utm_medium=api&utm_source=rss) by Ananyo Bhattacharya (⭐️ 4.06)
+- [The Man from the Future: The Visionary Life of John von Neumann](https://www.goodreads.com/review/show/4788644691?utm_medium=api&utm_source=rss) by Ananyo Bhattacharya (⭐️ 4.05)
 - [A Mind at Play: How Claude Shannon Invented the Information Age](https://www.goodreads.com/review/show/4726299400?utm_medium=api&utm_source=rss) by Jimmy Soni (⭐️ 4.14)
 - [Technology Strategy Patterns: Architecture as Strategy](https://www.goodreads.com/review/show/4703086703?utm_medium=api&utm_source=rss) by Eben Hewitt (⭐️ 4.07)
 - [Arquipélago Gulag, um experimento de investigação artística 1918-1956](https://www.goodreads.com/review/show/4564170882?utm_medium=api&utm_source=rss) by Aleksandr Solzhenitsyn (⭐️ 4.86)
@@ -87,7 +87,7 @@
 - [Serverless Architectures on AWS](https://www.goodreads.com/review/show/4476762572?utm_medium=api&utm_source=rss) by Peter Sbarski (⭐️ 3.98)
 - [Software Architecture Patterns for Serverless Systems: Architecting for innovation with events, autonomous services, and micro frontends](https://www.goodreads.com/review/show/4443442560?utm_medium=api&utm_source=rss) by John Gilbert (⭐️ 4.33)
 - [Building Microservices: Designing Fine-Grained Systems](https://www.goodreads.com/review/show/4443440525?utm_medium=api&utm_source=rss) by Sam Newman (⭐️ 4.16)
-- [Strategic Monoliths and Microservices: Driving Innovation Using Purposeful Architecture](https://www.goodreads.com/review/show/4443438389?utm_medium=api&utm_source=rss) by Vaughn Vernon (⭐️ 4.33)
+- [Strategic Monoliths and Microservices: Driving Innovation Using Purposeful Architecture](https://www.goodreads.com/review/show/4443438389?utm_medium=api&utm_source=rss) by Vaughn Vernon (⭐️ 4.4)
 - [The Dawn of Everything: A New History of Humanity](https://www.goodreads.com/review/show/4334086502?utm_medium=api&utm_source=rss) by David Graeber (⭐️ 4.23)
 <!-- READING_LIST:END -->
 
