@@ -79,7 +79,7 @@
 ### Lendo atualmente... 📚
 
 <!-- READING_LIST:START -->
-- [The Man from the Future: The Visionary Life of John von Neumann](https://www.goodreads.com/review/show/4788644691?utm_medium=api&utm_source=rss) by Ananyo Bhattacharya (⭐️ 4.05)
+- [DevSecOps: A leader’s guide to producing secure software without compromising flow, feedback and continuous improvement](https://www.goodreads.com/review/show/4846065635?utm_medium=api&utm_source=rss) by Glenn Wilson (⭐️ 3.88)
 - [A Mind at Play: How Claude Shannon Invented the Information Age](https://www.goodreads.com/review/show/4726299400?utm_medium=api&utm_source=rss) by Jimmy Soni (⭐️ 4.14)
 - [Technology Strategy Patterns: Architecture as Strategy](https://www.goodreads.com/review/show/4703086703?utm_medium=api&utm_source=rss) by Eben Hewitt (⭐️ 4.07)
 - [Arquipélago Gulag, um experimento de investigação artística 1918-1956](https://www.goodreads.com/review/show/4564170882?utm_medium=api&utm_source=rss) by Aleksandr Solzhenitsyn (⭐️ 4.86)
