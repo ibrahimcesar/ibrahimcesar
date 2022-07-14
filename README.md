@@ -64,6 +64,7 @@
 ### Últimos livros lidos 📚
 
 <!-- READ_LIST:START -->
+- [The Man from the Future: The Visionary Life of John von Neumann](https://www.goodreads.com/review/show/4788644691?utm_medium=api&utm_source=rss) by Ananyo Bhattacharya (⭐⭐⭐⭐)
 - [War and Peace and IT: Business Leadership, Technology, and Success in the Digital Age](https://www.goodreads.com/review/show/4747076666?utm_medium=api&utm_source=rss) by Mark  Schwartz (⭐⭐⭐⭐)
 - [The Amazon Way: Amazon's 14 Leadership Principles](https://www.goodreads.com/review/show/4647798523?utm_medium=api&utm_source=rss) by John Rossman (⭐⭐⭐⭐)
 - [Cloud Strategy](https://www.goodreads.com/review/show/4726289226?utm_medium=api&utm_source=rss) by Gregor Hohpe (⭐⭐⭐⭐⭐)
@@ -73,7 +74,6 @@
 - [Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation](https://www.goodreads.com/review/show/3747959698?utm_medium=api&utm_source=rss) by Jez Humble (⭐⭐⭐⭐⭐)
 - [Work Together Anywhere: A Handbook on Working Remotely—Successfully—for Individuals, Teams, and Managers](https://www.goodreads.com/review/show/4553025403?utm_medium=api&utm_source=rss) by Lisette Sutherland (⭐⭐⭐⭐)
 - [Security and Microservice Architecture on AWS](https://www.goodreads.com/review/show/4443445251?utm_medium=api&utm_source=rss) by Gaurav Raje (⭐⭐⭐⭐⭐)
-- [You should write a book](https://www.goodreads.com/review/show/4546652028?utm_medium=api&utm_source=rss) by Katel LeDû (⭐⭐⭐)
 <!-- READ_LIST:END -->
 
 ### Lendo atualmente... 📚
