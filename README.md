@@ -79,6 +79,7 @@
 ### Lendo atualmente... 📚
 
 <!-- READING_LIST:START -->
+- [Lost in Math: How Beauty Leads Physics Astray](https://www.goodreads.com/review/show/4926934818?utm_medium=api&utm_source=rss) by Sabine Hossenfelder (⭐️ 4.04)
 - [DevSecOps: A leader’s guide to producing secure software without compromising flow, feedback and continuous improvement](https://www.goodreads.com/review/show/4846065635?utm_medium=api&utm_source=rss) by Glenn Wilson (⭐️ 3.63)
 - [A Mind at Play: How Claude Shannon Invented the Information Age](https://www.goodreads.com/review/show/4726299400?utm_medium=api&utm_source=rss) by Jimmy Soni (⭐️ 4.14)
 - [Technology Strategy Patterns: Architecture as Strategy](https://www.goodreads.com/review/show/4703086703?utm_medium=api&utm_source=rss) by Eben Hewitt (⭐️ 4.07)
@@ -88,7 +89,6 @@
 - [Software Architecture Patterns for Serverless Systems: Architecting for innovation with events, autonomous services, and micro frontends](https://www.goodreads.com/review/show/4443442560?utm_medium=api&utm_source=rss) by John Gilbert (⭐️ 3.8)
 - [Building Microservices: Designing Fine-Grained Systems](https://www.goodreads.com/review/show/4443440525?utm_medium=api&utm_source=rss) by Sam Newman (⭐️ 4.16)
 - [Strategic Monoliths and Microservices: Driving Innovation Using Purposeful Architecture](https://www.goodreads.com/review/show/4443438389?utm_medium=api&utm_source=rss) by Vaughn Vernon (⭐️ 4.42)
-- [The Dawn of Everything: A New History of Humanity](https://www.goodreads.com/review/show/4334086502?utm_medium=api&utm_source=rss) by David Graeber (⭐️ 4.22)
 <!-- READING_LIST:END -->
 
 ### Livros técnicos favoritos
