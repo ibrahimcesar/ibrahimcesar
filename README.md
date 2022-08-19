@@ -61,6 +61,7 @@
 ### Últimos livros lidos 📚
 
 <!-- READ_LIST:START -->
+- [Lost in Math: How Beauty Leads Physics Astray](https://www.goodreads.com/review/show/4926934818?utm_medium=api&utm_source=rss) by Sabine Hossenfelder (⭐⭐⭐⭐)
 - [His Master&apos;s Voice](https://www.goodreads.com/review/show/4883105042?utm_medium=api&utm_source=rss) by Stanisław Lem (⭐⭐⭐⭐⭐)
 - [The Man from the Future: The Visionary Life of John von Neumann](https://www.goodreads.com/review/show/4788644691?utm_medium=api&utm_source=rss) by Ananyo Bhattacharya (⭐⭐⭐⭐)
 - [War and Peace and IT: Business Leadership, Technology, and Success in the Digital Age](https://www.goodreads.com/review/show/4747076666?utm_medium=api&utm_source=rss) by Mark  Schwartz (⭐⭐⭐⭐)
@@ -70,7 +71,6 @@
 - [Reaching Cloud Velocity: A Leader's Guide to Success in the AWS Cloud](https://www.goodreads.com/review/show/4643974130?utm_medium=api&utm_source=rss) by Jonathan    Allen (⭐⭐⭐⭐)
 - [Working Backwards: Insights, Stories, and Secrets from Inside Amazon](https://www.goodreads.com/review/show/4629490117?utm_medium=api&utm_source=rss) by Colin Bryar (⭐⭐⭐⭐⭐)
 - [Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation](https://www.goodreads.com/review/show/3747959698?utm_medium=api&utm_source=rss) by Jez Humble (⭐⭐⭐⭐⭐)
-- [Work Together Anywhere: A Handbook on Working Remotely—Successfully—for Individuals, Teams, and Managers](https://www.goodreads.com/review/show/4553025403?utm_medium=api&utm_source=rss) by Lisette Sutherland (⭐⭐⭐⭐)
 <!-- READ_LIST:END -->
 
 ### Lendo atualmente... 📚
