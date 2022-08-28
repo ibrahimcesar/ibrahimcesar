@@ -77,7 +77,7 @@
 
 <!-- READING_LIST:START -->
 - [Kubernetes: Up and Running](https://www.goodreads.com/review/show/4944972990?utm_medium=api&utm_source=rss) by Brendan Burns (⭐️ )
-- [Gravitas: Communicate with Confidence, Influence and Authority](https://www.goodreads.com/review/show/4940439600?utm_medium=api&utm_source=rss) by Caroline Goyder (⭐️ 3.76)
+- [Gravitas: Communicate with Confidence, Influence and Authority](https://www.goodreads.com/review/show/4940439600?utm_medium=api&utm_source=rss) by Caroline Goyder (⭐️ 3.75)
 - [DevSecOps: A leader’s guide to producing secure software without compromising flow, feedback and continuous improvement](https://www.goodreads.com/review/show/4846065635?utm_medium=api&utm_source=rss) by Glenn Wilson (⭐️ 3.63)
 - [A Mind at Play: How Claude Shannon Invented the Information Age](https://www.goodreads.com/review/show/4726299400?utm_medium=api&utm_source=rss) by Jimmy Soni (⭐️ 4.14)
 - [Technology Strategy Patterns: Architecture as Strategy](https://www.goodreads.com/review/show/4703086703?utm_medium=api&utm_source=rss) by Eben Hewitt (⭐️ 4.07)
