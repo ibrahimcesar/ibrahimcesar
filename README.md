@@ -61,6 +61,7 @@
 ### Últimos livros lidos 📚
 
 <!-- READ_LIST:START -->
+- [AWS Certified Security Study Guide: Specialty (SCS-C01) Exam](https://www.goodreads.com/review/show/4964357343?utm_medium=api&utm_source=rss) by Marcello Zillo Neto (⭐⭐⭐⭐)
 - [DevSecOps: A leader’s guide to producing secure software without compromising flow, feedback and continuous improvement](https://www.goodreads.com/review/show/4846065635?utm_medium=api&utm_source=rss) by Glenn Wilson (⭐⭐⭐)
 - [Lost in Math: How Beauty Leads Physics Astray](https://www.goodreads.com/review/show/4926934818?utm_medium=api&utm_source=rss) by Sabine Hossenfelder (⭐⭐⭐⭐)
 - [His Master&apos;s Voice](https://www.goodreads.com/review/show/4883105042?utm_medium=api&utm_source=rss) by Stanisław Lem (⭐⭐⭐⭐⭐)
@@ -70,7 +71,6 @@
 - [Cloud Strategy](https://www.goodreads.com/review/show/4726289226?utm_medium=api&utm_source=rss) by Gregor Hohpe (⭐⭐⭐⭐⭐)
 - [The Software Architect Elevator: Transforming Enterprises with Technology and Business Architecture](https://www.goodreads.com/review/show/4674097065?utm_medium=api&utm_source=rss) by Gregor Hohpe (⭐⭐⭐⭐⭐)
 - [Reaching Cloud Velocity: A Leader's Guide to Success in the AWS Cloud](https://www.goodreads.com/review/show/4643974130?utm_medium=api&utm_source=rss) by Jonathan    Allen (⭐⭐⭐⭐)
-- [Working Backwards: Insights, Stories, and Secrets from Inside Amazon](https://www.goodreads.com/review/show/4629490117?utm_medium=api&utm_source=rss) by Colin Bryar (⭐⭐⭐⭐⭐)
 <!-- READ_LIST:END -->
 
 ### Lendo atualmente... 📚
