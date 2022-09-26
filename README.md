@@ -110,8 +110,7 @@
 
 <div align="center">
 
-![Snake animation](https://github.com/ibrahimcesar/ibrahimcesar/blob/output/github-contribution-grid-snake.svg)
+[![Latest read](https://github.com/ibrahimcesar/ibrahimcesar/actions/workflows/goodreads-read.yml/badge.svg)](https://github.com/ibrahimcesar/ibrahimcesar/actions/workflows/goodreads-read.yml) [![Currently reading](https://github.com/ibrahimcesar/ibrahimcesar/actions/workflows/goodreads-currently.yml/badge.svg)](https://github.com/ibrahimcesar/ibrahimcesar/actions/workflows/goodreads-currently.yml) [![Latest Blogs Posts](https://github.com/ibrahimcesar/ibrahimcesar/actions/workflows/fetchPosts.yml/badge.svg)](https://github.com/ibrahimcesar/ibrahimcesar/actions/workflows/fetchPosts.yml)
 
-![](https://github-readme-stats.vercel.app/api?username=ibrahimcesar&show_icons=true&theme=default)
-    
  </div>
+
