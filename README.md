@@ -46,6 +46,8 @@
 ### Minhas últimas postagens no blog
 
 <!-- POSTS_LIST:START -->
+- [📘 #devbooks:  The Software Architect Elevator, by Gregor Hohpe](https://ibrahimcesar.cloud/blog/the-software-elevator-redefining-the-architect-role-in-the-digital-enterprise-gregor-hohpe/)
+- [Kafka on the Serverless Shore: Building event-driven applications with Kafka](https://ibrahimcesar.cloud/blog/kafka-on-the-serverless-shore/)
 - [Estou escrevendo um livro! Sobre AWS!](https://ibrahimcesar.cloud/blog/livro-aws/)
 - [Certificações AWS — Por quê e de que forma](https://ibrahimcesar.cloud/blog/certificacoes/)
 - [Top 5 technology books I read in 2021](https://ibrahimcesar.cloud/blog/top5-technology-books-2021/)
@@ -53,9 +55,7 @@
 - [Introdução ao Next.js](https://ibrahimcesar.cloud/blog/introducao-nextjs-ssr-isr-ssg-javascript-react-framework/)
 - [Brasil, uma Profecia e O Monstro de Mariana](https://ibrahimcesar.cloud/blog/brasil-uma-profecia-o-monstro-de-mariana-ficcao-ibrahim-cesar/)
 - [Is Software Engineering Still an Oxymoron?, Alan Kay](https://ibrahimcesar.cloud/blog/is-software-engineering-still-an-oxymoron-alan-kay/)
-- [Mergulho em AWS Cloud Development Kit &lpar;CDK&rpar;](https://ibrahimcesar.cloud/blog/mergulho-cdk/)
-- [⛅ #jornadaaws: CDK Bootstrapping](https://ibrahimcesar.cloud/blog/cdk-bootstrapping/)
-- [⛅ #jornadaaws:  Iniciando nossa jornada na AWS](https://ibrahimcesar.cloud/blog/jornada-aws-iniciando-na-nuvem-aws/)
+- [Mergulho em AWS Cloud Development Kit &lpar;CDK&rpar;](https://ibrahimcesar.cloud/blog/mergulho-cdk-2021/)
 <!-- POSTS_LIST:END -->
 
 ### Últimos livros lidos 📚
