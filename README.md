@@ -76,7 +76,7 @@
 
 <!-- READING_LIST:START -->
 - [Kubernetes: Up and Running](https://www.goodreads.com/review/show/4944972990?utm_medium=api&utm_source=rss) by Brendan Burns (⭐️ 4.33)
-- [Gravitas: Communicate with Confidence, Influence and Authority](https://www.goodreads.com/review/show/4940439600?utm_medium=api&utm_source=rss) by Caroline Goyder (⭐️ 3.74)
+- [Gravitas: Communicate with Confidence, Influence and Authority](https://www.goodreads.com/review/show/4940439600?utm_medium=api&utm_source=rss) by Caroline Goyder (⭐️ 3.73)
 - [A Mind at Play: How Claude Shannon Invented the Information Age](https://www.goodreads.com/review/show/4726299400?utm_medium=api&utm_source=rss) by Jimmy Soni (⭐️ 4.14)
 - [Technology Strategy Patterns: Architecture as Strategy](https://www.goodreads.com/review/show/4703086703?utm_medium=api&utm_source=rss) by Eben Hewitt (⭐️ 4.07)
 - [Arquipélago Gulag, um experimento de investigação artística 1918-1956](https://www.goodreads.com/review/show/4564170882?utm_medium=api&utm_source=rss) by Aleksandr Solzhenitsyn (⭐️ 4.77)
