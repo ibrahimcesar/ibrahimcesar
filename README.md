@@ -5,8 +5,151 @@
 </div>
 
 <p align="center">
-<a href="https://www.credly.com/badges/d01a5f09-39af-4848-91e4-fd93c379429b/public_url" target="_blank" title="Badge AWS Certified Solutions Architect – Professional" alt="AWS Certified Solutions Architect – Professional"><img src="https://user-images.githubusercontent.com/509054/163974327-950cf4d2-2f66-4a3c-b0de-2d043e97da98.png" alt="AWS Certified Solutions Architect – Professional" width="100px"  style="max-width:100px;"></a>&nbsp; &nbsp;<a href="https://www.credly.com/badges/f4fedbbf-cbec-4d39-a720-c7ca55d39032/public_url" target="_blank" title="Badge AWS Certified Security – Specialty" alt="AWS Certified Security – Specialty"><img src="https://user-images.githubusercontent.com/509054/195915470-c99aa7c9-9e5e-48e4-8e48-f7a76be042ae.png" alt="AWS Certified Security – Specialty" width="100px"  style="max-width:100px;"></a>&nbsp; &nbsp;<a href="https://www.credly.com/badges/1bdb457f-b469-43c3-9e0e-24b221f12794/public_url" target="_blank" title="Badge AWS Certified Solutions Architect – Associate" alt="AWS Certified Solutions Architect – Associate"><img src="https://user-images.githubusercontent.com/509054/163974636-84a0a90b-0290-443e-8682-309af7e8b17a.png" alt="AWS Certified Solutions Architect – Associate" width="100px"  style="max-width:100px;"></a>&nbsp;&nbsp;<a href="https://www.credly.com/badges/1bdb457f-b469-43c3-9e0e-24b221f12794/public_url" target="_blank" title="Badge AWS Certified Solutions Architect – Associate" alt="AWS Certified Developer – Associate"><img src="https://user-images.githubusercontent.com/509054/187105674-b59dadfa-f5a9-44ff-a4ca-82cb33418617.png" alt="AWS Certified Developer – Associate" width="100px"  style="max-width:100px;"></a>&nbsp; &nbsp;<a href="https://www.credly.com/badges/d1ddf3d6-95af-4246-9bb9-7e50e0530c11/public_url" target="_blank" title="Badge AWS Certified Cloud Practitioner" alt="AWS Certified Cloud Practitioner"><img src="https://user-images.githubusercontent.com/509054/163974726-600afdfa-d161-4013-824d-20e168dc5efc.png" alt="AWS Certified Solutions Architect – Associate" width="100px"  style="max-width:100px;"></a>&nbsp; &nbsp;<a href="https://brasilopenbadge.com.br/pages/badge/418bf1ce1437adeeb5d0352fcd92b1d2" target="_blank" alt="FGV - Lei Geral de Proteção de Dados: Teoria e Prática" title="FGV - Lei Geral de Proteção de Dados: Teoria e Prática"><img src="https://user-images.githubusercontent.com/509054/160395543-08341577-49cf-4b87-a687-1a42b3b42230.png" alt="FGV - Lei Geral de Proteção de Dados: Teoria e Prática" width="100px"  style="max-width:100px;"></a>&nbsp; &nbsp;<a href="https://www.credly.com/badges/8cd60a1b-b130-43b1-8cf4-442573171da6/public_url" target="_blank" title="Well-Architected Proficient" alt="Well-Architected Proficient"><img src="https://user-images.githubusercontent.com/509054/185424004-6d65981d-ce54-4d7f-8129-f2d452a20e8e.png" alt="Well-Architected Proficient" width="100px"  style="max-width:100px;"/></a>&nbsp; &nbsp;<a href="https://www.credly.com/badges/0749796b-4755-4339-a137-a47ce24ea124/public_url" target="_blank" title="AWS Learning: Object Storage"><img src="https://user-images.githubusercontent.com/509054/185424361-c4486196-fdb2-447d-b512-650821451eee.png" alt="AWS Learning: Object Storage" width="100px"  style="max-width:100px;"/></a>
- &nbsp; &nbsp;<a href="https://www.credly.com/badges/318f48d9-a9f8-49bf-a6b9-e9a6f2615ec8" target="_blank" title="AWS Learning: Block Storage"><img src="https://user-images.githubusercontent.com/509054/185424687-8ef984e6-8446-42a6-be66-00f7ed77fe3a.png" alt="AWS Learning: Block Storage" width="100px"  style="max-width:100px;"/></a> &nbsp; &nbsp;<a href="https://www.credly.com/badges/fea13229-534c-4822-b2be-c593646cc3d4" target="_blank" title="AWS Learning: File Storage"><img src="https://user-images.githubusercontent.com/509054/185421746-b9eb2b2b-04a6-4e01-a821-bf95f4bac108.png" alt="AWS Learning: File Storage" width="100px"  style="max-width:100px;"/></a>&nbsp; &nbsp;<a href="https://www.credly.com/badges/36bfeb46-c3b4-47d1-b290-8a12fe9af94f" target="_blank" title="AWS Learning: Storage Core"><img src="https://user-images.githubusercontent.com/509054/185421899-34a5b42d-92ee-4f1c-9414-3f555a5d9bae.png" alt="AWS Learning: Storage Core" width="100px"  style="max-width:100px;"/></a>&nbsp; &nbsp;<a href="https://www.credly.com/badges/bc710c2b-3e2e-4653-9daa-24f83afd20f3" target="_blank" title="AWS Learning: Data Migration"><img src="https://user-images.githubusercontent.com/509054/185422706-5e67adcb-ebef-4cab-b81f-b3410a528589.png" alt="AWS Learning: Data Migration" width="100px"  style="max-width:100px;"/></a>&nbsp; &nbsp;<a href="https://www.credly.com/badges/a460283e-2640-4076-af60-9aa2969b4b33" target="_blank" title="AWS Learning: Data Protection & Disaster Recovery"><img src="https://user-images.githubusercontent.com/509054/185423144-958582b7-529e-41dd-bfe2-1109daa0b48e.png" alt="AWS Learning: Data Protection & Disaster Recovery" width="100px"  style="max-width:100px;"/></a>&nbsp; &nbsp;<a href="https://www.credly.com/badges/41622b3b-defc-4ee0-89a1-ce09ec30c8a5" target="_blank" title="AWS Learning: Storage Technologist"><img src="https://user-images.githubusercontent.com/509054/185421996-4bcd2342-e28f-410d-be0e-d363c7e12c56.png" alt="AWS Learning: Storage Technologist" width="100px"  style="max-width:100px;"/></a>&nbsp; &nbsp;</p>
+
+<a 
+   href="https://www.credly.com/badges/d01a5f09-39af-4848-91e4-fd93c379429b/public_url"
+   target="_blank" 
+   title="Badge AWS Certified Solutions Architect – Professional" 
+   alt="AWS Certified Solutions Architect – Professional">
+   <img 
+      src="https://user-images.githubusercontent.com/509054/163974327-950cf4d2-2f66-4a3c-b0de-2d043e97da98.png"
+      alt="AWS Certified Solutions Architect – Professional"
+      width="100px" 
+      style="max-width:100px;"
+      />
+</a>&nbsp; &nbsp;<a 
+   href="https://www.credly.com/badges/f4fedbbf-cbec-4d39-a720-c7ca55d39032/public_url"
+   target="_blank" 
+   title="Badge AWS Certified Security – Specialty"
+   alt="AWS Certified Security – Specialty">
+   <img 
+      src="https://user-images.githubusercontent.com/509054/195915470-c99aa7c9-9e5e-48e4-8e48-f7a76be042ae.png"
+      alt="AWS Certified Security – Specialty"
+      width="100px"  
+      style="max-width:100px;" />
+</a>&nbsp; &nbsp;<a href="https://www.credly.com/badges/1bdb457f-b469-43c3-9e0e-24b221f12794/public_url" 
+   target="_blank" 
+   title="Badge AWS Certified Solutions Architect – Associate"
+   alt="AWS Certified Solutions Architect – Associate">
+   <img 
+      src="https://user-images.githubusercontent.com/509054/163974636-84a0a90b-0290-443e-8682-309af7e8b17a.png"
+      alt="AWS Certified Solutions Architect – Associate" 
+      width="100px" 
+      style="max-width:100px;"/>
+</a>&nbsp;&nbsp;<a 
+   href="https://www.credly.com/badges/1bdb457f-b469-43c3-9e0e-24b221f12794/public_url" 
+   target="_blank"
+   title="Badge AWS Certified Developer – Associate"
+   alt="AWS Certified Developer – Associate">
+   <img 
+      src="https://user-images.githubusercontent.com/509054/187105674-b59dadfa-f5a9-44ff-a4ca-82cb33418617.png"
+      alt="AWS Certified Developer – Associate"
+      width="100px" 
+      style="max-width:100px;"/>
+</a>&nbsp; &nbsp;<a 
+   href="https://www.credly.com/badges/8213d606-c4d2-4df9-baa1-3ce313ee4f86/public_url" 
+   target="_blank"
+   title="Badge AWS Certified SysOps Administrator – Associate"
+   alt="AWS Certified SysOps Administrator – Associate">
+   <img 
+      src="https://user-images.githubusercontent.com/509054/198755270-0a46136f-6edd-4673-8db6-369d99b65455.png"
+      alt="AWS Certified SysOps Administrator – Associate"
+      width="100px" 
+      style="max-width:100px;">
+</a>&nbsp; &nbsp;<a 
+   href="https://www.credly.com/badges/d1ddf3d6-95af-4246-9bb9-7e50e0530c11/public_url"
+   target="_blank" 
+   title="Badge AWS Certified Cloud Practitioner"
+   alt="AWS Certified Cloud Practitioner">
+   <img
+      src="https://user-images.githubusercontent.com/509054/163974726-600afdfa-d161-4013-824d-20e168dc5efc.png"
+      alt="AWS Certified Solutions Architect – Associate"
+      width="100px"
+      style="max-width:100px;"/>
+</a>&nbsp; &nbsp;<a 
+   href="https://brasilopenbadge.com.br/pages/badge/418bf1ce1437adeeb5d0352fcd92b1d2"
+   target="_blank"
+   alt="FGV - Lei Geral de Proteção de Dados: Teoria e Prática"
+   title="FGV - Lei Geral de Proteção de Dados: Teoria e Prática">
+   <img 
+      src="https://user-images.githubusercontent.com/509054/160395543-08341577-49cf-4b87-a687-1a42b3b42230.png"
+      alt="FGV - Lei Geral de Proteção de Dados: Teoria e Prática" 
+      width="100px" 
+      style="max-width:100px;"/>
+</a>&nbsp; &nbsp;<a 
+   href="https://www.credly.com/badges/8cd60a1b-b130-43b1-8cf4-442573171da6/public_url"
+   target="_blank"
+   title="Well-Architected Proficient"
+   alt="Well-Architected Proficient">
+   <img 
+      src="https://user-images.githubusercontent.com/509054/185424004-6d65981d-ce54-4d7f-8129-f2d452a20e8e.png"
+      alt="Well-Architected Proficient"
+      width="100px" 
+      style="max-width:100px;"/>
+</a>&nbsp; &nbsp;<a 
+   href="https://www.credly.com/badges/0749796b-4755-4339-a137-a47ce24ea124/public_url"
+   target="_blank"
+   title="AWS Learning: Object Storage">
+   <img 
+      src="https://user-images.githubusercontent.com/509054/185424361-c4486196-fdb2-447d-b512-650821451eee.png"
+      alt="AWS Learning: Object Storage"
+      width="100px"
+      style="max-width:100px;"/>
+</a>&nbsp; &nbsp;<a 
+   href="https://www.credly.com/badges/318f48d9-a9f8-49bf-a6b9-e9a6f2615ec8"
+   target="_blank" 
+   title="AWS Learning: Block Storage">
+   <img 
+      src="https://user-images.githubusercontent.com/509054/185424687-8ef984e6-8446-42a6-be66-00f7ed77fe3a.png"
+      alt="AWS Learning: Block Storage"
+      width="100px" 
+      style="max-width:100px;"/>
+</a> &nbsp; &nbsp;<a 
+   href="https://www.credly.com/badges/fea13229-534c-4822-b2be-c593646cc3d4"
+   target="_blank"
+   title="AWS Learning: File Storage">
+   <img
+      src="https://user-images.githubusercontent.com/509054/185421746-b9eb2b2b-04a6-4e01-a821-bf95f4bac108.png"
+      alt="AWS Learning: File Storage"
+      width="100px"
+      style="max-width:100px;"/>
+</a>&nbsp; &nbsp;<a 
+   href="https://www.credly.com/badges/36bfeb46-c3b4-47d1-b290-8a12fe9af94f"
+   target="_blank"
+   title="AWS Learning: Storage Core">
+   <img
+      src="https://user-images.githubusercontent.com/509054/185421899-34a5b42d-92ee-4f1c-9414-3f555a5d9bae.png"
+      alt="AWS Learning: Storage Core"
+      width="100px"
+      style="max-width:100px;"/>
+</a>&nbsp; &nbsp;<a 
+   href="https://www.credly.com/badges/bc710c2b-3e2e-4653-9daa-24f83afd20f3"
+   target="_blank"
+   title="AWS Learning: Data Migration">
+   <img
+      src="https://user-images.githubusercontent.com/509054/185422706-5e67adcb-ebef-4cab-b81f-b3410a528589.png"
+      alt="AWS Learning: Data Migration"
+      width="100px" 
+      style="max-width:100px;"/>
+</a>&nbsp; &nbsp;<a 
+   href="https://www.credly.com/badges/a460283e-2640-4076-af60-9aa2969b4b33"
+   target="_blank"
+   title="AWS Learning: Data Protection & Disaster Recovery">
+   <img
+      src="https://user-images.githubusercontent.com/509054/185423144-958582b7-529e-41dd-bfe2-1109daa0b48e.png"
+      alt="AWS Learning: Data Protection & Disaster Recovery"
+      width="100px" 
+      style="max-width:100px;"/>
+</a>&nbsp; &nbsp;<a
+   href="https://www.credly.com/badges/41622b3b-defc-4ee0-89a1-ce09ec30c8a5"
+   target="_blank"
+   title="AWS Learning: Storage Technologist">
+   <img
+      src="https://user-images.githubusercontent.com/509054/185421996-4bcd2342-e28f-410d-be0e-d363c7e12c56.png"
+      alt="AWS Learning: Storage Technologist"
+      width="100px" 
+      style="max-width:100px;"/>
+</a>&nbsp; &nbsp;</p>
     
 <div align="center">
 
@@ -112,4 +255,3 @@
 [![Latest read](https://github.com/ibrahimcesar/ibrahimcesar/actions/workflows/goodreads-read.yml/badge.svg)](https://github.com/ibrahimcesar/ibrahimcesar/actions/workflows/goodreads-read.yml) [![Currently reading](https://github.com/ibrahimcesar/ibrahimcesar/actions/workflows/goodreads-currently.yml/badge.svg)](https://github.com/ibrahimcesar/ibrahimcesar/actions/workflows/goodreads-currently.yml) [![Latest Blogs Posts](https://github.com/ibrahimcesar/ibrahimcesar/actions/workflows/fetchPosts.yml/badge.svg)](https://github.com/ibrahimcesar/ibrahimcesar/actions/workflows/fetchPosts.yml)
 
  </div>
-
