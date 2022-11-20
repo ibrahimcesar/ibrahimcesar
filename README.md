@@ -221,7 +221,7 @@
 - [Kubernetes: Up and Running](https://www.goodreads.com/review/show/4944972990?utm_medium=api&utm_source=rss) by Brendan Burns (⭐️ 4.5)
 - [Gravitas: Communicate with Confidence, Influence and Authority](https://www.goodreads.com/review/show/4940439600?utm_medium=api&utm_source=rss) by Caroline Goyder (⭐️ 3.74)
 - [A Mind at Play: How Claude Shannon Invented the Information Age](https://www.goodreads.com/review/show/4726299400?utm_medium=api&utm_source=rss) by Jimmy Soni (⭐️ 4.14)
-- [Technology Strategy Patterns: Architecture as Strategy](https://www.goodreads.com/review/show/4703086703?utm_medium=api&utm_source=rss) by Eben Hewitt (⭐️ 4.06)
+- [Technology Strategy Patterns: Architecture as Strategy](https://www.goodreads.com/review/show/4703086703?utm_medium=api&utm_source=rss) by Eben Hewitt (⭐️ 4.05)
 - [Arquipélago Gulag, um experimento de investigação artística 1918-1956](https://www.goodreads.com/review/show/4564170882?utm_medium=api&utm_source=rss) by Aleksandr Solzhenitsyn (⭐️ 4.77)
 - [As Visionárias](https://www.goodreads.com/review/show/4604667355?utm_medium=api&utm_source=rss) by Wolfram Eilenberger (⭐️ 3.5)
 - [Serverless Architectures on AWS](https://www.goodreads.com/review/show/4476762572?utm_medium=api&utm_source=rss) by Peter Sbarski (⭐️ 3.95)
