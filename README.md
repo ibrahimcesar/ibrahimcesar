@@ -86,6 +86,15 @@
       alt="Well-Architected Proficient"
       width="100px" 
       style="max-width:100px;"/>
+</a>&nbsp; &nbsp; <a 
+   href="https://www.credly.com/badges/1eb5e7a1-8b22-422a-83db-1a535dfe8b43/public_url"
+   target="_blank"
+   title="AWS Learning: Serverless">
+   <img 
+      src="https://user-images.githubusercontent.com/509054/205751290-899faacb-da63-45ec-ab31-e986db511f37.png"
+      alt="AWS Learning: Serverless"
+      width="100px"
+      style="max-width:100px;"/>
 </a>&nbsp; &nbsp;<a 
    href="https://www.credly.com/badges/0749796b-4755-4339-a137-a47ce24ea124/public_url"
    target="_blank"
