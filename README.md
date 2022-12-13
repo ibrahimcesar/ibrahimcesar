@@ -212,6 +212,7 @@
 ### Últimos livros lidos 📚
 
 <!-- READ_LIST:START -->
+- [The Dawn of Everything: A New History of Humanity](https://www.goodreads.com/review/show/4334086502?utm_medium=api&utm_source=rss) by David Graeber (⭐⭐⭐⭐⭐)
 - [AWS Security](https://www.goodreads.com/review/show/5051911555?utm_medium=api&utm_source=rss) by Dylan Shields (⭐⭐⭐⭐)
 - [AWS Certified Security Specialty All-in-One Exam Guide (Exam SCS-C01)](https://www.goodreads.com/review/show/4993392360?utm_medium=api&utm_source=rss) by Gouthum Karadi (⭐⭐⭐⭐)
 - [AWS Certified Security Study Guide: Specialty (SCS-C01) Exam](https://www.goodreads.com/review/show/4964357343?utm_medium=api&utm_source=rss) by Marcello Zillo Neto (⭐⭐⭐⭐)
@@ -221,7 +222,6 @@
 - [The Man from the Future: The Visionary Life of John von Neumann](https://www.goodreads.com/review/show/4788644691?utm_medium=api&utm_source=rss) by Ananyo Bhattacharya (⭐⭐⭐⭐)
 - [War and Peace and IT: Business Leadership, Technology, and Success in the Digital Age](https://www.goodreads.com/review/show/4747076666?utm_medium=api&utm_source=rss) by Mark  Schwartz (⭐⭐⭐⭐)
 - [The Amazon Way: Amazon's 14 Leadership Principles](https://www.goodreads.com/review/show/4647798523?utm_medium=api&utm_source=rss) by John Rossman (⭐⭐⭐⭐)
-- [Cloud Strategy](https://www.goodreads.com/review/show/4726289226?utm_medium=api&utm_source=rss) by Gregor Hohpe (⭐⭐⭐⭐⭐)
 <!-- READ_LIST:END -->
 
 ### Lendo atualmente... 📚
