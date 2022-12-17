@@ -212,6 +212,7 @@
 ### Últimos livros lidos 📚
 
 <!-- READ_LIST:START -->
+- [Kubernetes: Up and Running](https://www.goodreads.com/review/show/4944972990?utm_medium=api&utm_source=rss) by Brendan Burns (unrated)
 - [The Dawn of Everything: A New History of Humanity](https://www.goodreads.com/review/show/4334086502?utm_medium=api&utm_source=rss) by David Graeber (⭐⭐⭐⭐⭐)
 - [AWS Security](https://www.goodreads.com/review/show/5051911555?utm_medium=api&utm_source=rss) by Dylan Shields (⭐⭐⭐⭐)
 - [AWS Certified Security Specialty All-in-One Exam Guide (Exam SCS-C01)](https://www.goodreads.com/review/show/4993392360?utm_medium=api&utm_source=rss) by Gouthum Karadi (⭐⭐⭐⭐)
@@ -221,7 +222,6 @@
 - [His Master&apos;s Voice](https://www.goodreads.com/review/show/4883105042?utm_medium=api&utm_source=rss) by Stanisław Lem (⭐⭐⭐⭐⭐)
 - [The Man from the Future: The Visionary Life of John von Neumann](https://www.goodreads.com/review/show/4788644691?utm_medium=api&utm_source=rss) by Ananyo Bhattacharya (⭐⭐⭐⭐)
 - [War and Peace and IT: Business Leadership, Technology, and Success in the Digital Age](https://www.goodreads.com/review/show/4747076666?utm_medium=api&utm_source=rss) by Mark  Schwartz (⭐⭐⭐⭐)
-- [The Amazon Way: Amazon's 14 Leadership Principles](https://www.goodreads.com/review/show/4647798523?utm_medium=api&utm_source=rss) by John Rossman (⭐⭐⭐⭐)
 <!-- READ_LIST:END -->
 
 ### Lendo atualmente... 📚
