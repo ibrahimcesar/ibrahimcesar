@@ -212,6 +212,7 @@
 ### Últimos livros lidos 📚
 
 <!-- READ_LIST:START -->
+- [Building Evolutionary Architectures](https://www.goodreads.com/review/show/5177218423?utm_medium=api&utm_source=rss) by Neal Ford (⭐⭐⭐⭐)
 - [Kubernetes: Up and Running](https://www.goodreads.com/review/show/4944972990?utm_medium=api&utm_source=rss) by Brendan Burns (unrated)
 - [The Dawn of Everything: A New History of Humanity](https://www.goodreads.com/review/show/4334086502?utm_medium=api&utm_source=rss) by David Graeber (⭐⭐⭐⭐⭐)
 - [AWS Security](https://www.goodreads.com/review/show/5051911555?utm_medium=api&utm_source=rss) by Dylan Shields (⭐⭐⭐⭐)
@@ -221,7 +222,6 @@
 - [Lost in Math: How Beauty Leads Physics Astray](https://www.goodreads.com/review/show/4926934818?utm_medium=api&utm_source=rss) by Sabine Hossenfelder (⭐⭐⭐⭐)
 - [His Master&apos;s Voice](https://www.goodreads.com/review/show/4883105042?utm_medium=api&utm_source=rss) by Stanisław Lem (⭐⭐⭐⭐⭐)
 - [The Man from the Future: The Visionary Life of John von Neumann](https://www.goodreads.com/review/show/4788644691?utm_medium=api&utm_source=rss) by Ananyo Bhattacharya (⭐⭐⭐⭐)
-- [War and Peace and IT: Business Leadership, Technology, and Success in the Digital Age](https://www.goodreads.com/review/show/4747076666?utm_medium=api&utm_source=rss) by Mark  Schwartz (⭐⭐⭐⭐)
 <!-- READ_LIST:END -->
 
 ### Lendo atualmente... 📚
