@@ -212,6 +212,7 @@
 ### Últimos livros lidos 📚
 
 <!-- READ_LIST:START -->
+- [Database Internals: A deep-dive into how distributed data systems work](https://www.goodreads.com/review/show/5179194002?utm_medium=api&utm_source=rss) by Alex Petrov (⭐⭐⭐⭐⭐)
 - [Building Evolutionary Architectures](https://www.goodreads.com/review/show/5177218423?utm_medium=api&utm_source=rss) by Neal Ford (⭐⭐⭐⭐)
 - [Kubernetes: Up and Running](https://www.goodreads.com/review/show/4944972990?utm_medium=api&utm_source=rss) by Brendan Burns (unrated)
 - [The Dawn of Everything: A New History of Humanity](https://www.goodreads.com/review/show/4334086502?utm_medium=api&utm_source=rss) by David Graeber (⭐⭐⭐⭐⭐)
@@ -221,7 +222,6 @@
 - [DevSecOps: A leader’s guide to producing secure software without compromising flow, feedback and continuous improvement](https://www.goodreads.com/review/show/4846065635?utm_medium=api&utm_source=rss) by Glenn Wilson (⭐⭐⭐)
 - [Lost in Math: How Beauty Leads Physics Astray](https://www.goodreads.com/review/show/4926934818?utm_medium=api&utm_source=rss) by Sabine Hossenfelder (⭐⭐⭐⭐)
 - [His Master&apos;s Voice](https://www.goodreads.com/review/show/4883105042?utm_medium=api&utm_source=rss) by Stanisław Lem (⭐⭐⭐⭐⭐)
-- [The Man from the Future: The Visionary Life of John von Neumann](https://www.goodreads.com/review/show/4788644691?utm_medium=api&utm_source=rss) by Ananyo Bhattacharya (⭐⭐⭐⭐)
 <!-- READ_LIST:END -->
 
 ### Lendo atualmente... 📚
