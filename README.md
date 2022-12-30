@@ -212,8 +212,8 @@
 ### Últimos livros lidos 📚
 
 <!-- READ_LIST:START -->
-- [Database Internals: A deep-dive into how distributed data systems work](https://www.goodreads.com/review/show/5179194002?utm_medium=api&utm_source=rss) by Alex Petrov (⭐⭐⭐⭐⭐)
 - [Building Evolutionary Architectures](https://www.goodreads.com/review/show/5177218423?utm_medium=api&utm_source=rss) by Neal Ford (⭐⭐⭐⭐)
+- [Database Internals: A deep-dive into how distributed data systems work](https://www.goodreads.com/review/show/5179194002?utm_medium=api&utm_source=rss) by Alex Petrov (⭐⭐⭐⭐⭐)
 - [Kubernetes: Up and Running](https://www.goodreads.com/review/show/4944972990?utm_medium=api&utm_source=rss) by Brendan Burns (unrated)
 - [The Dawn of Everything: A New History of Humanity](https://www.goodreads.com/review/show/4334086502?utm_medium=api&utm_source=rss) by David Graeber (⭐⭐⭐⭐⭐)
 - [AWS Security](https://www.goodreads.com/review/show/5051911555?utm_medium=api&utm_source=rss) by Dylan Shields (⭐⭐⭐⭐)
