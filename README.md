@@ -227,7 +227,7 @@
 ### Lendo atualmente... 📚
 
 <!-- READING_LIST:START -->
-- [The Staff Engineer's Path: A Guide For Individual Contributors Navigating Growth and Change](https://www.goodreads.com/review/show/5227039779?utm_medium=api&utm_source=rss) by Tanya Reilly (⭐️ 4.43)
+- [The Staff Engineer's Path: A Guide For Individual Contributors Navigating Growth and Change](https://www.goodreads.com/review/show/5227039779?utm_medium=api&utm_source=rss) by Tanya Reilly (⭐️ 4.44)
 - [Foundations of Scalable Systems](https://www.goodreads.com/review/show/5205299937?utm_medium=api&utm_source=rss) by Ian Gorton (⭐️ 4.33)
 - [The Value Flywheel Effect: Power the Future and Accelerate Your Organization to the Modern Cloud](https://www.goodreads.com/review/show/5186015203?utm_medium=api&utm_source=rss) by David Anderson (⭐️ 3.75)
 - [Arquipélago Gulag, um experimento de investigação artística 1918-1956](https://www.goodreads.com/review/show/4564170882?utm_medium=api&utm_source=rss) by Aleksandr Solzhenitsyn (⭐️ 4.78)
