@@ -212,6 +212,7 @@
 ### Últimos livros lidos 📚
 
 <!-- READ_LIST:START -->
+- [Foundations of Scalable Systems](https://www.goodreads.com/review/show/5205299937?utm_medium=api&utm_source=rss) by Ian Gorton (⭐⭐⭐⭐⭐)
 - [The Year in Tech, 2023: The Insights You Need from Harvard Business Review (HBR Insights Series)](https://www.goodreads.com/review/show/5226901198?utm_medium=api&utm_source=rss) by Harvard Business Review (⭐)
 - [Building Evolutionary Architectures](https://www.goodreads.com/review/show/5177218423?utm_medium=api&utm_source=rss) by Neal Ford (⭐⭐⭐⭐)
 - [Database Internals: A deep-dive into how distributed data systems work](https://www.goodreads.com/review/show/5179194002?utm_medium=api&utm_source=rss) by Alex Petrov (⭐⭐⭐⭐⭐)
@@ -221,7 +222,6 @@
 - [AWS Certified Security Specialty All-in-One Exam Guide (Exam SCS-C01)](https://www.goodreads.com/review/show/4993392360?utm_medium=api&utm_source=rss) by Gouthum Karadi (⭐⭐⭐⭐)
 - [AWS Certified Security Study Guide: Specialty (SCS-C01) Exam](https://www.goodreads.com/review/show/4964357343?utm_medium=api&utm_source=rss) by Marcello Zillo Neto (⭐⭐⭐⭐)
 - [DevSecOps: A leader’s guide to producing secure software without compromising flow, feedback and continuous improvement](https://www.goodreads.com/review/show/4846065635?utm_medium=api&utm_source=rss) by Glenn Wilson (⭐⭐⭐)
-- [Lost in Math: How Beauty Leads Physics Astray](https://www.goodreads.com/review/show/4926934818?utm_medium=api&utm_source=rss) by Sabine Hossenfelder (⭐⭐⭐⭐)
 <!-- READ_LIST:END -->
 
 ### Lendo atualmente... 📚
