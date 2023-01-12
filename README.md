@@ -3,6 +3,9 @@
  # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="42"> olá • hello • hola • ciao • こんにちは • 你好 • добрий день
 
 </div>
+![aws-partner-sap-on-aws-technical]()
+
+
 
 <p align="center">
 
@@ -100,7 +103,7 @@
    target="_blank"
    title="AWS Learning: Object Storage">
    <img 
-      src="https://user-images.githubusercontent.com/509054/185424361-c4486196-fdb2-447d-b512-650821451eee.png"
+      src="https://user-images.githubusercontent.com/509054/212095681-f5b18a9c-027a-49ba-be8c-74ed1bb13548.png"
       alt="AWS Learning: Object Storage"
       width="100px"
       style="max-width:100px;"/>
@@ -109,7 +112,7 @@
    target="_blank" 
    title="AWS Learning: Block Storage">
    <img 
-      src="https://user-images.githubusercontent.com/509054/185424687-8ef984e6-8446-42a6-be66-00f7ed77fe3a.png"
+      src="https://user-images.githubusercontent.com/509054/212096392-e2c9ec57-1547-407e-a014-f14d29a090a3.png"
       alt="AWS Learning: Block Storage"
       width="100px" 
       style="max-width:100px;"/>
@@ -118,7 +121,7 @@
    target="_blank"
    title="AWS Learning: File Storage">
    <img
-      src="https://user-images.githubusercontent.com/509054/185421746-b9eb2b2b-04a6-4e01-a821-bf95f4bac108.png"
+      src="https://user-images.githubusercontent.com/509054/212095983-e91a4b97-bf05-479f-91e1-7bb613cf78e8.png"
       alt="AWS Learning: File Storage"
       width="100px"
       style="max-width:100px;"/>
@@ -127,7 +130,7 @@
    target="_blank"
    title="AWS Learning: Storage Core">
    <img
-      src="https://user-images.githubusercontent.com/509054/185421899-34a5b42d-92ee-4f1c-9414-3f555a5d9bae.png"
+      src="https://user-images.githubusercontent.com/509054/212096610-b157cc71-ab6b-4114-9b09-0e73eeb001d6.png"
       alt="AWS Learning: Storage Core"
       width="100px"
       style="max-width:100px;"/>
@@ -136,7 +139,7 @@
    target="_blank"
    title="AWS Learning: Data Migration">
    <img
-      src="https://user-images.githubusercontent.com/509054/185422706-5e67adcb-ebef-4cab-b81f-b3410a528589.png"
+      src="https://user-images.githubusercontent.com/509054/212096770-87e00677-c8a3-4215-84fc-4ac180db6855.png"
       alt="AWS Learning: Data Migration"
       width="100px" 
       style="max-width:100px;"/>
@@ -145,7 +148,7 @@
    target="_blank"
    title="AWS Learning: Data Protection & Disaster Recovery">
    <img
-      src="https://user-images.githubusercontent.com/509054/185423144-958582b7-529e-41dd-bfe2-1109daa0b48e.png"
+      src="https://user-images.githubusercontent.com/509054/212097095-d6bdee58-16f0-4b3b-9889-bd265f2a60f9.png"
       alt="AWS Learning: Data Protection & Disaster Recovery"
       width="100px" 
       style="max-width:100px;"/>
@@ -154,8 +157,26 @@
    target="_blank"
    title="AWS Learning: Storage Technologist">
    <img
-      src="https://user-images.githubusercontent.com/509054/185421996-4bcd2342-e28f-410d-be0e-d363c7e12c56.png"
+      src="https://user-images.githubusercontent.com/509054/212097617-84b734ae-3c15-4535-bdea-f29ce7e4df34.png"
       alt="AWS Learning: Storage Technologist"
+      width="100px" 
+      style="max-width:100px;"/>
+</a>&nbsp; &nbsp;<a
+   href="https://www.credly.com/badges/6b552de4-4a49-4c60-a253-df24cc50bacb/public_url"
+   target="_blank"
+   title="AWS Partner: SAP on AWS (Business)">
+   <img
+      src="https://user-images.githubusercontent.com/509054/212098403-b78142fe-962d-49c1-b253-cb8a1a304fed.png"
+      alt="AWS Partner: SAP on AWS (Business)"
+      width="100px" 
+      style="max-width:100px;"/>
+</a>&nbsp; &nbsp;<a
+   href="https://www.credly.com/badges/0889b473-e610-4d45-9eee-5b8bfdd5d820/public_url"
+   target="_blank"
+   title="AWS Partner: SAP on AWS (Technical)">
+   <img
+      src="https://user-images.githubusercontent.com/509054/212098627-bda656f1-0eb0-4aec-af0c-0bc0794699d2.png"
+      alt="AWS Partner: SAP on AWS (Technical)"
       width="100px" 
       style="max-width:100px;"/>
 </a>&nbsp; &nbsp;</p>
