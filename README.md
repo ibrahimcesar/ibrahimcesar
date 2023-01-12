@@ -3,9 +3,6 @@
  # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="42"> olá • hello • hola • ciao • こんにちは • 你好 • добрий день
 
 </div>
-![aws-partner-sap-on-aws-technical]()
-
-
 
 <p align="center">
 
