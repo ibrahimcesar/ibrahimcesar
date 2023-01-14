@@ -215,6 +215,7 @@
 ### Minhas últimas postagens no blog
 
 <!-- POSTS_LIST:START -->
+- [Sofri um golpe &lpar;para que você não caia também&rpar;](https://ibrahimcesar.cloud/blog/golpe-da-maquininha/)
 - [📘 #devbooks:  The Software Architect Elevator, by Gregor Hohpe](https://ibrahimcesar.cloud/blog/the-software-elevator-redefining-the-architect-role-in-the-digital-enterprise-gregor-hohpe/)
 - [Kafka on the Serverless Shore: Building event-driven applications with Kafka](https://ibrahimcesar.cloud/blog/kafka-on-the-serverless-shore/)
 - [Estou escrevendo um livro! Sobre AWS!](https://ibrahimcesar.cloud/blog/livro-aws/)
@@ -224,7 +225,6 @@
 - [Introdução ao Next.js](https://ibrahimcesar.cloud/blog/introducao-nextjs-ssr-isr-ssg-javascript-react-framework/)
 - [Brasil, uma Profecia e O Monstro de Mariana](https://ibrahimcesar.cloud/blog/brasil-uma-profecia-o-monstro-de-mariana-ficcao-ibrahim-cesar/)
 - [Is Software Engineering Still an Oxymoron?, Alan Kay](https://ibrahimcesar.cloud/blog/is-software-engineering-still-an-oxymoron-alan-kay/)
-- [Mergulho em AWS Cloud Development Kit &lpar;CDK&rpar;](https://ibrahimcesar.cloud/blog/mergulho-cdk-2021/)
 <!-- POSTS_LIST:END -->
 
 ### Últimos livros lidos 📚
