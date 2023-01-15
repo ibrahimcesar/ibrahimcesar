@@ -230,6 +230,7 @@
 ### Últimos livros lidos 📚
 
 <!-- READ_LIST:START -->
+- [The Ends of the World: Volcanic Apocalypses, Lethal Oceans, and Our Quest to Understand Earth's Past Mass Extinctions](https://www.goodreads.com/review/show/2722199150?utm_medium=api&utm_source=rss) by Peter Brannen (⭐⭐⭐⭐)
 - [Foundations of Scalable Systems](https://www.goodreads.com/review/show/5205299937?utm_medium=api&utm_source=rss) by Ian Gorton (⭐⭐⭐⭐⭐)
 - [The Year in Tech, 2023: The Insights You Need from Harvard Business Review (HBR Insights Series)](https://www.goodreads.com/review/show/5226901198?utm_medium=api&utm_source=rss) by Harvard Business Review (⭐)
 - [Building Evolutionary Architectures](https://www.goodreads.com/review/show/5177218423?utm_medium=api&utm_source=rss) by Neal Ford (⭐⭐⭐⭐)
@@ -239,7 +240,6 @@
 - [AWS Security](https://www.goodreads.com/review/show/5051911555?utm_medium=api&utm_source=rss) by Dylan Shields (⭐⭐⭐⭐)
 - [AWS Certified Security Specialty All-in-One Exam Guide (Exam SCS-C01)](https://www.goodreads.com/review/show/4993392360?utm_medium=api&utm_source=rss) by Gouthum Karadi (⭐⭐⭐⭐)
 - [AWS Certified Security Study Guide: Specialty (SCS-C01) Exam](https://www.goodreads.com/review/show/4964357343?utm_medium=api&utm_source=rss) by Marcello Zillo Neto (⭐⭐⭐⭐)
-- [DevSecOps: A leader’s guide to producing secure software without compromising flow, feedback and continuous improvement](https://www.goodreads.com/review/show/4846065635?utm_medium=api&utm_source=rss) by Glenn Wilson (⭐⭐⭐)
 <!-- READ_LIST:END -->
 
 ### Lendo atualmente... 📚
