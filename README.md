@@ -4,6 +4,7 @@
 
 </div>
 
+
 <p align="center">
 
 <a 
@@ -85,6 +86,15 @@
       src="https://user-images.githubusercontent.com/509054/185424004-6d65981d-ce54-4d7f-8129-f2d452a20e8e.png"
       alt="Well-Architected Proficient"
       width="100px" 
+      style="max-width:100px;"/>
+</a>&nbsp; &nbsp; <a 
+   href="https://www.credly.com/badges/f2d579e5-a833-44b0-8f56-898b408bf402/public_url"
+   target="_blank"
+   title="AWS Learning: Architecting">
+   <img 
+      src="https://user-images.githubusercontent.com/509054/217792399-c8e8c738-3da3-47e4-8f76-ce490b619557.png"
+      alt="AWS Learning: Architecting"
+      width="100px"
       style="max-width:100px;"/>
 </a>&nbsp; &nbsp; <a 
    href="https://www.credly.com/badges/1eb5e7a1-8b22-422a-83db-1a535dfe8b43/public_url"
