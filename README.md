@@ -105,6 +105,15 @@
       alt="AWS Learning: Serverless"
       width="100px"
       style="max-width:100px;"/>
+</a>&nbsp; &nbsp; <a 
+   href="https://www.credly.com/badges/d1678cdb-e5e9-4b63-8fd2-1db901b57e0c/public_url"
+   target="_blank"
+   title="AWS Learning: AWS for Games: Cloud Game Development">
+   <img 
+      src="https://user-images.githubusercontent.com/509054/219978905-eff0ae4a-d505-4c73-b89b-02e227183d8b.png"
+      alt="AWS Learning: AWS for Games: Cloud Game Development"
+      width="100px"
+      style="max-width:100px;"/>
 </a>&nbsp; &nbsp;<a 
    href="https://www.credly.com/badges/0749796b-4755-4339-a137-a47ce24ea124/public_url"
    target="_blank"
