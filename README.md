@@ -264,9 +264,9 @@
 ### Lendo atualmente... 📚
 
 <!-- READING_LIST:START -->
-- [The Burnout Challenge: Managing People's Relationships with Their Jobs](https://www.goodreads.com/review/show/5284888168?utm_medium=api&utm_source=rss) by Christina Maslach (⭐️ 3.77)
+- [The Burnout Challenge: Managing People's Relationships with Their Jobs](https://www.goodreads.com/review/show/5284888168?utm_medium=api&utm_source=rss) by Christina Maslach (⭐️ 3.75)
 - [The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change](https://www.goodreads.com/review/show/5227039779?utm_medium=api&utm_source=rss) by Tanya Reilly (⭐️ 4.38)
-- [The Value Flywheel Effect: Power the Future and Accelerate Your Organization to the Modern Cloud](https://www.goodreads.com/review/show/5186015203?utm_medium=api&utm_source=rss) by David Anderson (⭐️ 3.76)
+- [The Value Flywheel Effect: Power the Future and Accelerate Your Organization to the Modern Cloud](https://www.goodreads.com/review/show/5186015203?utm_medium=api&utm_source=rss) by David Anderson (⭐️ 3.73)
 - [Arquipélago Gulag, um experimento de investigação artística 1918-1956](https://www.goodreads.com/review/show/4564170882?utm_medium=api&utm_source=rss) by Aleksandr Solzhenitsyn (⭐️ 4.78)
 - [Serverless Architectures on AWS](https://www.goodreads.com/review/show/4476762572?utm_medium=api&utm_source=rss) by Peter Sbarski (⭐️ 3.99)
 - [Strategic Monoliths and Microservices: Driving Innovation Using Purposeful Architecture (Addison-Wesley Signature Series (Vernon))](https://www.goodreads.com/review/show/4443438389?utm_medium=api&utm_source=rss) by Vaughn Vernon (⭐️ 4.43)
