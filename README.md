@@ -268,7 +268,7 @@
 - [The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change](https://www.goodreads.com/review/show/5227039779?utm_medium=api&utm_source=rss) by Tanya Reilly (⭐️ 4.38)
 - [The Value Flywheel Effect: Power the Future and Accelerate Your Organization to the Modern Cloud](https://www.goodreads.com/review/show/5186015203?utm_medium=api&utm_source=rss) by David Anderson (⭐️ 3.67)
 - [Arquipélago Gulag, um experimento de investigação artística 1918-1956](https://www.goodreads.com/review/show/4564170882?utm_medium=api&utm_source=rss) by Aleksandr Solzhenitsyn (⭐️ 4.76)
-- [Serverless Architectures on AWS](https://www.goodreads.com/review/show/4476762572?utm_medium=api&utm_source=rss) by Peter Sbarski (⭐️ 3.99)
+- [Serverless Architectures on AWS](https://www.goodreads.com/review/show/4476762572?utm_medium=api&utm_source=rss) by Peter Sbarski (⭐️ 4)
 - [Strategic Monoliths and Microservices: Driving Innovation Using Purposeful Architecture (Addison-Wesley Signature Series (Vernon))](https://www.goodreads.com/review/show/4443438389?utm_medium=api&utm_source=rss) by Vaughn Vernon (⭐️ 4.43)
 - [The Adolescent](https://www.goodreads.com/review/show/3907651091?utm_medium=api&utm_source=rss) by Fyodor Dostoevsky (⭐️ 3.96)
 <!-- READING_LIST:END -->
