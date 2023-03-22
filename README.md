@@ -249,6 +249,7 @@
 ### Últimos livros lidos 📚
 
 <!-- READ_LIST:START -->
+- [Arquipélago Gulag, um experimento de investigação artística 1918-1956](https://www.goodreads.com/review/show/4564170882?utm_medium=api&utm_source=rss) by Aleksandr Solzhenitsyn (⭐⭐⭐⭐⭐)
 - [A Swim in a Pond in the Rain: In Which Four Russians Give a Master Class on Writing, Reading, and Life](https://www.goodreads.com/review/show/5253015722?utm_medium=api&utm_source=rss) by George Saunders (⭐⭐⭐⭐)
 - [The Ends of the World: Volcanic Apocalypses, Lethal Oceans, and Our Quest to Understand Earth's Past Mass Extinctions](https://www.goodreads.com/review/show/2722199150?utm_medium=api&utm_source=rss) by Peter Brannen (⭐⭐⭐⭐)
 - [Foundations of Scalable Systems](https://www.goodreads.com/review/show/5205299937?utm_medium=api&utm_source=rss) by Ian Gorton (⭐⭐⭐⭐⭐)
@@ -258,7 +259,6 @@
 - [Kubernetes: Up and Running](https://www.goodreads.com/review/show/4944972990?utm_medium=api&utm_source=rss) by Brendan Burns (unrated)
 - [The Dawn of Everything: A New History of Humanity](https://www.goodreads.com/review/show/4334086502?utm_medium=api&utm_source=rss) by David Graeber (⭐⭐⭐⭐⭐)
 - [AWS Security](https://www.goodreads.com/review/show/5051911555?utm_medium=api&utm_source=rss) by Dylan Shields (⭐⭐⭐⭐)
-- [AWS Certified Security Specialty All-in-One Exam Guide (Exam SCS-C01)](https://www.goodreads.com/review/show/4993392360?utm_medium=api&utm_source=rss) by Gouthum Karadi (⭐⭐⭐⭐)
 <!-- READ_LIST:END -->
 
 ### Lendo atualmente... 📚
