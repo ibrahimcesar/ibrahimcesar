@@ -249,6 +249,7 @@
 ### Últimos livros lidos 📚
 
 <!-- READ_LIST:START -->
+- [Chainsaw Man, Vol. 1: Dog And Chainsaw](https://www.goodreads.com/review/show/4206373494?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐⭐⭐⭐)
 - [Arquipélago Gulag, um experimento de investigação artística 1918-1956](https://www.goodreads.com/review/show/4564170882?utm_medium=api&utm_source=rss) by Aleksandr Solzhenitsyn (⭐⭐⭐⭐⭐)
 - [A Swim in a Pond in the Rain: In Which Four Russians Give a Master Class on Writing, Reading, and Life](https://www.goodreads.com/review/show/5253015722?utm_medium=api&utm_source=rss) by George Saunders (⭐⭐⭐⭐)
 - [The Ends of the World: Volcanic Apocalypses, Lethal Oceans, and Our Quest to Understand Earth's Past Mass Extinctions](https://www.goodreads.com/review/show/2722199150?utm_medium=api&utm_source=rss) by Peter Brannen (⭐⭐⭐⭐)
@@ -258,7 +259,6 @@
 - [Database Internals: A deep-dive into how distributed data systems work](https://www.goodreads.com/review/show/5179194002?utm_medium=api&utm_source=rss) by Alex Petrov (⭐⭐⭐⭐⭐)
 - [Kubernetes: Up and Running](https://www.goodreads.com/review/show/4944972990?utm_medium=api&utm_source=rss) by Brendan Burns (unrated)
 - [The Dawn of Everything: A New History of Humanity](https://www.goodreads.com/review/show/4334086502?utm_medium=api&utm_source=rss) by David Graeber (⭐⭐⭐⭐⭐)
-- [AWS Security](https://www.goodreads.com/review/show/5051911555?utm_medium=api&utm_source=rss) by Dylan Shields (⭐⭐⭐⭐)
 <!-- READ_LIST:END -->
 
 ### Lendo atualmente... 📚
