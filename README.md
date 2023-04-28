@@ -197,20 +197,6 @@
       style="max-width:100px;"/>
 </a>&nbsp; &nbsp;</p>
     
-<div align="center">
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/ibrahimcesar?label=People%20following%20me%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=ibrahimcesar)
-    
- </div>
-
-<div align="center">
-    
-   > Estou escrevendo um livro sobre AWS para a Casa do Código! Saiba mais: <a href="https://livroaws.ibrahimcesar.cloud">https://livroaws.ibrahimcesar.cloud</a>
-    
-    
-</div>
-
-
 - Enterprise Solutions Architect @ [Amazon Web Services (AWS)](https://aws.amazon.com/) — _Opinions are my own and all code projects here are personal_
 - [Blog (en && pt-br)](https://ibrahimcesar.cloud)
 - [Nanodegree AWS Cloud Architect pela Udacity](https://graduation.udacity.com/confirm/UDRWJKSP)
