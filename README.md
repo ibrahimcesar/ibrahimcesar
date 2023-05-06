@@ -6,7 +6,7 @@
 
 
 <p align="center">
-
+    
 <a 
    href="https://www.credly.com/badges/d01a5f09-39af-4848-91e4-fd93c379429b/public_url"
    target="_blank" 
@@ -18,7 +18,20 @@
       width="100px" 
       style="max-width:100px;"
       />
-</a>&nbsp; &nbsp;<a 
+</a>&nbsp; &nbsp;
+    <a 
+   href="https://www.credly.com/badges/9d0b63e9-dc89-432c-b4cd-57342fb6e294/public_url"
+   target="_blank" 
+   title="Badge AWS Certified DevOps Engineer – Professional" 
+   alt="AWS Certified DevOps Engineer – Professional">
+   <img 
+      src="https://user-images.githubusercontent.com/509054/236595039-418df7a9-080b-4ca6-9e44-df90371a6dc9.png"
+      alt="AWS Certified DevOps Engineer – Professional"
+      width="100px" 
+      style="max-width:100px;"
+      />
+</a>&nbsp; &nbsp;
+  <a 
    href="https://www.credly.com/badges/f4fedbbf-cbec-4d39-a720-c7ca55d39032/public_url"
    target="_blank" 
    title="Badge AWS Certified Security – Specialty"
@@ -112,6 +125,16 @@
    <img 
       src="https://user-images.githubusercontent.com/509054/219978905-eff0ae4a-d505-4c73-b89b-02e227183d8b.png"
       alt="AWS Learning: AWS for Games: Cloud Game Development"
+      width="100px"
+      style="max-width:100px;"/>
+</a>&nbsp; &nbsp;
+    <a 
+   href="https://www.credly.com/badges/1e74c80b-4202-46b4-9251-899a903e0731/public_url"
+   target="_blank"
+   title="AWS Learning: Media & Entertainment: Direct-to-Consumer and Broadcast Foundations">
+   <img 
+      src="https://user-images.githubusercontent.com/509054/236595199-6a63d23c-ae0e-45b7-beef-7616d6b6ac12.png"
+      alt="AWS Learning: Media & Entertainment: Direct-to-Consumer and Broadcast Foundations"
       width="100px"
       style="max-width:100px;"/>
 </a>&nbsp; &nbsp;<a 
