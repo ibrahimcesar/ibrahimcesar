@@ -258,6 +258,7 @@
 ### Últimos livros lidos 📚
 
 <!-- READ_LIST:START -->
+- [Cybersecurity Myths and Misconceptions: Avoiding the Hazards and Pitfalls that Derail Us](https://www.goodreads.com/review/show/5550873856?utm_medium=api&utm_source=rss) by Eugene Spafford (⭐⭐⭐⭐)
 - [Serverless Architectures on AWS](https://www.goodreads.com/review/show/4476762572?utm_medium=api&utm_source=rss) by Peter Sbarski (⭐⭐⭐⭐)
 - [The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change](https://www.goodreads.com/review/show/5227039779?utm_medium=api&utm_source=rss) by Tanya Reilly (⭐⭐⭐⭐⭐)
 - [Chainsaw Man, Vol. 1: Dog And Chainsaw](https://www.goodreads.com/review/show/4206373494?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐⭐⭐⭐)
@@ -267,7 +268,6 @@
 - [Foundations of Scalable Systems](https://www.goodreads.com/review/show/5205299937?utm_medium=api&utm_source=rss) by Ian Gorton (⭐⭐⭐⭐⭐)
 - [The Year in Tech, 2023: The Insights You Need from Harvard Business Review (HBR Insights Series)](https://www.goodreads.com/review/show/5226901198?utm_medium=api&utm_source=rss) by Harvard Business Review (⭐)
 - [Building Evolutionary Architectures](https://www.goodreads.com/review/show/5177218423?utm_medium=api&utm_source=rss) by Neal Ford (⭐⭐⭐⭐)
-- [Database Internals: A deep-dive into how distributed data systems work](https://www.goodreads.com/review/show/5179194002?utm_medium=api&utm_source=rss) by Alex Petrov (⭐⭐⭐⭐⭐)
 <!-- READ_LIST:END -->
 
 ### Lendo atualmente... 📚
