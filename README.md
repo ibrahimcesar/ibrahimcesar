@@ -261,7 +261,7 @@
 - [Cybersecurity Myths and Misconceptions: Avoiding the Hazards and Pitfalls that Derail Us](https://www.goodreads.com/review/show/5550873856?utm_medium=api&utm_source=rss) by Eugene Spafford (⭐⭐⭐⭐)
 - [Serverless Architectures on AWS](https://www.goodreads.com/review/show/4476762572?utm_medium=api&utm_source=rss) by Peter Sbarski (⭐⭐⭐⭐)
 - [The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change](https://www.goodreads.com/review/show/5227039779?utm_medium=api&utm_source=rss) by Tanya Reilly (⭐⭐⭐⭐⭐)
-- [Chainsaw Man, Vol. 1: Dog And Chainsaw](https://www.goodreads.com/review/show/4206373494?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐⭐⭐⭐)
+- [Chainsaw Man, Vol. 1: Dog and Chainsaw](https://www.goodreads.com/review/show/4206373494?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐⭐⭐⭐)
 - [Arquipélago Gulag, um experimento de investigação artística 1918-1956](https://www.goodreads.com/review/show/4564170882?utm_medium=api&utm_source=rss) by Aleksandr Solzhenitsyn (⭐⭐⭐⭐⭐)
 - [A Swim in a Pond in the Rain: In Which Four Russians Give a Master Class on Writing, Reading, and Life](https://www.goodreads.com/review/show/5253015722?utm_medium=api&utm_source=rss) by George Saunders (⭐⭐⭐⭐)
 - [The Ends of the World: Volcanic Apocalypses, Lethal Oceans, and Our Quest to Understand Earth's Past Mass Extinctions](https://www.goodreads.com/review/show/2722199150?utm_medium=api&utm_source=rss) by Peter Brannen (⭐⭐⭐⭐)
