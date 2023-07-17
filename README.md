@@ -258,6 +258,7 @@
 ### Últimos livros lidos 📚
 
 <!-- READ_LIST:START -->
+- [The Art of Doing Science and Engineering: Learning to Learn](https://www.goodreads.com/review/show/5695516174?utm_medium=api&utm_source=rss) by Richard Hamming (⭐⭐⭐⭐)
 - [Cybersecurity Myths and Misconceptions: Avoiding the Hazards and Pitfalls that Derail Us](https://www.goodreads.com/review/show/5550873856?utm_medium=api&utm_source=rss) by Eugene Spafford (⭐⭐⭐⭐)
 - [Serverless Architectures on AWS](https://www.goodreads.com/review/show/4476762572?utm_medium=api&utm_source=rss) by Peter Sbarski (⭐⭐⭐⭐)
 - [The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change](https://www.goodreads.com/review/show/5227039779?utm_medium=api&utm_source=rss) by Tanya Reilly (⭐⭐⭐⭐⭐)
@@ -267,7 +268,6 @@
 - [The Ends of the World: Volcanic Apocalypses, Lethal Oceans, and Our Quest to Understand Earth's Past Mass Extinctions](https://www.goodreads.com/review/show/2722199150?utm_medium=api&utm_source=rss) by Peter Brannen (⭐⭐⭐⭐)
 - [Foundations of Scalable Systems](https://www.goodreads.com/review/show/5205299937?utm_medium=api&utm_source=rss) by Ian Gorton (⭐⭐⭐⭐⭐)
 - [The Year in Tech, 2023: The Insights You Need from Harvard Business Review (HBR Insights Series)](https://www.goodreads.com/review/show/5226901198?utm_medium=api&utm_source=rss) by Harvard Business Review (⭐)
-- [Building Evolutionary Architectures](https://www.goodreads.com/review/show/5177218423?utm_medium=api&utm_source=rss) by Neal Ford (⭐⭐⭐⭐)
 <!-- READ_LIST:END -->
 
 ### Lendo atualmente... 📚
