@@ -4,7 +4,6 @@
 
 </div>
 
-
 <p align="center">
     
 <a 
@@ -25,20 +24,20 @@
    title="Badge AWS Certified DevOps Engineer – Professional" 
    alt="AWS Certified DevOps Engineer – Professional">
    <img 
-      src="https://user-images.githubusercontent.com/509054/236595039-418df7a9-080b-4ca6-9e44-df90371a6dc9.png"
+      src="https://github.com/ibrahimcesar/ibrahimcesar/assets/509054/126971c4-d7e5-481a-8523-72972931531c"
       alt="AWS Certified DevOps Engineer – Professional"
       width="100px" 
       style="max-width:100px;"
       />
 </a>&nbsp; &nbsp;
   <a 
-   href="https://www.credly.com/badges/f4fedbbf-cbec-4d39-a720-c7ca55d39032/public_url"
+   href="https://www.credly.com/badges/a229e88f-f0b5-46fe-be56-ac2f1d884c29/public_url"
    target="_blank" 
-   title="Badge AWS Certified Security – Specialty"
-   alt="AWS Certified Security – Specialty">
+   title="Badge AWS Certified Data Analytics – Specialty"
+   alt="AWS Certified Data Analytics – Specialty">
    <img 
       src="https://user-images.githubusercontent.com/509054/195915470-c99aa7c9-9e5e-48e4-8e48-f7a76be042ae.png"
-      alt="AWS Certified Security – Specialty"
+      alt="AWS Certified Data Analytics – Specialty"
       width="100px"  
       style="max-width:100px;" />
 </a>&nbsp; &nbsp;<a href="https://www.credly.com/badges/1bdb457f-b469-43c3-9e0e-24b221f12794/public_url" 
