@@ -257,6 +257,7 @@
 ### Últimos livros lidos 📚
 
 <!-- READ_LIST:START -->
+- [Static Stability Using Availability Zones](https://www.goodreads.com/review/show/5758571531?utm_medium=api&utm_source=rss) by Amazon Builders&apos; Library (⭐⭐⭐⭐⭐)
 - [Learning Spark: Lightning-Fast Data Analytics](https://www.goodreads.com/review/show/5739445786?utm_medium=api&utm_source=rss) by Jules S. Damji (⭐⭐⭐⭐)
 - [Thinking in Systems](https://www.goodreads.com/review/show/5723134668?utm_medium=api&utm_source=rss) by Donella H. Meadows (⭐⭐⭐⭐⭐)
 - [The Art of Doing Science and Engineering: Learning to Learn](https://www.goodreads.com/review/show/5695516174?utm_medium=api&utm_source=rss) by Richard Hamming (⭐⭐⭐⭐)
@@ -266,7 +267,6 @@
 - [Chainsaw Man, Vol. 1: Dog and Chainsaw](https://www.goodreads.com/review/show/4206373494?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐⭐⭐⭐)
 - [Arquipélago Gulag, um experimento de investigação artística 1918-1956](https://www.goodreads.com/review/show/4564170882?utm_medium=api&utm_source=rss) by Aleksandr Solzhenitsyn (⭐⭐⭐⭐⭐)
 - [A Swim in a Pond in the Rain: In Which Four Russians Give a Master Class on Writing, Reading, and Life](https://www.goodreads.com/review/show/5253015722?utm_medium=api&utm_source=rss) by George Saunders (⭐⭐⭐⭐)
-- [The Ends of the World: Volcanic Apocalypses, Lethal Oceans, and Our Quest to Understand Earth's Past Mass Extinctions](https://www.goodreads.com/review/show/2722199150?utm_medium=api&utm_source=rss) by Peter Brannen (⭐⭐⭐⭐)
 <!-- READ_LIST:END -->
 
 ### Lendo atualmente... 📚
