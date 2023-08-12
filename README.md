@@ -200,6 +200,15 @@
       width="100px" 
       style="max-width:100px;"/>
 </a>&nbsp; &nbsp;<a
+   href="https://www.credly.com/badges/32097125-5992-4edc-906f-ee38ab6742d3/public_url"
+   target="_blank"
+   title="AWS Partner: Generative AI Essentials (Business)">
+   <img
+      src="https://github.com/ibrahimcesar/ibrahimcesar/assets/509054/59e01b10-8afe-4663-bad2-7c6bf730f066"
+      alt="AWS Partner: Generative AI Essentials (Business)"
+      width="100px" 
+      style="max-width:100px;"/>
+</a>&nbsp; &nbsp;<a
    href="https://www.credly.com/badges/6b552de4-4a49-4c60-a253-df24cc50bacb/public_url"
    target="_blank"
    title="AWS Partner: SAP on AWS (Business)">
@@ -215,6 +224,15 @@
    <img
       src="https://user-images.githubusercontent.com/509054/212098627-bda656f1-0eb0-4aec-af0c-0bc0794699d2.png"
       alt="AWS Partner: SAP on AWS (Technical)"
+      width="100px" 
+      style="max-width:100px;"/>
+</a>&nbsp; &nbsp;<a
+   href="https://www.credly.com/badges/6cde2ea1-3e33-4df7-826d-5924ff6ee5cc/public_url"
+   target="_blank"
+   title="Cloud Economics Accreditation">
+   <img
+      src="https://github.com/ibrahimcesar/ibrahimcesar/assets/509054/3f52392a-7d78-4add-9373-523d8b01f248"
+      alt="Cloud Economics Accreditation"
       width="100px" 
       style="max-width:100px;"/>
 </a>&nbsp; &nbsp;</p>
