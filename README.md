@@ -275,6 +275,7 @@
 ### Últimos livros lidos 📚
 
 <!-- READ_LIST:START -->
+- [Security as Code](https://www.goodreads.com/review/show/5806158519?utm_medium=api&utm_source=rss) by Bk Sarthak Das (⭐⭐⭐⭐)
 - [Flores para Algernon](https://www.goodreads.com/review/show/2742383823?utm_medium=api&utm_source=rss) by Daniel Keyes (⭐⭐⭐⭐)
 - [Static Stability Using Availability Zones](https://www.goodreads.com/review/show/5758571531?utm_medium=api&utm_source=rss) by Amazon Builders&apos; Library (⭐⭐⭐⭐⭐)
 - [Learning Spark: Lightning-Fast Data Analytics](https://www.goodreads.com/review/show/5739445786?utm_medium=api&utm_source=rss) by Jules S. Damji (⭐⭐⭐⭐)
@@ -284,7 +285,6 @@
 - [Serverless Architectures on AWS](https://www.goodreads.com/review/show/4476762572?utm_medium=api&utm_source=rss) by Peter Sbarski (⭐⭐⭐⭐)
 - [The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change](https://www.goodreads.com/review/show/5227039779?utm_medium=api&utm_source=rss) by Tanya Reilly (⭐⭐⭐⭐⭐)
 - [Chainsaw Man, Vol. 1: Dog and Chainsaw](https://www.goodreads.com/review/show/4206373494?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐⭐⭐⭐)
-- [Arquipélago Gulag, um experimento de investigação artística 1918-1956](https://www.goodreads.com/review/show/4564170882?utm_medium=api&utm_source=rss) by Aleksandr Solzhenitsyn (⭐⭐⭐⭐⭐)
 <!-- READ_LIST:END -->
 
 ### Lendo atualmente... 📚
