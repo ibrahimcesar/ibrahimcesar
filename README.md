@@ -279,7 +279,7 @@
 - [Flores para Algernon](https://www.goodreads.com/review/show/2742383823?utm_medium=api&utm_source=rss) by Daniel Keyes (⭐⭐⭐⭐)
 - [Static Stability Using Availability Zones](https://www.goodreads.com/review/show/5758571531?utm_medium=api&utm_source=rss) by Amazon Builders&apos; Library (⭐⭐⭐⭐⭐)
 - [Learning Spark: Lightning-Fast Data Analytics](https://www.goodreads.com/review/show/5739445786?utm_medium=api&utm_source=rss) by Jules S. Damji (⭐⭐⭐⭐)
-- [Thinking in Systems](https://www.goodreads.com/review/show/5723134668?utm_medium=api&utm_source=rss) by Donella H. Meadows (⭐⭐⭐⭐⭐)
+- [Thinking In Systems: A Primer](https://www.goodreads.com/review/show/5723134668?utm_medium=api&utm_source=rss) by Donella H. Meadows (⭐⭐⭐⭐⭐)
 - [The Art of Doing Science and Engineering: Learning to Learn](https://www.goodreads.com/review/show/5695516174?utm_medium=api&utm_source=rss) by Richard Hamming (⭐⭐⭐⭐)
 - [Cybersecurity Myths and Misconceptions: Avoiding the Hazards and Pitfalls that Derail Us](https://www.goodreads.com/review/show/5550873856?utm_medium=api&utm_source=rss) by Eugene Spafford (⭐⭐⭐⭐)
 - [Serverless Architectures on AWS](https://www.goodreads.com/review/show/4476762572?utm_medium=api&utm_source=rss) by Peter Sbarski (⭐⭐⭐⭐)
