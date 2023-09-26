@@ -275,6 +275,7 @@
 ### Últimos livros lidos 📚
 
 <!-- READ_LIST:START -->
+- [Investments Unlimited: A Novel About DevOps, Security, Audit Compliance, and Thriving in the Digital Age](https://www.goodreads.com/review/show/5867444073?utm_medium=api&utm_source=rss) by Helen Beal (⭐⭐⭐)
 - [Security as Code](https://www.goodreads.com/review/show/5806158519?utm_medium=api&utm_source=rss) by Bk Sarthak Das (⭐⭐⭐⭐)
 - [Flores para Algernon](https://www.goodreads.com/review/show/2742383823?utm_medium=api&utm_source=rss) by Daniel Keyes (⭐⭐⭐⭐)
 - [Static Stability Using Availability Zones](https://www.goodreads.com/review/show/5758571531?utm_medium=api&utm_source=rss) by Amazon Builders&apos; Library (⭐⭐⭐⭐⭐)
@@ -284,7 +285,6 @@
 - [Cybersecurity Myths and Misconceptions: Avoiding the Hazards and Pitfalls that Derail Us](https://www.goodreads.com/review/show/5550873856?utm_medium=api&utm_source=rss) by Eugene Spafford (⭐⭐⭐⭐)
 - [Serverless Architectures on AWS](https://www.goodreads.com/review/show/4476762572?utm_medium=api&utm_source=rss) by Peter Sbarski (⭐⭐⭐⭐)
 - [The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change](https://www.goodreads.com/review/show/5227039779?utm_medium=api&utm_source=rss) by Tanya Reilly (⭐⭐⭐⭐⭐)
-- [Chainsaw Man, Vol. 1: Dog and Chainsaw](https://www.goodreads.com/review/show/4206373494?utm_medium=api&utm_source=rss) by Tatsuki Fujimoto (⭐⭐⭐⭐)
 <!-- READ_LIST:END -->
 
 ### Lendo atualmente... 📚
