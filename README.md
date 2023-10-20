@@ -275,6 +275,7 @@
 ### Últimos livros lidos 📚
 
 <!-- READ_LIST:START -->
+- [Infinite Fictions: Essays on Literature and Theory](https://www.goodreads.com/review/show/5920292686?utm_medium=api&utm_source=rss) by David  Winters (⭐⭐⭐⭐)
 - [Se um viajante numa noite de inverno](https://www.goodreads.com/review/show/2786441536?utm_medium=api&utm_source=rss) by Italo Calvino (⭐⭐⭐⭐⭐)
 - [Investments Unlimited: A Novel About DevOps, Security, Audit Compliance, and Thriving in the Digital Age](https://www.goodreads.com/review/show/5867444073?utm_medium=api&utm_source=rss) by Helen Beal (⭐⭐⭐)
 - [Security as Code](https://www.goodreads.com/review/show/5806158519?utm_medium=api&utm_source=rss) by Bk Sarthak Das (⭐⭐⭐⭐)
@@ -284,7 +285,6 @@
 - [Thinking In Systems: A Primer](https://www.goodreads.com/review/show/5723134668?utm_medium=api&utm_source=rss) by Donella H. Meadows (⭐⭐⭐⭐⭐)
 - [The Art of Doing Science and Engineering: Learning to Learn](https://www.goodreads.com/review/show/5695516174?utm_medium=api&utm_source=rss) by Richard Hamming (⭐⭐⭐⭐)
 - [Cybersecurity Myths and Misconceptions: Avoiding the Hazards and Pitfalls that Derail Us](https://www.goodreads.com/review/show/5550873856?utm_medium=api&utm_source=rss) by Eugene Spafford (⭐⭐⭐⭐)
-- [Serverless Architectures on AWS](https://www.goodreads.com/review/show/4476762572?utm_medium=api&utm_source=rss) by Peter Sbarski (⭐⭐⭐⭐)
 <!-- READ_LIST:END -->
 
 ### Lendo atualmente... 📚
