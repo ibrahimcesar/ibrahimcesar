@@ -134,7 +134,7 @@
    target="_blank"
    title="AWS Knowledge: Networking Core">
    <img 
-      src="https://github.com/ibrahimcesar/ibrahimcesar/assets/509054/71b36359-daca-4604-8f16-03e4a7982e6b)"
+      src="https://github.com/ibrahimcesar/ibrahimcesar/assets/509054/71b36359-daca-4604-8f16-03e4a7982e6b"
       alt="AWS Knowledge: Networking Core"
       width="100px"
       style="max-width:100px;"/>
