@@ -18,6 +18,18 @@
       style="max-width:100px;"
       />
 </a>&nbsp; &nbsp;
+<a 
+   href="https://www.credly.com/badges/9d0b63e9-dc89-432c-b4cd-57342fb6e294/public_url"
+   target="_blank" 
+   title="Badge AWS Certified DevOps Engineer – Professional" 
+   alt="AWS Certified DevOps Engineer – Professional">
+   <img 
+      src="https://github.com/ibrahimcesar/ibrahimcesar/assets/509054/d47565df-d99a-4759-a4eb-e81066296635"
+      alt="AWS Certified DevOps Engineer – Professional"
+      width="100px" 
+      style="max-width:100px;"
+      />
+</a>&nbsp; &nbsp;
     <a 
    href="https://www.credly.com/badges/9d0b63e9-dc89-432c-b4cd-57342fb6e294/public_url"
    target="_blank" 
