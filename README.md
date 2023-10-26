@@ -239,9 +239,6 @@
     
 - Enterprise Solutions Architect @ [Amazon Web Services (AWS)](https://aws.amazon.com/) — _Opinions are my own and all code projects here are personal_
 - [Blog (en && pt-br)](https://ibrahimcesar.cloud)
-- [Nanodegree AWS Cloud Architect pela Udacity](https://graduation.udacity.com/confirm/UDRWJKSP)
-- [Polywork](https://www.polywork.com/ibrahimcesar)
-- [Twitter](https://www.twitter.com/ibrahimcesar/)
 - [LinkedIn](https://www.linkedin.com/in/ibrahimcesar/)
 - 🌱 Apostando muito em **Arquitetura hexagonal**, **Domain Driven Design** e **Event-driven applications**.
 - ⚡ Fun facts: 
