@@ -123,10 +123,19 @@
 </a>&nbsp; &nbsp; <a 
    href="https://www.credly.com/badges/1eb5e7a1-8b22-422a-83db-1a535dfe8b43/public_url"
    target="_blank"
-   title="AWS Learning: Serverless">
+   title="AWS Learning: Serverless"> 
    <img 
       src="https://user-images.githubusercontent.com/509054/205751290-899faacb-da63-45ec-ab31-e986db511f37.png"
       alt="AWS Learning: Serverless"
+      width="100px"
+      style="max-width:100px;"/>
+</a>&nbsp; &nbsp;  <a 
+   href="https://www.credly.com/badges/438a9c0c-285e-443b-904f-d29c989f68b7/public_url"
+   target="_blank"
+   title="AWS Knowledge: Networking Core">
+   <img 
+      src="https://github.com/ibrahimcesar/ibrahimcesar/assets/509054/71b36359-daca-4604-8f16-03e4a7982e6b)"
+      alt="AWS Knowledge: Networking Core"
       width="100px"
       style="max-width:100px;"/>
 </a>&nbsp; &nbsp; <a 
