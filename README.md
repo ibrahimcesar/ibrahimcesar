@@ -120,7 +120,7 @@
       alt="AWS Learning: Architecting"
       width="100px"
       style="max-width:100px;"/>
-</a>&nbsp; &nbsp; <a 
+</a> <a 
    href="https://www.credly.com/badges/1eb5e7a1-8b22-422a-83db-1a535dfe8b43/public_url"
    target="_blank"
    title="AWS Learning: Serverless"> 
@@ -129,7 +129,7 @@
       alt="AWS Learning: Serverless"
       width="100px"
       style="max-width:100px;"/>
-</a>&nbsp; &nbsp;  <a 
+</a>  <a 
    href="https://www.credly.com/badges/438a9c0c-285e-443b-904f-d29c989f68b7/public_url"
    target="_blank"
    title="AWS Knowledge: Networking Core">
@@ -138,7 +138,7 @@
       alt="AWS Knowledge: Networking Core"
       width="100px"
       style="max-width:100px;"/>
-</a>&nbsp; &nbsp; <a 
+</a> <a 
    href="https://www.credly.com/badges/d1678cdb-e5e9-4b63-8fd2-1db901b57e0c/public_url"
    target="_blank"
    title="AWS Learning: AWS for Games: Cloud Game Development">
@@ -147,7 +147,7 @@
       alt="AWS Learning: AWS for Games: Cloud Game Development"
       width="100px"
       style="max-width:100px;"/>
-</a>&nbsp; &nbsp;
+</a>
     <a 
    href="https://www.credly.com/badges/1e74c80b-4202-46b4-9251-899a903e0731/public_url"
    target="_blank"
@@ -157,7 +157,7 @@
       alt="AWS Learning: Media & Entertainment: Direct-to-Consumer and Broadcast Foundations"
       width="100px"
       style="max-width:100px;"/>
-</a>&nbsp; &nbsp;<a 
+</a><a 
    href="https://www.credly.com/badges/0749796b-4755-4339-a137-a47ce24ea124/public_url"
    target="_blank"
    title="AWS Learning: Object Storage">
@@ -166,7 +166,7 @@
       alt="AWS Learning: Object Storage"
       width="100px"
       style="max-width:100px;"/>
-</a>&nbsp; &nbsp;<a 
+</a><a 
    href="https://www.credly.com/badges/318f48d9-a9f8-49bf-a6b9-e9a6f2615ec8"
    target="_blank" 
    title="AWS Learning: Block Storage">
@@ -184,7 +184,7 @@
       alt="AWS Learning: File Storage"
       width="100px"
       style="max-width:100px;"/>
-</a>&nbsp; &nbsp;<a 
+</a><a 
    href="https://www.credly.com/badges/36bfeb46-c3b4-47d1-b290-8a12fe9af94f"
    target="_blank"
    title="AWS Learning: Storage Core">
@@ -193,7 +193,7 @@
       alt="AWS Learning: Storage Core"
       width="100px"
       style="max-width:100px;"/>
-</a>&nbsp; &nbsp;<a 
+</a><a 
    href="https://www.credly.com/badges/bc710c2b-3e2e-4653-9daa-24f83afd20f3"
    target="_blank"
    title="AWS Learning: Data Migration">
@@ -202,7 +202,7 @@
       alt="AWS Learning: Data Migration"
       width="100px" 
       style="max-width:100px;"/>
-</a>&nbsp; &nbsp;<a 
+</a><a 
    href="https://www.credly.com/badges/a460283e-2640-4076-af60-9aa2969b4b33"
    target="_blank"
    title="AWS Learning: Data Protection & Disaster Recovery">
@@ -211,7 +211,7 @@
       alt="AWS Learning: Data Protection & Disaster Recovery"
       width="100px" 
       style="max-width:100px;"/>
-</a>&nbsp; &nbsp;<a
+</a><a
    href="https://www.credly.com/badges/41622b3b-defc-4ee0-89a1-ce09ec30c8a5"
    target="_blank"
    title="AWS Learning: Storage Technologist">
@@ -220,7 +220,7 @@
       alt="AWS Learning: Storage Technologist"
       width="100px" 
       style="max-width:100px;"/>
-</a>&nbsp; &nbsp;<a
+</a><a
    href="https://www.credly.com/badges/32097125-5992-4edc-906f-ee38ab6742d3/public_url"
    target="_blank"
    title="AWS Partner: Generative AI Essentials (Business)">
@@ -229,7 +229,7 @@
       alt="AWS Partner: Generative AI Essentials (Business)"
       width="100px" 
       style="max-width:100px;"/>
-</a>&nbsp; &nbsp;<a
+</a><a
    href="https://www.credly.com/badges/6b552de4-4a49-4c60-a253-df24cc50bacb/public_url"
    target="_blank"
    title="AWS Partner: SAP on AWS (Business)">
@@ -238,7 +238,7 @@
       alt="AWS Partner: SAP on AWS (Business)"
       width="100px" 
       style="max-width:100px;"/>
-</a>&nbsp; &nbsp;<a
+</a><a
    href="https://www.credly.com/badges/0889b473-e610-4d45-9eee-5b8bfdd5d820/public_url"
    target="_blank"
    title="AWS Partner: SAP on AWS (Technical)">
@@ -247,7 +247,7 @@
       alt="AWS Partner: SAP on AWS (Technical)"
       width="100px" 
       style="max-width:100px;"/>
-</a>&nbsp; &nbsp;<a
+</a><a
    href="https://www.credly.com/badges/6cde2ea1-3e33-4df7-826d-5924ff6ee5cc/public_url"
    target="_blank"
    title="Cloud Economics Accreditation">
