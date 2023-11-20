@@ -157,7 +157,18 @@
       alt="AWS Learning: Media & Entertainment: Direct-to-Consumer and Broadcast Foundations"
       width="100px"
       style="max-width:100px;"/>
-</a><a 
+</a>
+<a 
+   href="https://www.credly.com/badges/b7224952-d787-4c52-92cc-570d7ac8873f/public_url"
+   target="_blank"
+   title="AWS Knowledge: Migration Foundations">
+   <img 
+      src="https://github.com/ibrahimcesar/ibrahimcesar/assets/509054/d1d19d4a-407b-4a01-bb9f-b5da49f9c264"
+      alt="AWS Knowledge: Migration Foundations"
+      width="100px"
+      style="max-width:100px;"/>
+</a>
+<a 
    href="https://www.credly.com/badges/0749796b-4755-4339-a137-a47ce24ea124/public_url"
    target="_blank"
    title="AWS Learning: Object Storage">
