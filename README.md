@@ -280,7 +280,7 @@
 - /ɪ́brəhɪjm/
 - 😄  &nbsp;&nbsp; Ele/dele
 - 📫  &nbsp;&nbsp; cloud@ibrahimcesar.com
-- Total acumulado de horas em **Animal Crossing: New Horizons**: 1.995 (2022-08-29)
+- Total acumulado de horas em **Animal Crossing: New Horizons**: 2775 (2023-11-23)
 
 ## :octocat: &nbsp;&nbsp; [AMA - Ask Me Anything](https://github.com/ibrahimcesar/ibrahimcesar/discussions/categories/ama-ask-me-anything)
 
