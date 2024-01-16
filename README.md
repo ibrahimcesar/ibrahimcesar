@@ -322,7 +322,7 @@
 - [The Burnout Challenge: Managing People’s Relationships with Their Jobs](https://www.goodreads.com/review/show/5284888168?utm_medium=api&utm_source=rss) by Christina Maslach (⭐️ 3.61)
 - [The Value Flywheel Effect: Power the Future and Accelerate Your Organization to the Modern Cloud](https://www.goodreads.com/review/show/5186015203?utm_medium=api&utm_source=rss) by David Anderson (⭐️ 3.76)
 - [Strategic Monoliths and Microservices: Driving Innovation Using Purposeful Architecture (Addison-Wesley Signature Series (Vernon))](https://www.goodreads.com/review/show/4443438389?utm_medium=api&utm_source=rss) by Vaughn Vernon (⭐️ 4.47)
-- [The Adolescent (Vintage Classics)](https://www.goodreads.com/review/show/3907651091?utm_medium=api&utm_source=rss) by Fyodor Dostoevsky (⭐️ 3.95)
+- [The Adolescent (Vintage Classics)](https://www.goodreads.com/review/show/3907651091?utm_medium=api&utm_source=rss) by Fyodor Dostoevsky (⭐️ 3.96)
 <!-- READING_LIST:END -->
 
 ### Livros técnicos favoritos
