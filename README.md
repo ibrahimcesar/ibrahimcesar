@@ -304,6 +304,7 @@
 ### Últimos livros lidos 📚
 
 <!-- READ_LIST:START -->
+- [Getting Started with Enterprise Architecture: A Practical and Pragmatic Approach to Learning the Basics of Enterprise Architecture](https://www.goodreads.com/review/show/6205295678?utm_medium=api&utm_source=rss) by Eric  Jager (⭐⭐⭐)
 - [Bottoms Up and the Devil Laughs: A Journey Through the Deep State](https://www.goodreads.com/review/show/6202202644?utm_medium=api&utm_source=rss) by Kerry Howley (⭐⭐⭐⭐⭐)
 - [Number Go Up: Inside Crypto's Wild Rise and Staggering Fall](https://www.goodreads.com/review/show/6163056510?utm_medium=api&utm_source=rss) by Zeke Faux (⭐⭐⭐⭐⭐)
 - [Infinite Fictions: Essays on Literature and Theory](https://www.goodreads.com/review/show/5920292686?utm_medium=api&utm_source=rss) by David  Winters (⭐⭐⭐⭐)
@@ -313,7 +314,6 @@
 - [Flores para Algernon](https://www.goodreads.com/review/show/2742383823?utm_medium=api&utm_source=rss) by Daniel Keyes (⭐⭐⭐⭐)
 - [Static Stability Using Availability Zones](https://www.goodreads.com/review/show/5758571531?utm_medium=api&utm_source=rss) by Amazon Builders&apos; Library (⭐⭐⭐⭐⭐)
 - [Learning Spark: Lightning-Fast Data Analytics](https://www.goodreads.com/review/show/5739445786?utm_medium=api&utm_source=rss) by Jules S. Damji (⭐⭐⭐⭐)
-- [Thinking In Systems: A Primer](https://www.goodreads.com/review/show/5723134668?utm_medium=api&utm_source=rss) by Donella H. Meadows (⭐⭐⭐⭐⭐)
 <!-- READ_LIST:END -->
 
 ### Lendo atualmente... 📚
