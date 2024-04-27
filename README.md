@@ -304,6 +304,7 @@
 ### Últimos livros lidos 📚
 
 <!-- READ_LIST:START -->
+- [Who Shot Van Gogh?: Facts and Counterfacts About the World?s Most Famous Artist](https://www.goodreads.com/review/show/6459887043?utm_medium=api&utm_source=rss) by Alan Turnbull (⭐⭐⭐⭐⭐)
 - [Blindsight (Firefall, #1)](https://www.goodreads.com/review/show/6426234929?utm_medium=api&utm_source=rss) by Peter Watts (⭐⭐⭐⭐)
 - [Getting Started with Enterprise Architecture: A Practical and Pragmatic Approach to Learning the Basics of Enterprise Architecture](https://www.goodreads.com/review/show/6205295678?utm_medium=api&utm_source=rss) by Eric  Jager (⭐⭐⭐)
 - [Bottoms Up and the Devil Laughs: A Journey Through the Deep State](https://www.goodreads.com/review/show/6202202644?utm_medium=api&utm_source=rss) by Kerry Howley (⭐⭐⭐⭐⭐)
@@ -313,7 +314,6 @@
 - [Investments Unlimited: A Novel About DevOps, Security, Audit Compliance, and Thriving in the Digital Age](https://www.goodreads.com/review/show/5867444073?utm_medium=api&utm_source=rss) by Helen Beal (⭐⭐⭐)
 - [Security as Code](https://www.goodreads.com/review/show/5806158519?utm_medium=api&utm_source=rss) by Bk Sarthak Das (⭐⭐⭐⭐)
 - [Flores para Algernon](https://www.goodreads.com/review/show/2742383823?utm_medium=api&utm_source=rss) by Daniel Keyes (⭐⭐⭐⭐)
-- [Static Stability Using Availability Zones](https://www.goodreads.com/review/show/5758571531?utm_medium=api&utm_source=rss) by Amazon Builders&apos; Library (⭐⭐⭐⭐⭐)
 <!-- READ_LIST:END -->
 
 ### Lendo atualmente... 📚
