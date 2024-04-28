@@ -320,7 +320,7 @@
 
 <!-- READING_LIST:START -->
 - [Extremely Online: The Untold Story of Fame, Influence, and Power on the Internet](https://www.goodreads.com/review/show/6208194853?utm_medium=api&utm_source=rss) by Taylor Lorenz (⭐️ 3.62)
-- [The Value Flywheel Effect: Power the Future and Accelerate Your Organization to the Modern Cloud](https://www.goodreads.com/review/show/5186015203?utm_medium=api&utm_source=rss) by David Anderson (⭐️ 3.74)
+- [The Value Flywheel Effect: Power the Future and Accelerate Your Organization to the Modern Cloud](https://www.goodreads.com/review/show/5186015203?utm_medium=api&utm_source=rss) by David Anderson (⭐️ 3.75)
 - [Strategic Monoliths and Microservices: Driving Innovation Using Purposeful Architecture (Addison-Wesley Signature Series (Vernon))](https://www.goodreads.com/review/show/4443438389?utm_medium=api&utm_source=rss) by Vaughn Vernon (⭐️ 4.44)
 - [The Adolescent (Vintage Classics)](https://www.goodreads.com/review/show/3907651091?utm_medium=api&utm_source=rss) by Fyodor Dostoevsky (⭐️ 3.96)
 <!-- READING_LIST:END -->
