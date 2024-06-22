@@ -304,6 +304,7 @@
 ### Últimos livros lidos 📚
 
 <!-- READ_LIST:START -->
+- [The Penguin Book of Hell (Penguin Classics)](https://www.goodreads.com/review/show/6606254392?utm_medium=api&utm_source=rss) by Scott G. Bruce (unrated)
 - [Nuclear War: A Scenario](https://www.goodreads.com/review/show/6532789846?utm_medium=api&utm_source=rss) by Annie Jacobsen (⭐⭐⭐⭐⭐)
 - [I&apos;m Glad My Mom Died](https://www.goodreads.com/review/show/6497311688?utm_medium=api&utm_source=rss) by Jennette McCurdy (⭐⭐⭐⭐⭐)
 - [Who Shot Van Gogh?: Facts and Counterfacts About the World?s Most Famous Artist](https://www.goodreads.com/review/show/6459887043?utm_medium=api&utm_source=rss) by Alan Turnbull (⭐⭐⭐⭐⭐)
@@ -313,7 +314,6 @@
 - [Number Go Up: Inside Crypto's Wild Rise and Staggering Fall](https://www.goodreads.com/review/show/6163056510?utm_medium=api&utm_source=rss) by Zeke Faux (⭐⭐⭐⭐⭐)
 - [Infinite Fictions: Essays on Literature and Theory](https://www.goodreads.com/review/show/5920292686?utm_medium=api&utm_source=rss) by David  Winters (⭐⭐⭐⭐)
 - [Se um viajante numa noite de inverno](https://www.goodreads.com/review/show/2786441536?utm_medium=api&utm_source=rss) by Italo Calvino (⭐⭐⭐⭐⭐)
-- [Investments Unlimited: A Novel About DevOps, Security, Audit Compliance, and Thriving in the Digital Age](https://www.goodreads.com/review/show/5867444073?utm_medium=api&utm_source=rss) by Helen Beal (⭐⭐⭐)
 <!-- READ_LIST:END -->
 
 ### Lendo atualmente... 📚
