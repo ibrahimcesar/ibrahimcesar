@@ -304,6 +304,7 @@
 ### Últimos livros lidos 📚
 
 <!-- READ_LIST:START -->
+- [Engineering Resilient Systems on AWS: Design, Build, and Test for Resilience](https://www.goodreads.com/review/show/6767993308?utm_medium=api&utm_source=rss) by Kevin Schwarz (⭐⭐⭐⭐⭐)
 - [The Penguin Book of Hell (Penguin Classics)](https://www.goodreads.com/review/show/6606254392?utm_medium=api&utm_source=rss) by Scott G. Bruce (unrated)
 - [Nuclear War: A Scenario](https://www.goodreads.com/review/show/6532789846?utm_medium=api&utm_source=rss) by Annie Jacobsen (⭐⭐⭐⭐⭐)
 - [I&apos;m Glad My Mom Died](https://www.goodreads.com/review/show/6497311688?utm_medium=api&utm_source=rss) by Jennette McCurdy (⭐⭐⭐⭐⭐)
@@ -313,7 +314,6 @@
 - [Bottoms Up and the Devil Laughs: A Journey Through the Deep State](https://www.goodreads.com/review/show/6202202644?utm_medium=api&utm_source=rss) by Kerry Howley (⭐⭐⭐⭐⭐)
 - [Number Go Up: Inside Crypto's Wild Rise and Staggering Fall](https://www.goodreads.com/review/show/6163056510?utm_medium=api&utm_source=rss) by Zeke Faux (⭐⭐⭐⭐⭐)
 - [Infinite Fictions: Essays on Literature and Theory](https://www.goodreads.com/review/show/5920292686?utm_medium=api&utm_source=rss) by David  Winters (⭐⭐⭐⭐)
-- [Se um viajante numa noite de inverno](https://www.goodreads.com/review/show/2786441536?utm_medium=api&utm_source=rss) by Italo Calvino (⭐⭐⭐⭐⭐)
 <!-- READ_LIST:END -->
 
 ### Lendo atualmente... 📚
