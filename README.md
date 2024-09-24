@@ -304,6 +304,7 @@
 ### Últimos livros lidos 📚
 
 <!-- READ_LIST:START -->
+- [Admirável Mundo Novo](https://www.goodreads.com/review/show/2729731299?utm_medium=api&utm_source=rss) by Aldous Huxley (unrated)
 - [Engineering Resilient Systems on AWS: Design, Build, and Test for Resilience](https://www.goodreads.com/review/show/6767993308?utm_medium=api&utm_source=rss) by Kevin Schwarz (⭐⭐⭐⭐⭐)
 - [The Penguin Book of Hell (Penguin Classics)](https://www.goodreads.com/review/show/6606254392?utm_medium=api&utm_source=rss) by Scott G. Bruce (unrated)
 - [Nuclear War: A Scenario](https://www.goodreads.com/review/show/6532789846?utm_medium=api&utm_source=rss) by Annie Jacobsen (⭐⭐⭐⭐⭐)
@@ -313,7 +314,6 @@
 - [Getting Started with Enterprise Architecture: A Practical and Pragmatic Approach to Learning the Basics of Enterprise Architecture](https://www.goodreads.com/review/show/6205295678?utm_medium=api&utm_source=rss) by Eric  Jager (⭐⭐⭐)
 - [Bottoms Up and the Devil Laughs: A Journey Through the Deep State](https://www.goodreads.com/review/show/6202202644?utm_medium=api&utm_source=rss) by Kerry Howley (⭐⭐⭐⭐⭐)
 - [Number Go Up: Inside Crypto's Wild Rise and Staggering Fall](https://www.goodreads.com/review/show/6163056510?utm_medium=api&utm_source=rss) by Zeke Faux (⭐⭐⭐⭐⭐)
-- [Infinite Fictions: Essays on Literature and Theory](https://www.goodreads.com/review/show/5920292686?utm_medium=api&utm_source=rss) by David  Winters (⭐⭐⭐⭐)
 <!-- READ_LIST:END -->
 
 ### Lendo atualmente... 📚
