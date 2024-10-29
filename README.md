@@ -319,7 +319,7 @@
 ### Lendo atualmente... 📚
 
 <!-- READING_LIST:START -->
-- [All Things Are Too Small: Essays in Praise of Excess](https://www.goodreads.com/review/show/6888615751?utm_medium=api&utm_source=rss) by Becca Rothfeld (⭐️ 3.71)
+- [All Things Are Too Small: Essays in Praise of Excess](https://www.goodreads.com/review/show/6888615751?utm_medium=api&utm_source=rss) by Becca Rothfeld (⭐️ 3.7)
 - [Extremely Online: The Untold Story of Fame, Influence, and Power on the Internet](https://www.goodreads.com/review/show/6208194853?utm_medium=api&utm_source=rss) by Taylor Lorenz (⭐️ 3.59)
 - [The Value Flywheel Effect: Power the Future and Accelerate Your Organization to the Modern Cloud](https://www.goodreads.com/review/show/5186015203?utm_medium=api&utm_source=rss) by David Anderson (⭐️ 3.72)
 - [Strategic Monoliths and Microservices: Driving Innovation Using Purposeful Architecture (Addison-Wesley Signature Series (Vernon))](https://www.goodreads.com/review/show/4443438389?utm_medium=api&utm_source=rss) by Vaughn Vernon (⭐️ 4.42)
