@@ -304,6 +304,7 @@
 ### Últimos livros lidos 📚
 
 <!-- READ_LIST:START -->
+- [A ilha de Sacalina (Portuguese Edition)](https://www.goodreads.com/review/show/2723308042?utm_medium=api&utm_source=rss) by Anton Chekhov (unrated)
 - [Character Limit: How Elon Musk Destroyed Twitter](https://www.goodreads.com/review/show/6941855500?utm_medium=api&utm_source=rss) by Kate Conger (⭐⭐⭐⭐)
 - [A Jornada do Escritor: Estrutura mítica para escritores](https://www.goodreads.com/review/show/2739507708?utm_medium=api&utm_source=rss) by Christopher Vogler (unrated)
 - [Clarkesworld Magazine, Issue 40, January 2010](https://www.goodreads.com/review/show/6885920090?utm_medium=api&utm_source=rss) by Neil Clarke (⭐⭐⭐⭐⭐)
@@ -313,7 +314,6 @@
 - [Nuclear War: A Scenario](https://www.goodreads.com/review/show/6532789846?utm_medium=api&utm_source=rss) by Annie Jacobsen (⭐⭐⭐⭐⭐)
 - [I&apos;m Glad My Mom Died](https://www.goodreads.com/review/show/6497311688?utm_medium=api&utm_source=rss) by Jennette McCurdy (⭐⭐⭐⭐⭐)
 - [Who Shot Van Gogh?: Facts and Counterfacts About the World?s Most Famous Artist](https://www.goodreads.com/review/show/6459887043?utm_medium=api&utm_source=rss) by Alan Turnbull (⭐⭐⭐⭐⭐)
-- [Blindsight (Firefall, #1)](https://www.goodreads.com/review/show/6426234929?utm_medium=api&utm_source=rss) by Peter Watts (⭐⭐⭐⭐)
 <!-- READ_LIST:END -->
 
 ### Lendo atualmente... 📚
