@@ -1,6 +1,6 @@
 <div align="center">
     
- # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="42"> olá • hello • hola • ciao • こんにちは • 你好 • добрий день
+ # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="42"> olá • hello • hola • ciao • こんにちは • 你好 • добрый день
 
 </div>
 
