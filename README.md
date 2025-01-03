@@ -319,7 +319,6 @@
 ### Lendo atualmente... 📚
 
 <!-- READING_LIST:START -->
-- [Anti-Oedipus: Capitalism and Schizophrenia](https://www.goodreads.com/review/show/7104027618?utm_medium=api&utm_source=rss) by Gilles Deleuze (⭐️ 4.16)
 - [Os Demônios](https://www.goodreads.com/review/show/2723276513?utm_medium=api&utm_source=rss) by Fyodor Dostoevsky (⭐️ 4.44)
 - [All Things Are Too Small: Essays in Praise of Excess](https://www.goodreads.com/review/show/6888615751?utm_medium=api&utm_source=rss) by Becca Rothfeld (⭐️ 3.67)
 - [Extremely Online: The Untold Story of Fame, Influence, and Power on the Internet](https://www.goodreads.com/review/show/6208194853?utm_medium=api&utm_source=rss) by Taylor Lorenz (⭐️ 3.58)
