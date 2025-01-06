@@ -304,6 +304,7 @@
 ### Últimos livros lidos 📚
 
 <!-- READ_LIST:START -->
+- [All Fours](https://www.goodreads.com/review/show/7182308597?utm_medium=api&utm_source=rss) by Miranda July (⭐)
 - [Anti-Oedipus: Capitalism and Schizophrenia](https://www.goodreads.com/review/show/7104027618?utm_medium=api&utm_source=rss) by Gilles Deleuze (⭐⭐⭐⭐⭐)
 - [The Adolescent (Vintage Classics)](https://www.goodreads.com/review/show/3907651091?utm_medium=api&utm_source=rss) by Fyodor Dostoevsky (⭐⭐⭐⭐)
 - [A ilha de Sacalina (Portuguese Edition)](https://www.goodreads.com/review/show/2723308042?utm_medium=api&utm_source=rss) by Anton Chekhov (unrated)
@@ -313,7 +314,6 @@
 - [Admirável Mundo Novo](https://www.goodreads.com/review/show/2729731299?utm_medium=api&utm_source=rss) by Aldous Huxley (unrated)
 - [Engineering Resilient Systems on AWS: Design, Build, and Test for Resilience](https://www.goodreads.com/review/show/6767993308?utm_medium=api&utm_source=rss) by Kevin Schwarz (⭐⭐⭐⭐⭐)
 - [The Penguin Book of Hell (Penguin Classics)](https://www.goodreads.com/review/show/6606254392?utm_medium=api&utm_source=rss) by Scott G. Bruce (unrated)
-- [Nuclear War: A Scenario](https://www.goodreads.com/review/show/6532789846?utm_medium=api&utm_source=rss) by Annie Jacobsen (⭐⭐⭐⭐⭐)
 <!-- READ_LIST:END -->
 
 ### Lendo atualmente... 📚
