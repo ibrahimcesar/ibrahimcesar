@@ -304,6 +304,7 @@
 ### Últimos livros lidos 📚
 
 <!-- READ_LIST:START -->
+- [Juice: A History of Female Ejaculation](https://www.goodreads.com/review/show/7280973380?utm_medium=api&utm_source=rss) by Stephanie Haerdle (⭐⭐⭐⭐)
 - [All Fours](https://www.goodreads.com/review/show/7182308597?utm_medium=api&utm_source=rss) by Miranda July (⭐)
 - [Anti-Oedipus: Capitalism and Schizophrenia](https://www.goodreads.com/review/show/7104027618?utm_medium=api&utm_source=rss) by Gilles Deleuze (⭐⭐⭐⭐⭐)
 - [The Adolescent (Vintage Classics)](https://www.goodreads.com/review/show/3907651091?utm_medium=api&utm_source=rss) by Fyodor Dostoevsky (⭐⭐⭐⭐)
@@ -313,7 +314,6 @@
 - [Clarkesworld Magazine, Issue 40, January 2010](https://www.goodreads.com/review/show/6885920090?utm_medium=api&utm_source=rss) by Neil Clarke (⭐⭐⭐⭐⭐)
 - [Admirável Mundo Novo](https://www.goodreads.com/review/show/2729731299?utm_medium=api&utm_source=rss) by Aldous Huxley (unrated)
 - [Engineering Resilient Systems on AWS: Design, Build, and Test for Resilience](https://www.goodreads.com/review/show/6767993308?utm_medium=api&utm_source=rss) by Kevin Schwarz (⭐⭐⭐⭐⭐)
-- [The Penguin Book of Hell (Penguin Classics)](https://www.goodreads.com/review/show/6606254392?utm_medium=api&utm_source=rss) by Scott G. Bruce (unrated)
 <!-- READ_LIST:END -->
 
 ### Lendo atualmente... 📚
