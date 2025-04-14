@@ -319,7 +319,7 @@
 ### Lendo atualmente... 📚
 
 <!-- READING_LIST:START -->
-- [Os Demônios](https://www.goodreads.com/review/show/2723276513?utm_medium=api&utm_source=rss) by Fyodor Dostoevsky (⭐️ 4.44)
+- [Os Demônios](https://www.goodreads.com/review/show/2723276513?utm_medium=api&utm_source=rss) by Fyodor Dostoevsky (⭐️ 4.45)
 - [All Things Are Too Small: Essays in Praise of Excess](https://www.goodreads.com/review/show/6888615751?utm_medium=api&utm_source=rss) by Becca Rothfeld (⭐️ 3.6)
 - [Extremely Online: The Untold Story of Fame, Influence, and Power on the Internet](https://www.goodreads.com/review/show/6208194853?utm_medium=api&utm_source=rss) by Taylor Lorenz (⭐️ 3.58)
 - [The Value Flywheel Effect: Power the Future and Accelerate Your Organization to the Modern Cloud](https://www.goodreads.com/review/show/5186015203?utm_medium=api&utm_source=rss) by David Anderson (⭐️ 3.75)
