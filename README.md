@@ -304,6 +304,7 @@
 ### Últimos livros lidos 📚
 
 <!-- READ_LIST:START -->
+- [Blindsight (Firefall, #1)](https://www.goodreads.com/review/show/6426234929?utm_medium=api&utm_source=rss) by Peter Watts (⭐⭐⭐⭐)
 - [Juice: A History of Female Ejaculation](https://www.goodreads.com/review/show/7280973380?utm_medium=api&utm_source=rss) by Stephanie Haerdle (⭐⭐⭐⭐)
 - [All Fours](https://www.goodreads.com/review/show/7182308597?utm_medium=api&utm_source=rss) by Miranda July (⭐)
 - [Anti-Oedipus: Capitalism and Schizophrenia](https://www.goodreads.com/review/show/7104027618?utm_medium=api&utm_source=rss) by Gilles Deleuze (⭐⭐⭐⭐⭐)
@@ -313,7 +314,6 @@
 - [A Jornada do Escritor: Estrutura mítica para escritores](https://www.goodreads.com/review/show/2739507708?utm_medium=api&utm_source=rss) by Christopher Vogler (unrated)
 - [Clarkesworld Magazine, Issue 40, January 2010](https://www.goodreads.com/review/show/6885920090?utm_medium=api&utm_source=rss) by Neil Clarke (⭐⭐⭐⭐⭐)
 - [Admirável Mundo Novo](https://www.goodreads.com/review/show/2729731299?utm_medium=api&utm_source=rss) by Aldous Huxley (unrated)
-- [Engineering Resilient Systems on AWS: Design, Build, and Test for Resilience](https://www.goodreads.com/review/show/6767993308?utm_medium=api&utm_source=rss) by Kevin Schwarz (⭐⭐⭐⭐⭐)
 <!-- READ_LIST:END -->
 
 ### Lendo atualmente... 📚
