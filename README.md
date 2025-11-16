@@ -36,8 +36,10 @@ I bridge the gap between business vision and technical reality—diving deep int
 
 ## 🏆 AWS Certifications & Credentials
 
+
+
 <details open>
-<summary><b>🎓 Professional Certifications</b></summary>
+<summary><b>🎓 Professional & Specialty Certifications</b></summary>
 <br>
 <p align="center">
 <a
@@ -66,6 +68,12 @@ I bridge the gap between business vision and technical reality—diving deep int
       src="https://user-images.githubusercontent.com/509054/195915470-c99aa7c9-9e5e-48e4-8e48-f7a76be042ae.png"
       alt="AWS Certified Data Analytics – Specialty"
       width="100px" />
+</a>
+<a
+   href="https://www.credly.com/badges/3489f3ba-6b26-420e-a38a-d7a26e0f50dc/public_url"
+   target="_blank"
+   title="AWS Certified Data Analytics – Specialty">
+   <img width="100" height="100" alt="AWS Certified Data Analytics – Specialty" src="https://github.com/user-attachments/assets/57a0cd78-0a35-4701-a028-993dde96cc6f" />
 </a>
 </p>
 </details>
