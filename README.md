@@ -61,6 +61,15 @@ I bridge the gap between business vision and technical reality—diving deep int
       width="100px" />
 </a>
 <a
+   href="https://www.credly.com/badges/b46e75f0-3838-4133-b62f-8eecf4338b81/public_url"
+   target="_blank"
+   title="AWS Certified Security – Specialty">
+   <img
+      src="https://github.com/user-attachments/assets/19220a01-5fb6-47c2-932f-10e24a35c859"
+      alt="AWS Certified Security – Specialty"
+      width="100px" />
+</a>
+<a
    href="https://www.credly.com/badges/a229e88f-f0b5-46fe-be56-ac2f1d884c29/public_url"
    target="_blank"
    title="AWS Certified Data Analytics – Specialty">
