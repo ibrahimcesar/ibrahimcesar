@@ -433,7 +433,7 @@ I'm an avid reader with interests spanning technology, philosophy, and literatur
 - 📚 **Favorite Book**: _Anna Karenina_ by Leo Tolstoy
 - 🎨 **Art**: Big fan of Van Gogh
 - 🤔 **Philosophy**: Aligned with Object-Oriented Ontology (OOO) by Graham Harman - _not related to OOP in programming!_
-- 🎮 **Gaming**: 2,775 hours accumulated in Animal Crossing: New Horizons (as of Nov 2023)
+- 🎮 **Gaming**: 4,015 hours accumulated in Animal Crossing: New Horizons (as of Nov 2025)
 - 🗣️ **Pronunciation**: /ɪ́brəhɪjm/ (ee-brah-HEEM)
 - 🏳️ **Pronouns**: Ele/dele (He/him)
 
