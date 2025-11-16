@@ -48,7 +48,7 @@ I bridge the gap between business vision and technical reality—diving deep int
       src="https://user-images.githubusercontent.com/509054/163974327-950cf4d2-2f66-4a3c-b0de-2d043e97da98.png"
       alt="AWS Certified Solutions Architect – Professional"
       width="100px" />
-</a>&nbsp; &nbsp;
+</a>
 <a
    href="https://www.credly.com/badges/9d0b63e9-dc89-432c-b4cd-57342fb6e294/public_url"
    target="_blank"
@@ -57,7 +57,7 @@ I bridge the gap between business vision and technical reality—diving deep int
       src="https://github.com/ibrahimcesar/ibrahimcesar/assets/509054/d47565df-d99a-4759-a4eb-e81066296635"
       alt="AWS Certified DevOps Engineer – Professional"
       width="100px" />
-</a>&nbsp; &nbsp;
+</a>
 <a
    href="https://www.credly.com/badges/a229e88f-f0b5-46fe-be56-ac2f1d884c29/public_url"
    target="_blank"
@@ -66,7 +66,7 @@ I bridge the gap between business vision and technical reality—diving deep int
       src="https://user-images.githubusercontent.com/509054/195915470-c99aa7c9-9e5e-48e4-8e48-f7a76be042ae.png"
       alt="AWS Certified Data Analytics – Specialty"
       width="100px" />
-</a>&nbsp; &nbsp;
+</a>
 </p>
 </details>
 
