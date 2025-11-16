@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-**Enterprise Solutions Architect** at [Amazon Web Services (AWS)](https://aws.amazon.com/)
+**Cloud Optimization Solutions Architect** at [Amazon Web Services (AWS)](https://aws.amazon.com/)
 
 I help organizations design and implement scalable cloud solutions, specializing in **serverless architectures**, **event-driven systems**, and **domain-driven design**. With a deep focus on **hexagonal architecture** and modern cloud-native patterns, I bridge the gap between business requirements and technical excellence.
 
