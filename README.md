@@ -14,7 +14,7 @@ Through Well-Architected Framework Reviews, AWS Trusted Advisor, and AWS Health,
 
 I bridge the gap between business vision and technical reality—diving deep into customer challenges, applying hexagonal architecture principles, and delivering cloud-native solutions that scale.
 
-**🚀 Startup Co-Founder** • **🎤 TEDx Speaker** • **📖 Science Fiction Author** (1 book, 3 short stories) • **🩹 Proudly Autistic**
+**🩹 Startup Co-Founder** • **🎤 TEDx Speaker** • **📖 Science Fiction Author** (1 book, 3 short stories) • **🧩 Proudly Autistic**
 
 > _Opinions are my own and all code projects here are personal_
 
