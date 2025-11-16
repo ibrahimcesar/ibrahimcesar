@@ -27,10 +27,10 @@ I bridge the gap between business vision and technical reality—diving deep int
 
 ### 🌱 Currently Focused On
 
-- **Hexagonal Architecture** - Building maintainable, testable systems
-- **Domain Driven Design** - Aligning software with business domains
-- **Event-Driven Applications** - Scalable, decoupled architectures
-- **Serverless Technologies** - Leveraging AWS Lambda, API Gateway, and more
+- **Accelerate Well-Architected Best Practices** - Helping organizations effectively implement and scale cloud excellence
+- **Facilitating Software Architecture** - Empowering teams to make architectural decisions
+- **Learning Rust** - Building modern CLI tools and systems programming
+- **Learning Haskell** - Academic pursuit for MBA in Gestão Estratégica de Operações, Projetos e TI at USP | EACH
 
 ---
 
