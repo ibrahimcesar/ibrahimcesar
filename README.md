@@ -400,6 +400,8 @@ I'm an avid reader with interests spanning technology, philosophy, and literatur
 ### Recently Finished
 
 <!-- READ_LIST:START -->
+- [The Rise and Fall of the Dinosaurs: A New History of a Lost World](https://www.goodreads.com/review/show/8075354182?utm_medium=api&utm_source=rss) by Steve Brusatte (⭐⭐⭐⭐⭐)
+- [No Longer Human](https://www.goodreads.com/review/show/8075351844?utm_medium=api&utm_source=rss) by Osamu Dazai (⭐⭐⭐)
 - [Blindsight (Firefall, #1)](https://www.goodreads.com/review/show/6426234929?utm_medium=api&utm_source=rss) by Peter Watts (⭐⭐⭐⭐)
 - [Juice: A History of Female Ejaculation](https://www.goodreads.com/review/show/7280973380?utm_medium=api&utm_source=rss) by Stephanie Haerdle (⭐⭐⭐⭐)
 - [All Fours](https://www.goodreads.com/review/show/7182308597?utm_medium=api&utm_source=rss) by Miranda July (⭐)
@@ -408,8 +410,6 @@ I'm an avid reader with interests spanning technology, philosophy, and literatur
 - [A ilha de Sacalina (Portuguese Edition)](https://www.goodreads.com/review/show/2723308042?utm_medium=api&utm_source=rss) by Anton Chekhov (unrated)
 - [Character Limit: How Elon Musk Destroyed Twitter](https://www.goodreads.com/review/show/6941855500?utm_medium=api&utm_source=rss) by Kate Conger (⭐⭐⭐⭐)
 - [A Jornada do Escritor: Estrutura mítica para escritores](https://www.goodreads.com/review/show/2739507708?utm_medium=api&utm_source=rss) by Christopher Vogler (unrated)
-- [Clarkesworld Magazine, Issue 40, January 2010](https://www.goodreads.com/review/show/6885920090?utm_medium=api&utm_source=rss) by Neil Clarke (⭐⭐⭐⭐⭐)
-- [Admirável Mundo Novo](https://www.goodreads.com/review/show/2729731299?utm_medium=api&utm_source=rss) by Aldous Huxley (unrated)
 <!-- READ_LIST:END -->
 
 ### Favorite Technical Books
