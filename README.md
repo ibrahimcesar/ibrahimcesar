@@ -251,6 +251,8 @@ I'm an avid reader with interests spanning technology, philosophy, and literatur
 - [**Structure and Interpretation of Computer Programs**](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html) - _The classic that reshapes how you think about programming_
 - [**Fundamentals of Software Architecture**](https://amzn.to/2Uny6AP) by Mark Richards, Neal Ford - _Comprehensive guide to architectural thinking_
 - [**You Don't Know JS Yet**](https://github.com/getify/You-Dont-Know-JS) by Kyle Simpson - _Deep dive into JavaScript fundamentals_
+- **Team Topologies** by Matthew Skelton, Manuel Pais - _Essential guide to organizing business and technology teams for fast flow_
+- **The Rust Programming Language** by Steve Klabnik, Carol Nichols - _A very well written book that makes you smarter_
 
 ---
 
