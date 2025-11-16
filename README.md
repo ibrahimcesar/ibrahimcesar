@@ -92,14 +92,14 @@ I bridge the gap between business vision and technical reality—diving deep int
 <br>
 <p align="center">
 <a
-   href="https://www.credly.com/badges/9d0b63e9-dc89-432c-b4cd-57342fb6e294/public_url"
+   href="https://www.credly.com/badges/d657610e-f06b-4c47-9ba5-b53edd895024/public_url"
    target="_blank"
    title="AWS Certified Solutions Architect – Associate">
    <img
-      src="https://github.com/ibrahimcesar/ibrahimcesar/assets/509054/126971c4-d7e5-481a-8523-72972931531c"
+      src="https://github.com/user-attachments/assets/87c141d3-b647-4f21-8242-6695b97ab844"
       alt="AWS Certified Solutions Architect – Associate"
-      width="100px" />
-</a>&nbsp; &nbsp;
+      width="100px">
+</a>
 <a href="https://www.credly.com/badges/1bdb457f-b469-43c3-9e0e-24b221f12794/public_url"
    target="_blank"
    title="AWS Certified Developer – Associate">
@@ -107,7 +107,7 @@ I bridge the gap between business vision and technical reality—diving deep int
       src="https://user-images.githubusercontent.com/509054/187105674-b59dadfa-f5a9-44ff-a4ca-82cb33418617.png"
       alt="AWS Certified Developer – Associate"
       width="100px" />
-</a>&nbsp; &nbsp;
+</a>
 <a
    href="https://www.credly.com/badges/8213d606-c4d2-4df9-baa1-3ce313ee4f86/public_url"
    target="_blank"
@@ -116,16 +116,26 @@ I bridge the gap between business vision and technical reality—diving deep int
       src="https://user-images.githubusercontent.com/509054/198755270-0a46136f-6edd-4673-8db6-369d99b65455.png"
       alt="AWS Certified SysOps Administrator – Associate"
       width="100px">
-</a>&nbsp; &nbsp;
-<a
-   href="https://www.credly.com/badges/d1ddf3d6-95af-4246-9bb9-7e50e0530c11/public_url"
-   target="_blank"
-   title="AWS Certified Cloud Practitioner">
-   <img
-      src="https://user-images.githubusercontent.com/509054/163974726-600afdfa-d161-4013-824d-20e168dc5efc.png"
-      alt="AWS Certified Cloud Practitioner"
-      width="100px"/>
 </a>
+<a
+   href="https://www.credly.com/badges/f9501e3a-6618-4029-a9a2-e853dfb9ffb1/public_url"
+   target="_blank"
+   title="AWS Certified Machine Learning Engineer – Associate">
+   <img
+      src="https://github.com/user-attachments/assets/677eb2bf-14ea-4c0b-93ad-2acd2ab2cc2a"
+      alt="AWS Certified Machine Learning Engineer – Associate"
+      width="100px">
+</a>
+<a
+   href="https://www.credly.com/badges/da11a745-acae-4d2c-b8a3-ca41f49f072f/public_url"
+   target="_blank"
+   title="AWS Certified Data Engineer – Associate">
+   <img
+      src="https://github.com/user-attachments/assets/2780058b-123c-4412-a99e-bdb232345746"
+      alt="AWS Certified Data Engineer – Associate"
+      width="100px">
+</a>
+
 </p>
 </details>
 
