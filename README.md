@@ -6,13 +6,17 @@
 
 ## 👨‍💻 About Me
 
-**Cloud Optimization Solutions Architect** at [Amazon Web Services (AWS)](https://aws.amazon.com/)
+**Cloud Optimization Solutions Architect** at [Amazon Web Services (AWS)](https://aws.amazon.com/) — Well-Architected Team
 
-I'm passionate about empowering organizations to build better on AWS. As part of the **Well-Architected team**, I help customers optimize their cloud workloads through Framework Reviews, Trusted Advisor, and AWS Health—driving improvements in security, performance, cost efficiency, resilience, sustainability and operational excellence.
+There's nothing I love more than helping organizations transform their cloud infrastructure from good to exceptional. As part of AWS's **Well-Architected team**, I collaborate with customers worldwide to optimize their cloud workloads for security, performance, reliability, cost efficiency, resilience, sustainability, and operational excellence.
 
-With 15+ years in software engineering and cloud computing, I specialize in serverless architectures, event-driven systems, and domain-driven design. I love solving complex problems by bridging business requirements with technical innovation, applying hexagonal architecture and cloud-native patterns to deliver scalable, resilient solutions.
+Through Well-Architected Framework Reviews, AWS Trusted Advisor, and AWS Health, I identify critical improvements and drive actionable outcomes that make a real difference. My approach combines **15+ years of software engineering expertise** with a deep passion for **serverless computing**, **event-driven architectures**, and **domain-driven design**.
 
-**TEDx Speaker** • **Proudly Autistic** 🧩 • _Opinions are my own and all code projects here are personal_
+I bridge the gap between business vision and technical reality—diving deep into customer challenges, applying hexagonal architecture principles, and delivering cloud-native solutions that scale.
+
+**🚀 Startup Co-Founder** • **🎤 TEDx Speaker** • **📖 Science Fiction Author** (1 book, 3 short stories) • **🩹 Proudly Autistic**
+
+> _Opinions are my own and all code projects here are personal_
 
 ### 📫 How to Reach Me
 
