@@ -8,9 +8,11 @@
 
 **Cloud Optimization Solutions Architect** at [Amazon Web Services (AWS)](https://aws.amazon.com/)
 
-I help organizations design and implement scalable cloud solutions, specializing in **serverless architectures**, **event-driven systems**, and **domain-driven design**. With a deep focus on **hexagonal architecture** and modern cloud-native patterns, I bridge the gap between business requirements and technical excellence.
+I'm passionate about empowering organizations to build better on AWS. As part of the **Well-Architected team**, I help customers optimize their cloud workloads through Framework Reviews, Trusted Advisor, and AWS Health—driving improvements in security, performance, cost efficiency, resilience, sustainability and operational excellence.
 
-> _Opinions are my own and all code projects here are personal_
+With 15+ years in software engineering and cloud computing, I specialize in serverless architectures, event-driven systems, and domain-driven design. I love solving complex problems by bridging business requirements with technical innovation, applying hexagonal architecture and cloud-native patterns to deliver scalable, resilient solutions.
+
+**TEDx Speaker** • **Proudly Autistic** 🧩 • _Opinions are my own and all code projects here are personal_
 
 ### 📫 How to Reach Me
 
