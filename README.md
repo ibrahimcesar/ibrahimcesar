@@ -186,8 +186,9 @@ Here are some of my notable projects showcasing different aspects of cloud archi
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ibrahimcesar&repo=braziljs-lingua-da-nuvem&theme=tokyonight&hide_border=true)](https://github.com/ibrahimcesar/braziljs-lingua-da-nuvem)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ibrahimcesar&repo=estrutura-e-interpretacao-de-programas-de-computador-javascript&theme=midnight-purple&hide_border=true)](https://github.com/ibrahimcesar/estrutura-e-interpretacao-de-programas-de-computador-javascript)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ibrahimcesar&repo=react-lite-youtube-embed&theme=gotham&hide_border=true)](https://github.com/ibrahimcesar/react-lite-youtube-embed)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ibrahimcesar&repo=braziljs-lingua-da-nuvem&theme=tokyonight&hide_border=true)](https://github.com/ibrahimcesar/braziljs-lingua-da-nuvem)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ibrahimcesar&repo=blog&theme=midnight-purple&hide_border=true)](https://github.com/ibrahimcesar/blog)
 
 </div>
