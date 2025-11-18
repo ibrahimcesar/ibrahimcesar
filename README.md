@@ -158,7 +158,7 @@ I bridge the gap between business vision and technical reality—diving deep int
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Rust](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 </div>
 
@@ -172,7 +172,7 @@ I bridge the gap between business vision and technical reality—diving deep int
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimcesar&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ibrahimcesar&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ibrahimcesar&theme=tokyonight&hide_border=true)
 
 </div>
 
