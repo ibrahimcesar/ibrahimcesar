@@ -172,7 +172,7 @@ I bridge the gap between business vision and technical reality—diving deep int
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimcesar&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ibrahimcesar&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=ibrahimcesar&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
