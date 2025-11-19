@@ -170,7 +170,7 @@ I bridge the gap between business vision and technical reality—diving deep int
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibrahimcesar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimcesar&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimcesar&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&exclude_repo=ibrahimcesar&hide=html,css,scss,jupyter%20notebook,makefile,dockerfile)
 
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=ibrahimcesar&theme=tokyonight&hide_border=true)
 
