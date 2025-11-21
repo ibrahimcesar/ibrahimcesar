@@ -200,16 +200,16 @@ Here are some of my notable projects showcasing different aspects of cloud archi
 I write about cloud architecture, serverless, AWS, and software engineering on my blog. Here are my most recent posts:
 
 <!-- POSTS_LIST:START -->
-- [AWS Identity and Access Management &lpar;IAM&rpar;](https://ibrahimcesar.cloud/blog/aws-iam-identity-and-access-managament/)
-- [What is AWS Cloud Development Kit &lpar;CDK&rpar;](https://ibrahimcesar.cloud/blog/aws-cdk-guide-what-is-cdk-cloud-development-kit/)
-- [📘 #devbooks:  The Software Architect Elevator, by Gregor Hohpe](https://ibrahimcesar.cloud/blog/the-software-elevator-redefining-the-architect-role-in-the-digital-enterprise-gregor-hohpe/)
-- [Kafka on the Serverless Shore: Building event-driven applications with Kafka](https://ibrahimcesar.cloud/blog/kafka-on-the-serverless-shore/)
-- [Estou escrevendo um livro! Sobre AWS!](https://ibrahimcesar.cloud/blog/livro-aws/)
-- [Certificações AWS — Por quê e de que forma](https://ibrahimcesar.cloud/blog/certificacoes/)
-- [Top 5 technology books I read in 2021](https://ibrahimcesar.cloud/blog/top5-technology-books-2021/)
-- [Explorando trade-offs da web3](https://ibrahimcesar.cloud/blog/trade-offs-da-web3-criptomoedas-blockchains-daos/)
-- [Introdução ao Next.js](https://ibrahimcesar.cloud/blog/introducao-nextjs-ssr-isr-ssg-javascript-react-framework/)
-- [Brasil, uma Profecia e O Monstro de Mariana](https://ibrahimcesar.cloud/blog/brasil-uma-profecia-o-monstro-de-mariana-ficcao-ibrahim-cesar/)
+- [📘 #devbooks: Wiring the Winning Organization](https://ibrahimcesar.cloud/blog/wiring)
+- [AWS Identity and Access Management &lpar;IAM&rpar;](https://ibrahimcesar.cloud/blog/aws-iam-identity-and-access-managament)
+- [What is AWS Cloud Development Kit &lpar;CDK&rpar;](https://ibrahimcesar.cloud/blog/aws-cdk-guide-what-is-cdk-cloud-development-kit)
+- [📘 #devbooks:  The Software Architect Elevator, by Gregor Hohpe](https://ibrahimcesar.cloud/blog/the-software-elevator-redefining-the-architect-role-in-the-digital-enterprise-gregor-hohpe)
+- [Kafka on the Serverless Shore: Building event-driven applications with Kafka](https://ibrahimcesar.cloud/blog/kafka-on-the-serverless-shore)
+- [Estou escrevendo um livro! Sobre AWS!](https://ibrahimcesar.cloud/blog/livro-aws)
+- [Certificações AWS — Por quê e de que forma](https://ibrahimcesar.cloud/blog/certificacoes)
+- [Top 5 technology books I read in 2021](https://ibrahimcesar.cloud/blog/top5-technology-books-2021)
+- [Explorando trade-offs da web3](https://ibrahimcesar.cloud/blog/trade-offs-da-web3-criptomoedas-blockchains-daos)
+- [Introdução ao Next.js](https://ibrahimcesar.cloud/blog/introducao-nextjs-ssr-isr-ssg-javascript-react-framework)
 <!-- POSTS_LIST:END -->
 
 ---
