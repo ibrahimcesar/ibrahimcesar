@@ -291,6 +291,7 @@ I'm an avid reader with interests spanning technology, philosophy, and literatur
 - 🎮 **Gaming**: 4,015 hours accumulated in Animal Crossing: New Horizons (as of Nov 2025)
 - 🗣️ **Pronunciation**: /ɪ́brəhɪjm/ (ee-brah-HEEM)
 - 🏳️ **Pronouns**: Ele/dele (He/him)
+- 🏷️ **A.K.A**: Ibra (in Brazil) and IB (overseas / work)
 
 ---
 
