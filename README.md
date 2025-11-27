@@ -186,11 +186,11 @@ Here are some of my notable projects showcasing different aspects of cloud archi
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ibrahimcesar&repo=estrutura-e-interpretacao-de-programas-de-computador-javascript&theme=gotham&hide_border=true)](https://github.com/ibrahimcesar/estrutura-e-interpretacao-de-programas-de-computador-javascript)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ibrahimcesar&repo=async-inspect&theme=midnight-purple&hide_border=true)](https://github.com/ibrahimcesar/async-inspect)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ibrahimcesar&repo=async-inspect&theme=kacho_ga&hide_border=true)](https://github.com/ibrahimcesar/async-inspect)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=telemetry-kit&repo=async-inspect&theme=midnight-purple&hide_border=true)](https://github.com/ibrahimcesar/telemetry-kit)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ibrahimcesar&repo=telemetry-kit&theme=midnight-purple&hide_border=true)](https://github.com/ibrahimcesar/telemetry-kit)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=xcargo&repo=async-inspect&theme=midnight-purple&hide_border=true)](https://github.com/ibrahimcesar/xcargo)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ibrahimcesar&repo=xcargo&theme=codeSTACKr&hide_border=true)](https://github.com/ibrahimcesar/xcargo)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ibrahimcesar&repo=react-lite-youtube-embed&theme=kacho_ga&hide_border=true)](https://github.com/ibrahimcesar/react-lite-youtube-embed)
 
