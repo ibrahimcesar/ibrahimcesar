@@ -185,18 +185,13 @@ Here are some of my notable projects showcasing different aspects of cloud archi
 <div align="center">
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ibrahimcesar&repo=estrutura-e-interpretacao-de-programas-de-computador-javascript&theme=gotham&hide_border=true)](https://github.com/ibrahimcesar/estrutura-e-interpretacao-de-programas-de-computador-javascript)
-
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ibrahimcesar&repo=async-inspect&theme=kacho_ga&hide_border=true)](https://github.com/ibrahimcesar/async-inspect)
-
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ibrahimcesar&repo=telemetry-kit&theme=midnight-purple&hide_border=true)](https://github.com/ibrahimcesar/telemetry-kit)
-
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ibrahimcesar&repo=xcargo&theme=codeSTACKr&hide_border=true)](https://github.com/ibrahimcesar/xcargo)
-
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ibrahimcesar&repo=react-lite-youtube-embed&theme=kacho_ga&hide_border=true)](https://github.com/ibrahimcesar/react-lite-youtube-embed)
-
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ibrahimcesar&repo=braziljs-lingua-da-nuvem&theme=tokyonight&hide_border=true)](https://github.com/ibrahimcesar/braziljs-lingua-da-nuvem)
-
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ibrahimcesar&repo=blog&theme=one_dark_pro&hide_border=true)](https://github.com/ibrahimcesar/blog)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ibrahimcesar&repo=category-theory-for-the-javascript-typescript-developers&theme=noctis_minimus&hide_border=true)](https://github.com/ibrahimcesar/category-theory-for-the-javascript-typescript-developers)
 
 </div>
 
