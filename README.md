@@ -204,6 +204,8 @@ Here are some of my notable projects showcasing different aspects of cloud archi
 I write about cloud architecture, serverless, AWS, and software engineering on my blog. Here are my most recent posts:
 
 <!-- POSTS_LIST:START -->
+- [Categories of the Commons: Formalizing Open Source Governance with Mathematics](https://ibrahimcesar.cloud/blog/categories-of-the-commons-formalizing-open-source-governance)
+- [Category Theory for JavaScript/TypeScript Developers](https://ibrahimcesar.cloud/blog/category-theory-for-javascript-typescript-developers)
 - [📘 #devbooks: Wiring the Winning Organization](https://ibrahimcesar.cloud/blog/wiring)
 - [AWS Identity and Access Management &lpar;IAM&rpar;](https://ibrahimcesar.cloud/blog/aws-iam-identity-and-access-managament)
 - [What is AWS Cloud Development Kit &lpar;CDK&rpar;](https://ibrahimcesar.cloud/blog/aws-cdk-guide-what-is-cdk-cloud-development-kit)
@@ -212,8 +214,6 @@ I write about cloud architecture, serverless, AWS, and software engineering on m
 - [Estou escrevendo um livro! Sobre AWS!](https://ibrahimcesar.cloud/blog/livro-aws)
 - [Certificações AWS — Por quê e de que forma](https://ibrahimcesar.cloud/blog/certificacoes)
 - [Top 5 technology books I read in 2021](https://ibrahimcesar.cloud/blog/top5-technology-books-2021)
-- [Explorando trade-offs da web3](https://ibrahimcesar.cloud/blog/trade-offs-da-web3-criptomoedas-blockchains-daos)
-- [Introdução ao Next.js](https://ibrahimcesar.cloud/blog/introducao-nextjs-ssr-isr-ssg-javascript-react-framework)
 <!-- POSTS_LIST:END -->
 
 ---
