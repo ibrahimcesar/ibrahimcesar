@@ -204,6 +204,7 @@ Here are some of my notable projects showcasing different aspects of cloud archi
 I write about cloud architecture, serverless, AWS, and software engineering on my blog. Here are my most recent posts:
 
 <!-- POSTS_LIST:START -->
+- [Morphisms All the Way Down: API Design as Arrow-First Thinking](https://ibrahimcesar.cloud/blog/categorical-solutions-architect-part-2)
 - [The Categorical Solutions Architect: Viewing Architecture Through the Lens of Category Theory](https://ibrahimcesar.cloud/blog/categorical-solutions-architect-part-1)
 - [Categories of the Commons: Formalizing Open Source Governance with Mathematics](https://ibrahimcesar.cloud/blog/categories-of-the-commons-formalizing-open-source-governance)
 - [Category Theory for JavaScript/TypeScript Developers](https://ibrahimcesar.cloud/blog/category-theory-for-javascript-typescript-developers)
@@ -213,7 +214,6 @@ I write about cloud architecture, serverless, AWS, and software engineering on m
 - [📘 #devbooks:  The Software Architect Elevator, by Gregor Hohpe](https://ibrahimcesar.cloud/blog/the-software-elevator-redefining-the-architect-role-in-the-digital-enterprise-gregor-hohpe)
 - [Kafka on the Serverless Shore: Building event-driven applications with Kafka](https://ibrahimcesar.cloud/blog/kafka-on-the-serverless-shore)
 - [Estou escrevendo um livro! Sobre AWS!](https://ibrahimcesar.cloud/blog/livro-aws)
-- [Certificações AWS — Por quê e de que forma](https://ibrahimcesar.cloud/blog/certificacoes)
 <!-- POSTS_LIST:END -->
 
 ---
