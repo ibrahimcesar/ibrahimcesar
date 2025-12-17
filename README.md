@@ -204,6 +204,8 @@ Here are some of my notable projects showcasing different aspects of cloud archi
 I write about cloud architecture, serverless, AWS, and software engineering on my blog. Here are my most recent posts:
 
 <!-- POSTS_LIST:START -->
+- [Composition as Architectural Law: Diagnosing Integration Failures](https://ibrahimcesar.cloud/blog/categorical-solutions-architect-part-4)
+- [10 Years of AWS Well-Architected Framework: A Personal Reflection on a Living Technical Object](https://ibrahimcesar.cloud/blog/10-years-aws-well-architected-framework)
 - [The Yoneda Perspective: Systems Defined by Their Interfaces](https://ibrahimcesar.cloud/blog/categorical-solutions-architect-part-3)
 - [The Road to 3.0.0: A Real-World Case Study of AI-Powered Open Source Maintenance](https://ibrahimcesar.cloud/blog/the-road-to-300-a-real-world-case-study-of-ai-powered-open-source-maintenance)
 - [Morphisms All the Way Down: API Design as Arrow-First Thinking](https://ibrahimcesar.cloud/blog/categorical-solutions-architect-part-2)
@@ -212,8 +214,6 @@ I write about cloud architecture, serverless, AWS, and software engineering on m
 - [Category Theory for JavaScript/TypeScript Developers](https://ibrahimcesar.cloud/blog/category-theory-for-javascript-typescript-developers)
 - [📘 #devbooks: Wiring the Winning Organization](https://ibrahimcesar.cloud/blog/wiring)
 - [AWS Identity and Access Management &lpar;IAM&rpar;](https://ibrahimcesar.cloud/blog/aws-iam-identity-and-access-managament)
-- [What is AWS Cloud Development Kit &lpar;CDK&rpar;](https://ibrahimcesar.cloud/blog/aws-cdk-guide-what-is-cdk-cloud-development-kit)
-- [📘 #devbooks:  The Software Architect Elevator, by Gregor Hohpe](https://ibrahimcesar.cloud/blog/the-software-elevator-redefining-the-architect-role-in-the-digital-enterprise-gregor-hohpe)
 <!-- POSTS_LIST:END -->
 
 ---
