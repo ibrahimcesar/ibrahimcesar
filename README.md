@@ -204,6 +204,7 @@ Here are some of my notable projects showcasing different aspects of cloud archi
 I write about cloud architecture, serverless, AWS, and software engineering on my blog. Here are my most recent posts:
 
 <!-- POSTS_LIST:START -->
+- [Como LLMs Funcionam: A Jornada do Texto ao Token &lpar;e de Volta&rpar;](https://ibrahimcesar.cloud/blog/como-llms-funcionam-do-texto-ao-token)
 - [Composition as Architectural Law: Diagnosing Integration Failures](https://ibrahimcesar.cloud/blog/categorical-solutions-architect-part-4)
 - [10 Years of AWS Well-Architected Framework: A Personal Reflection on a Living Technical Object](https://ibrahimcesar.cloud/blog/10-years-aws-well-architected-framework)
 - [The Yoneda Perspective: Systems Defined by Their Interfaces](https://ibrahimcesar.cloud/blog/categorical-solutions-architect-part-3)
@@ -213,7 +214,6 @@ I write about cloud architecture, serverless, AWS, and software engineering on m
 - [Categories of the Commons: Formalizing Open Source Governance with Mathematics](https://ibrahimcesar.cloud/blog/categories-of-the-commons-formalizing-open-source-governance)
 - [Category Theory for JavaScript/TypeScript Developers](https://ibrahimcesar.cloud/blog/category-theory-for-javascript-typescript-developers)
 - [📘 #devbooks: Wiring the Winning Organization](https://ibrahimcesar.cloud/blog/wiring)
-- [AWS Identity and Access Management &lpar;IAM&rpar;](https://ibrahimcesar.cloud/blog/aws-iam-identity-and-access-managament)
 <!-- POSTS_LIST:END -->
 
 ---
