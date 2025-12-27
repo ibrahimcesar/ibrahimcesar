@@ -204,6 +204,9 @@ Here are some of my notable projects showcasing different aspects of cloud archi
 I write about cloud architecture, serverless, AWS, and software engineering on my blog. Here are my most recent posts:
 
 <!-- POSTS_LIST:START -->
+- [Natural Transformations: Coherent Change Across Systems](https://ibrahimcesar.cloud/blog/categorical-solutions-architect-part-6)
+- [Grok and the Naked King: The Ultimate Argument Against AI Alignment](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king)
+- [Functors: The Mathematics of Migration](https://ibrahimcesar.cloud/blog/categorical-solutions-architect-part-5)
 - [Como LLMs Funcionam: A Jornada do Texto ao Token &lpar;e de Volta&rpar;](https://ibrahimcesar.cloud/blog/como-llms-funcionam-do-texto-ao-token)
 - [Why Your Services Don&#39;t Compose: A Diagnostic Framework for Integration Failures](https://ibrahimcesar.cloud/blog/why-your-services-dont-compose)
 - [Composition as Architectural Law: Diagnosing Integration Failures](https://ibrahimcesar.cloud/blog/categorical-solutions-architect-part-4)
@@ -211,9 +214,6 @@ I write about cloud architecture, serverless, AWS, and software engineering on m
 - [The Yoneda Perspective: Systems Defined by Their Interfaces](https://ibrahimcesar.cloud/blog/categorical-solutions-architect-part-3)
 - [The Road to 3.0.0: A Real-World Case Study of AI-Powered Open Source Maintenance](https://ibrahimcesar.cloud/blog/the-road-to-300-a-real-world-case-study-of-ai-powered-open-source-maintenance)
 - [Morphisms All the Way Down: API Design as Arrow-First Thinking](https://ibrahimcesar.cloud/blog/categorical-solutions-architect-part-2)
-- [The Categorical Solutions Architect: Viewing Architecture Through the Lens of Category Theory](https://ibrahimcesar.cloud/blog/categorical-solutions-architect-part-1)
-- [Categories of the Commons: Formalizing Open Source Governance with Mathematics](https://ibrahimcesar.cloud/blog/categories-of-the-commons-formalizing-open-source-governance)
-- [Category Theory for JavaScript/TypeScript Developers](https://ibrahimcesar.cloud/blog/category-theory-for-javascript-typescript-developers)
 <!-- POSTS_LIST:END -->
 
 ---
