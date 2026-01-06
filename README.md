@@ -236,6 +236,7 @@ I'm an avid reader with interests spanning technology, philosophy, and literatur
 ### Recently Finished
 
 <!-- READ_LIST:START -->
+- [The Crying of Lot 49](https://www.goodreads.com/review/show/8228881653?utm_medium=api&utm_source=rss) by Thomas Pynchon (⭐⭐⭐)
 - [The Rise and Fall of the Dinosaurs: A New History of a Lost World](https://www.goodreads.com/review/show/8075354182?utm_medium=api&utm_source=rss) by Steve Brusatte (⭐⭐⭐⭐⭐)
 - [No Longer Human](https://www.goodreads.com/review/show/8075351844?utm_medium=api&utm_source=rss) by Osamu Dazai (⭐⭐⭐)
 - [Blindsight (Firefall, #1)](https://www.goodreads.com/review/show/6426234929?utm_medium=api&utm_source=rss) by Peter Watts (⭐⭐⭐⭐)
@@ -245,7 +246,6 @@ I'm an avid reader with interests spanning technology, philosophy, and literatur
 - [The Adolescent (Vintage Classics)](https://www.goodreads.com/review/show/3907651091?utm_medium=api&utm_source=rss) by Fyodor Dostoevsky (⭐⭐⭐⭐)
 - [A ilha de Sacalina (Portuguese Edition)](https://www.goodreads.com/review/show/2723308042?utm_medium=api&utm_source=rss) by Anton Chekhov (unrated)
 - [Character Limit: How Elon Musk Destroyed Twitter](https://www.goodreads.com/review/show/6941855500?utm_medium=api&utm_source=rss) by Kate Conger (⭐⭐⭐⭐)
-- [A Jornada do Escritor: Estrutura mítica para escritores](https://www.goodreads.com/review/show/2739507708?utm_medium=api&utm_source=rss) by Christopher Vogler (unrated)
 <!-- READ_LIST:END -->
 
 ### Favorite Technical Books
