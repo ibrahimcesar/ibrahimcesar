@@ -213,7 +213,7 @@ I write about cloud architecture, serverless, AWS, and software engineering on m
 - [10 Years of AWS Well-Architected Framework: A Personal Reflection on a Living Technical Object](https://ibrahimcesar.cloud/blog/10-years-aws-well-architected-framework)
 - [The Yoneda Perspective: Systems Defined by Their Interfaces](https://ibrahimcesar.cloud/blog/categorical-solutions-architect-part-3)
 - [The Road to 3.0.0: A Real-World Case Study of AI-Powered Open Source Maintenance](https://ibrahimcesar.cloud/blog/the-road-to-300-a-real-world-case-study-of-ai-powered-open-source-maintenance)
-- [Morphisms All the Way Down: API Design as Arrow-First Thinking](https://ibrahimcesar.cloud/blog/categorical-solutions-architect-part-2)
+- [Equivalence of Categories: When Different Architectures Are &#39;The Same&#39;](https://ibrahimcesar.cloud/blog/categorical-solutions-architect-part-7)
 <!-- POSTS_LIST:END -->
 
 ---
