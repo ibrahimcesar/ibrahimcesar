@@ -236,6 +236,7 @@ I'm an avid reader with interests spanning technology, philosophy, and literatur
 ### Recently Finished
 
 <!-- READ_LIST:START -->
+- [Água Viva](https://www.goodreads.com/review/show/8266457876?utm_medium=api&utm_source=rss) by Clarice Lispector (⭐⭐⭐⭐⭐)
 - [The Crying of Lot 49](https://www.goodreads.com/review/show/8228881653?utm_medium=api&utm_source=rss) by Thomas Pynchon (⭐⭐⭐)
 - [The Rise and Fall of the Dinosaurs: A New History of a Lost World](https://www.goodreads.com/review/show/8075354182?utm_medium=api&utm_source=rss) by Steve Brusatte (⭐⭐⭐⭐⭐)
 - [No Longer Human](https://www.goodreads.com/review/show/8075351844?utm_medium=api&utm_source=rss) by Osamu Dazai (⭐⭐⭐)
@@ -245,7 +246,6 @@ I'm an avid reader with interests spanning technology, philosophy, and literatur
 - [Anti-Oedipus: Capitalism and Schizophrenia](https://www.goodreads.com/review/show/7104027618?utm_medium=api&utm_source=rss) by Gilles Deleuze (⭐⭐⭐⭐⭐)
 - [The Adolescent (Vintage Classics)](https://www.goodreads.com/review/show/3907651091?utm_medium=api&utm_source=rss) by Fyodor Dostoevsky (⭐⭐⭐⭐)
 - [A ilha de Sacalina (Portuguese Edition)](https://www.goodreads.com/review/show/2723308042?utm_medium=api&utm_source=rss) by Anton Chekhov (unrated)
-- [Character Limit: How Elon Musk Destroyed Twitter](https://www.goodreads.com/review/show/6941855500?utm_medium=api&utm_source=rss) by Kate Conger (⭐⭐⭐⭐)
 <!-- READ_LIST:END -->
 
 ### Favorite Technical Books
