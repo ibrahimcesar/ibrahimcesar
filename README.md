@@ -61,6 +61,15 @@ I bridge the gap between business vision and technical reality—diving deep int
       width="100px" />
 </a>
 <a
+   href="https://www.credly.com/badges/1f645743-bcba-4168-8e86-1ec1c88af86e/public_url"
+   target="_blank"
+   title="AWS Certified Generative AI Developer - Professional">
+   <img
+      src="https://github.com/user-attachments/assets/a4b01e46-4ef0-43e5-bd92-5bb35e0d2ad4"
+      alt="AWS Certified Generative AI Developer - Professional"
+      width="100px" />
+</a>
+<a
    href="https://www.credly.com/badges/b46e75f0-3838-4133-b62f-8eecf4338b81/public_url"
    target="_blank"
    title="AWS Certified Security – Specialty">
