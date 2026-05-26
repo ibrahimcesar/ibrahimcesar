@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-**Cloud Optimization Solutions Architect** at [Amazon Web Services (AWS)](https://aws.amazon.com/) — Well-Architected Team
+**Well-Architected Solutions Architect** at [Amazon Web Services (AWS)](https://aws.amazon.com/)
 
 There's nothing I love more than helping organizations transform their cloud infrastructure from good to exceptional. As part of AWS's **Well-Architected team**, I collaborate with customers worldwide to optimize their cloud workloads for security, performance, reliability, cost efficiency, resilience, sustainability, and operational excellence.
 
