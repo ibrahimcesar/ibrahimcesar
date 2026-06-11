@@ -245,6 +245,8 @@ I'm an avid reader with interests spanning technology, philosophy, and literatur
 ### Recently Finished
 
 <!-- READ_LIST:START -->
+- [Ficção científica capitalista: Como os bilionários nos salvarão do fim do mundo](https://www.goodreads.com/review/show/8648329945?utm_medium=api&utm_source=rss) by Michel Nieva (⭐⭐⭐)
+- [Meridiano de sangre](https://www.goodreads.com/review/show/8648327862?utm_medium=api&utm_source=rss) by Cormac McCarthy (⭐⭐⭐⭐)
 - [Hillbilly Elegy: A Memoir of a Family and Culture in Crisis](https://www.goodreads.com/review/show/8529349527?utm_medium=api&utm_source=rss) by J.D. Vance (⭐)
 - [The Better Angels of Our Nature: Why Violence Has Declined](https://www.goodreads.com/review/show/1102677993?utm_medium=api&utm_source=rss) by Steven Pinker (unrated)
 - [O Grande Deus Pã](https://www.goodreads.com/review/show/8271872820?utm_medium=api&utm_source=rss) by Arthur Machen (⭐⭐⭐)
@@ -253,8 +255,6 @@ I'm an avid reader with interests spanning technology, philosophy, and literatur
 - [The Rise and Fall of the Dinosaurs: A New History of a Lost World](https://www.goodreads.com/review/show/8075354182?utm_medium=api&utm_source=rss) by Steve Brusatte (⭐⭐⭐⭐⭐)
 - [No Longer Human](https://www.goodreads.com/review/show/8075351844?utm_medium=api&utm_source=rss) by Osamu Dazai (⭐⭐⭐)
 - [Blindsight (Firefall, #1)](https://www.goodreads.com/review/show/6426234929?utm_medium=api&utm_source=rss) by Peter Watts (⭐⭐⭐⭐)
-- [Juice: A History of Female Ejaculation](https://www.goodreads.com/review/show/7280973380?utm_medium=api&utm_source=rss) by Stephanie Haerdle (⭐⭐⭐⭐)
-- [All Fours](https://www.goodreads.com/review/show/7182308597?utm_medium=api&utm_source=rss) by Miranda July (⭐)
 <!-- READ_LIST:END -->
 
 ### Favorite Technical Books
