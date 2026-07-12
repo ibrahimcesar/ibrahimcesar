@@ -93,8 +93,15 @@ I bridge the gap between business vision and technical reality—diving deep int
    title="AWS Certified Data Analytics – Specialty">
    <img width="100" height="100" alt="AWS Certified Data Analytics – Specialty" src="https://github.com/user-attachments/assets/57a0cd78-0a35-4701-a028-993dde96cc6f" />
 </a>
+   <a
+   href="https://www.credly.com/badges/4a3675c7-8f8b-4dee-822e-6d1c5f281d76/public_url"
+   target="_blank"
+   title="AWS Certified Advanced Networking – Specialty">
+   <img width="100" height="100" alt="AWS Certified Advanced Networking – Specialty" src="https://github.com/user-attachments/assets/843dea69-1dff-47bd-a4c6-2a1309d28bd6" />
+</a>
 </p>
 </details>
+
 
 <details>
 <summary><b>🎯 Associate Certifications</b></summary>
