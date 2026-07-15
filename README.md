@@ -220,6 +220,7 @@ Here are some of my notable projects showcasing different aspects of cloud archi
 I write about cloud architecture, serverless, AWS, and software engineering on my blog. Here are my most recent posts:
 
 <!-- POSTS_LIST:START -->
+- [How We Taught Kiro the AWS Well-Architected Framework — and Measured Whether It Actually Worked](https://ibrahimcesar.cloud/blog/how-we-taught-kiro-the-aws-well-architected-framework)
 - [Natural Transformations: Coherent Change Across Systems](https://ibrahimcesar.cloud/blog/categorical-solutions-architect-part-6)
 - [Grok and the Naked King: The Ultimate Argument Against AI Alignment](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king)
 - [Functors: The Mathematics of Migration](https://ibrahimcesar.cloud/blog/categorical-solutions-architect-part-5)
@@ -229,7 +230,6 @@ I write about cloud architecture, serverless, AWS, and software engineering on m
 - [10 Years of AWS Well-Architected Framework: A Personal Reflection on a Living Technical Object](https://ibrahimcesar.cloud/blog/10-years-aws-well-architected-framework)
 - [The Yoneda Perspective: Systems Defined by Their Interfaces](https://ibrahimcesar.cloud/blog/categorical-solutions-architect-part-3)
 - [The Road to 3.0.0: A Real-World Case Study of AI-Powered Open Source Maintenance](https://ibrahimcesar.cloud/blog/the-road-to-300-a-real-world-case-study-of-ai-powered-open-source-maintenance)
-- [Equivalence of Categories: When Different Architectures Are &#39;The Same&#39;](https://ibrahimcesar.cloud/blog/categorical-solutions-architect-part-7)
 <!-- POSTS_LIST:END -->
 
 ---
