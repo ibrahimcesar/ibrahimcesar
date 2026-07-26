@@ -220,6 +220,7 @@ Here are some of my notable projects showcasing different aspects of cloud archi
 I write about cloud architecture, serverless, AWS, and software engineering on my blog. Here are my most recent posts:
 
 <!-- POSTS_LIST:START -->
+- [We Replaced the Build Layer, Not the Runtime](https://ibrahimcesar.cloud/blog/we-replaced-the-build-layer-not-the-runtime)
 - [Products and Coproducts: The Algebra of Service Composition](https://ibrahimcesar.cloud/blog/categorical-solutions-architect-part-8)
 - [Conjuramos os espíritos do computador com os nossos feitiços](https://ibrahimcesar.cloud/blog/conjuramos-os-espiritos-do-computador)
 - [How We Taught Kiro the AWS Well-Architected Framework — and Measured Whether It Actually Worked](https://ibrahimcesar.cloud/blog/how-we-taught-kiro-the-aws-well-architected-framework)
@@ -229,7 +230,6 @@ I write about cloud architecture, serverless, AWS, and software engineering on m
 - [Como LLMs Funcionam: A Jornada do Texto ao Token &lpar;e de Volta&rpar;](https://ibrahimcesar.cloud/blog/como-llms-funcionam-do-texto-ao-token)
 - [Why Your Services Don&#39;t Compose: A Diagnostic Framework for Integration Failures](https://ibrahimcesar.cloud/blog/why-your-services-dont-compose)
 - [Composition as Architectural Law: Diagnosing Integration Failures](https://ibrahimcesar.cloud/blog/categorical-solutions-architect-part-4)
-- [10 Years of AWS Well-Architected Framework: A Personal Reflection on a Living Technical Object](https://ibrahimcesar.cloud/blog/10-years-aws-well-architected-framework)
 <!-- POSTS_LIST:END -->
 
 ---
