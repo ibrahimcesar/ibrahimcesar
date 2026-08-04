@@ -220,6 +220,7 @@ Here are some of my notable projects showcasing different aspects of cloud archi
 I write about cloud architecture, serverless, AWS, and software engineering on my blog. Here are my most recent posts:
 
 <!-- POSTS_LIST:START -->
+- [Limits and Colimits: The General Theory of &#39;Best Fit&#39;](https://ibrahimcesar.cloud/blog/categorical-solutions-architect-part-10)
 - [Pullbacks and Pushouts: Integration Points That Don&#39;t Lie](https://ibrahimcesar.cloud/blog/categorical-solutions-architect-part-9)
 - [We Replaced the Build Layer, Not the Runtime](https://ibrahimcesar.cloud/blog/we-replaced-the-build-layer-not-the-runtime)
 - [Products and Coproducts: The Algebra of Service Composition](https://ibrahimcesar.cloud/blog/categorical-solutions-architect-part-8)
@@ -229,7 +230,6 @@ I write about cloud architecture, serverless, AWS, and software engineering on m
 - [Grok and the Naked King: The Ultimate Argument Against AI Alignment](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king)
 - [Functors: The Mathematics of Migration](https://ibrahimcesar.cloud/blog/categorical-solutions-architect-part-5)
 - [Como LLMs Funcionam: A Jornada do Texto ao Token &lpar;e de Volta&rpar;](https://ibrahimcesar.cloud/blog/como-llms-funcionam-do-texto-ao-token)
-- [Why Your Services Don&#39;t Compose: A Diagnostic Framework for Integration Failures](https://ibrahimcesar.cloud/blog/why-your-services-dont-compose)
 <!-- POSTS_LIST:END -->
 
 ---
