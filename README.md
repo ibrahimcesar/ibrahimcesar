@@ -220,6 +220,7 @@ Here are some of my notable projects showcasing different aspects of cloud archi
 I write about cloud architecture, serverless, AWS, and software engineering on my blog. Here are my most recent posts:
 
 <!-- POSTS_LIST:START -->
+- [Adjunctions: The Formal Structure of Trade-offs](https://ibrahimcesar.cloud/blog/categorical-solutions-architect-part-11)
 - [Limits and Colimits: The General Theory of &#39;Best Fit&#39;](https://ibrahimcesar.cloud/blog/categorical-solutions-architect-part-10)
 - [Pullbacks and Pushouts: Integration Points That Don&#39;t Lie](https://ibrahimcesar.cloud/blog/categorical-solutions-architect-part-9)
 - [We Replaced the Build Layer, Not the Runtime](https://ibrahimcesar.cloud/blog/we-replaced-the-build-layer-not-the-runtime)
@@ -229,7 +230,6 @@ I write about cloud architecture, serverless, AWS, and software engineering on m
 - [Natural Transformations: Coherent Change Across Systems](https://ibrahimcesar.cloud/blog/categorical-solutions-architect-part-6)
 - [Grok and the Naked King: The Ultimate Argument Against AI Alignment](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king)
 - [Functors: The Mathematics of Migration](https://ibrahimcesar.cloud/blog/categorical-solutions-architect-part-5)
-- [Como LLMs Funcionam: A Jornada do Texto ao Token &lpar;e de Volta&rpar;](https://ibrahimcesar.cloud/blog/como-llms-funcionam-do-texto-ao-token)
 <!-- POSTS_LIST:END -->
 
 ---
