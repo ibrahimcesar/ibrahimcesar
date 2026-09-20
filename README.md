@@ -252,6 +252,7 @@ I'm an avid reader with interests spanning technology, philosophy, and literatur
 ### Recently Finished
 
 <!-- READ_LIST:START -->
+- [Dinosaurs Rediscovered: The Scientific Revolution in Paleontology (The Rediscovered Series)](https://www.goodreads.com/review/show/8959289107?utm_medium=api&utm_source=rss) by Michael J. Benton (⭐⭐⭐⭐⭐)
 - [Ruído Branco](https://www.goodreads.com/review/show/8730885638?utm_medium=api&utm_source=rss) by Don DeLillo (⭐⭐⭐⭐)
 - [Ficção científica capitalista: Como os bilionários nos salvarão do fim do mundo](https://www.goodreads.com/review/show/8648329945?utm_medium=api&utm_source=rss) by Michel Nieva (⭐⭐⭐)
 - [Meridiano de sangre](https://www.goodreads.com/review/show/8648327862?utm_medium=api&utm_source=rss) by Cormac McCarthy (⭐⭐⭐⭐)
@@ -261,7 +262,6 @@ I'm an avid reader with interests spanning technology, philosophy, and literatur
 - [Água Viva](https://www.goodreads.com/review/show/8266457876?utm_medium=api&utm_source=rss) by Clarice Lispector (⭐⭐⭐⭐⭐)
 - [The Crying of Lot 49](https://www.goodreads.com/review/show/8228881653?utm_medium=api&utm_source=rss) by Thomas Pynchon (⭐⭐⭐)
 - [The Rise and Fall of the Dinosaurs: A New History of a Lost World](https://www.goodreads.com/review/show/8075354182?utm_medium=api&utm_source=rss) by Steve Brusatte (⭐⭐⭐⭐⭐)
-- [No Longer Human](https://www.goodreads.com/review/show/8075351844?utm_medium=api&utm_source=rss) by Osamu Dazai (⭐⭐⭐)
 <!-- READ_LIST:END -->
 
 ### Favorite Technical Books
