@@ -79,15 +79,6 @@ I bridge the gap between business vision and technical reality—diving deep int
       width="100px" />
 </a>
 <a
-   href="https://www.credly.com/badges/a229e88f-f0b5-46fe-be56-ac2f1d884c29/public_url"
-   target="_blank"
-   title="AWS Certified Data Analytics – Specialty">
-   <img
-      src="https://user-images.githubusercontent.com/509054/195915470-c99aa7c9-9e5e-48e4-8e48-f7a76be042ae.png"
-      alt="AWS Certified Data Analytics – Specialty"
-      width="100px" />
-</a>
-<a
    href="https://www.credly.com/badges/3489f3ba-6b26-420e-a38a-d7a26e0f50dc/public_url"
    target="_blank"
    title="AWS Certified Data Analytics – Specialty">
